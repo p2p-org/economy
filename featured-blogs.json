@@ -1,7 +1,4 @@
 [
-  "publish-aws-lambda-layers-serverless-framework",
-  "dynamodb-on-demand-serverless",
-  "sqquid-one-hundred-percent-serverless",
-  "api-gateway-websockets-support",
-  "serverless-twitter-camp-fire"
+  "test",
+  "test-3"
 ]
