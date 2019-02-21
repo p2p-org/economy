@@ -1,0 +1,10 @@
+# node / npm
+node_modules
+*.log
+
+# IDE stuff
+**/.idea
+
+# OS stuff
+.DS_Store
+.tmp
