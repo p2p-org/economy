@@ -1,0 +1,11 @@
+{
+  "name": "p2p",
+  "github": "https://github.com/p2p-org",
+  "twitter": "https://twitter.com/p2pvalidator",
+  "site": "https://p2p.org",
+  "avatar": "https://p2p.org/static/images/favicon.ico",
+  "bio": {
+    "short": "Good company",
+    "long": "Very good company"
+  }
+}
