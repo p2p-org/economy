@@ -8,6 +8,8 @@ category:
   - news
 authors: 
   - SlavaGusev
+company: 
+  - p2p
 ---
 
 Hello, world! We are building P2P Validator — the GUI for painless blockchain assets staking across 9+ Proof-Of-Stake networks. We support Tezos XTZ mainnet, Polkadot, Cosmos and IRISnet testnets from the beginning, and ready to take Nucypher, Dfinity and Solana on board.
