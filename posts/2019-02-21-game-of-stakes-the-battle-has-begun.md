@@ -8,6 +8,8 @@ category:
   - news
 authors: 
   - SlavaGusev
+company: 
+  - p2p
 ---
 
 Howdy, COSMOnauts,
