@@ -36,13 +36,13 @@ At Chorus One, we’re helping token holders earn interest on their holdings and
 
 This involves a few different things:
 
-****Secure & reliable infrastructure.****  We were the first validator to design a highly available architecture for Cosmos, which includes physical validator nodes using HSMs in multiple datacenter capable of signing. We’ve invested a lot in monitoring, alerting, key management to have an institutional-grade infrastructure.
+**Secure & reliable infrastructure.**  We were the first validator to design a highly available architecture for Cosmos, which includes physical validator nodes using HSMs in multiple datacenter capable of signing. We’ve invested a lot in monitoring, alerting, key management to have an institutional-grade infrastructure.
 
-****Governance.**** We have contributed to network governance in Cosmos already (e.g.  [economic design](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)) and will help steer the network in the right direction. We will also focus on helping token holders be informed about and participate in governance decisions.
+**Governance.** We have contributed to network governance in Cosmos already (e.g.  [economic design](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)) and will help steer the network in the right direction. We will also focus on helping token holders be informed about and participate in governance decisions.
 
-****Network Support.**** We are and will contribute to the development of these networks. For example, on Cosmos we contributed to the HSM support via the KMS.
+**Network Support.** We are and will contribute to the development of these networks. For example, on Cosmos we contributed to the HSM support via the KMS.
 
-****Content****. We’ve published  [content on Cosmos & PoS](https://blog.chorus.one/). Much more of that is coming down the line.
+**Content**. We’ve published  [content on Cosmos & PoS](https://blog.chorus.one/). Much more of that is coming down the line.
 
 But it might also be interesting to share a bit about our background.
 
