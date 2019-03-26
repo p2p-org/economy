@@ -1,5 +1,5 @@
 ---
-title: "Cosmos Validators Brief"- Interview with Chorus One CEO Brian Fabian Crain"
+title: "Cosmos Validators Brief- Interview with Chorus One CEO Brian Fabian Crain"
 description: "ra-ra-ra"
 date: 2019-03-20
 thumbnail: 'https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/top-3/top-3-thumbnail.png'
