@@ -8,8 +8,6 @@ category:
   - DPoS
 authors: 
   - Paul P.
-company: 
-  - Pav&Pav
 ---
 
 #Hello, World#
