@@ -1,23 +1,20 @@
-# [Serverless Blog](https://serverless.com/blog/)
-
-<a href="https://www.youtube.com/watch?v=ps1oQeg-0ss" target="_blank"><img align="right" width="411" height="241" src="https://cloud.githubusercontent.com/assets/532272/23035035/bb26026c-f432-11e6-9338-a603b8cb32b4.png"></a>
-
-Welcome to the serverless blog repo! [Contributions, typo fixes and pull requests are welcome](https://github.com/serverless/blog/new/master/post) :thumbsup:
+# [P2P Economy](https://economy.p2p.org/)
+Welcome to the P2P Economy blog repo! [Contributions, typo fixes and pull requests are welcome](https://github.com/p2p-org/economy/new/master/post) :thumbsup:
 
 ## Table of Contents
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText=Click to expand) -->
 <details>
 <summary>Click to expand</summary>
 
-- [How to contribute content](#how-to-contribute-content)
   * [1. Write your content in markdown!](#1-write-your-content-in-markdown)
   * [2. Name your post file name](#2-name-your-post-file-name)
   * [3. In your post, include post meta information:](#3-in-your-post-include-post-meta-information)
 - [Post Heading](#post-heading)
 - [Post SubSection](#post-subsection)
   * [4. Add your author bio](#4-add-your-author-bio)
-  * [5. Submit a PR to the repository](#5-submit-a-pr-to-the-repository)
-  * [6. (optional) Preview your post](#6-optional-preview-your-post)
+  * [5. Add your company](#5-add-your-company)
+  * [6. Submit a PR to the repository](#6-submit-a-pr-to-the-repository)
+  
 - [Including Custom Scripts](#including-custom-scripts)
 - [Markdown Resources](#markdown-resources)
 - [Recommended Writing Apps](#recommended-writing-apps)
@@ -25,7 +22,6 @@ Welcome to the serverless blog repo! [Contributions, typo fixes and pull request
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-## [How to contribute content](https://www.youtube.com/watch?v=ps1oQeg-0ss)
 
 ### 1. Write your content in markdown!
 
@@ -81,7 +77,7 @@ console.log('JS code')
 ```
 </pre>
 
-> Questions about formatting? [See a complete post example](https://raw.githubusercontent.com/serverless/blog/master/posts/2016-10-25-building-a-serverless-garden.md)
+> Questions about formatting? [See a complete post example] *Нужно вставить ссылку с примером
 
 ---
 
@@ -120,26 +116,34 @@ authors:
  - DavidWells # references data in authors/DavidWells.json file
 ---
 ```
+### 5. Add your Company 
 
-### 5. Submit a PR to the repository
+If you haven't created an Company in the `/company` folder. Go ahead and do that now.
 
-**Serverless team members**
+The name of the file should be the same as the name field used in the blog post meta data. Format: `Companname` (note the caps and no space!)
 
-> [click here to add a post](https://github.com/serverless/blog/new/master/post) or submit a PR.
+Example `company/P2PEconomy.json` and `P2PEconomy` in the `company` field below are the same name and capitalization.
 
-**External contributors**
-
-> Fork this repo and submit a PR. [This video guide will walk you through the process](https://www.youtube.com/watch?v=ps1oQeg-0ss)
-
-We will review and publish your post with our audience on [serverless.com](https://serverless.com/blog/) and share it all around the web!
-
-Ping us with any questions on [Twitter](http://twitter.com/goserverless) or [post an issue](https://github.com/serverless/blog/issues/new) and we will get back with you shortly.
-
+```yml
 ---
+layout: Post
+title: David's Amazing Post
+authors:
+ - DavidWells # references data in authors/DavidWells.json file
+company:
+ - P2PEconomy # references data in company/P2PEconomy.json file
+---
+```
 
-### 6. (optional) Preview your post
+### 6. Submit a PR to the repository
 
-> Curious about what your post will look like on the live site? You can preview your post by [cloning down the site repo](https://github.com/serverless/site#quick-start), installing the dependencies and running `npm start`.
+**P2P Economy team members**
+
+> [click here to add a post](https://github.com/p2p-org/economy/new/master/post) or submit a PR.
+
+We will review and publish your post with our audience on [economy.p2p.org](https://economy.p2p.org/) and share it all around the web!
+
+Ping us with any questions on [Twitter](https://twitter.com/P2Peconom) or [post an issue](https://github.com/p2p-org/economy/issues/new) and we will get back with you shortly.
 
 ---
 
@@ -147,7 +151,7 @@ Ping us with any questions on [Twitter](http://twitter.com/goserverless) or [pos
 
 The file [featured-blogs.json](./featured-blogs.json) contains a list of file names(excluding date and extension) of the blog posts to be featured on the website.
 
-If the blog file name is `2016-06-28-serverless-v1-0-alpha-release-1.md`, then the file name to be added in the `featured-blogs.json` file is: `serverless-v1-0-alpha-release-1`.
+If the blog file name is `2016-06-28-p2peconomy-v1-0-alpha-release-1.md`, then the file name to be added in the `featured-blogs.json` file is: `p2peconomy-v1-0-alpha-release-1`.
 
 The order of the file names in this file defines the order of featured posts on the website.
 
