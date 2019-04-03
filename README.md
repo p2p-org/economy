@@ -13,7 +13,6 @@ Welcome to the P2P Economy blog repo! [Contributions, typo fixes and pull reques
 - [Post SubSection](#post-subsection)
   * [4. Add your author bio](#4-add-your-author-bio)
   * [5. Submit a PR to the repository](#5-submit-a-pr-to-the-repository)
-  * [6. (optional) Preview your post](#6-optional-preview-your-post)
 - [Including Custom Scripts](#including-custom-scripts)
 - [Markdown Resources](#markdown-resources)
 - [Recommended Writing Apps](#recommended-writing-apps)
@@ -76,7 +75,7 @@ console.log('JS code')
 ```
 </pre>
 
-> Questions about formatting? [See a complete post example](https://)
+> Questions about formatting? [See a complete post example] *Нужно вставить ссылку с примером
 
 ---
 
@@ -124,13 +123,7 @@ authors:
 
 We will review and publish your post with our audience on [economy.p2p.org](https://economy.p2p.org/) and share it all around the web!
 
-Ping us with any questions on [Twitter](http://twitter.com/) or [post an issue](https://github.com/p2p-org/economy/issues/new) and we will get back with you shortly.
-
----
-
-### 6. (optional) Preview your post
-
-> Curious about what your post will look like on the live site? You can preview your post by [cloning down the site repo](https://github.com/serverless/site#quick-start), installing the dependencies and running `npm start`.
+Ping us with any questions on [Twitter](https://twitter.com/P2Peconom) or [post an issue](https://github.com/p2p-org/economy/issues/new) and we will get back with you shortly.
 
 ---
 
@@ -138,7 +131,7 @@ Ping us with any questions on [Twitter](http://twitter.com/) or [post an issue](
 
 The file [featured-blogs.json](./featured-blogs.json) contains a list of file names(excluding date and extension) of the blog posts to be featured on the website.
 
-If the blog file name is `2016-06-28-serverless-v1-0-alpha-release-1.md`, then the file name to be added in the `featured-blogs.json` file is: `serverless-v1-0-alpha-release-1`.
+If the blog file name is `2016-06-28-p2peconomy-v1-0-alpha-release-1.md`, then the file name to be added in the `featured-blogs.json` file is: `p2peconomy-v1-0-alpha-release-1`.
 
 The order of the file names in this file defines the order of featured posts on the website.
 
