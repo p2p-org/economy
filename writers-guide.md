@@ -62,16 +62,6 @@ Check out the following examples for writing inspiration:
 * [Learnings and guides](https://)
 
 
-## Creating an outline
-
-It’s helpful to organize your ideas in an outline before you start writing. Your outline will depend on the type of post you’re writing, but here are a few prompts to get you started.
-
-**Note:** These are just suggestions. Feel free to change things up to fit your needs.
-
-### How-to post
-
-*
-
 # Posting on GitHub
 
 You can post your draft to the [P2P Economy blog repo](https://github.com/p2p-org/economy/new/master/post) for editing and review. 
