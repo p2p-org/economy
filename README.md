@@ -12,7 +12,9 @@ Welcome to the P2P Economy blog repo! [Contributions, typo fixes and pull reques
 - [Post Heading](#post-heading)
 - [Post SubSection](#post-subsection)
   * [4. Add your author bio](#4-add-your-author-bio)
-  * [5. Submit a PR to the repository](#5-submit-a-pr-to-the-repository)
+  * [5. Add your company](#5-add-your-company)
+  * [6. Submit a PR to the repository](#6-submit-a-pr-to-the-repository)
+  
 - [Including Custom Scripts](#including-custom-scripts)
 - [Markdown Resources](#markdown-resources)
 - [Recommended Writing Apps](#recommended-writing-apps)
@@ -114,8 +116,26 @@ authors:
  - DavidWells # references data in authors/DavidWells.json file
 ---
 ```
+### 5. Add your Company 
 
-### 5. Submit a PR to the repository
+If you haven't created an Company in the `/company` folder. Go ahead and do that now.
+
+The name of the file should be the same as the name field used in the blog post meta data. Format: `Companname` (note the caps and no space!)
+
+Example `company/P2PEconomy.json` and `P2PEconomy` in the `company` field below are the same name and capitalization.
+
+```yml
+---
+layout: Post
+title: David's Amazing Post
+authors:
+ - DavidWells # references data in authors/DavidWells.json file
+company:
+ - P2PEconomy # references data in company/P2PEconomy.json file
+---
+```
+
+### 6. Submit a PR to the repository
 
 **P2P Economy team members**
 
