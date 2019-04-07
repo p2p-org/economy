@@ -7,7 +7,7 @@ heroImage: 'https://cdn-images-1.medium.com/max/2000/1*tkDxC8s-4JyWnnJ2vDZ0-g.jp
 category:
   - news
 authors: 
-  - SlavaGusev
+  - KonstantinLomashuk
 company: 
   - p2p
 ---
