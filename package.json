@@ -1,7 +1,7 @@
 {
-  "name": "serverless-blog",
+  "name": "p2p-economy-blog",
   "version": "1.0.0",
-  "description": "Serverless.com blog content",
+  "description": "p2p.economy.org blog content",
   "scripts": {
     "docs": "md-magic --path 'README.md' --ignore 'node_modules'",
     "md": "md-magic --path '**/*.md' --ignore 'node_modules'",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serverless/blog.git"
+    "url": "git+https://github.com/p2p-org/economy.git"
   },
   "author": "Serverless Inc",
   "bugs": {
-    "url": "https://github.com/serverless/blog/issues"
+    "url": "https://github.com/p2p-org/economy/issues"
   },
-  "homepage": "https://serverless.com/blog",
+  "homepage": "https://economy.p2p.org/",
   "devDependencies": {
     "gray-matter": "^2.1.0",
     "markdown-magic": "^0.1.21"
