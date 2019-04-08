@@ -5,9 +5,9 @@ date: 2019-02-21
 thumbnail: 'https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/top-3/top-3-thumbnail.png'
 heroImage: 'https://cdn-images-1.medium.com/max/800/1*sSzNAq3f_VZpIkhMWYG25A.png'
 category:
-  - news
+  - staking
 authors: 
-  - SlavaGusev
+  - KonstantinLomashuk
 company: 
   - p2p
 ---
