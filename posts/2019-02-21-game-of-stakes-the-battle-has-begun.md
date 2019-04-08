@@ -5,7 +5,7 @@ date: 2019-02-21
 thumbnail: 'https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/top-3/top-3-thumbnail.png'
 heroImage: 'https://cdn-images-1.medium.com/max/2000/1*tkDxC8s-4JyWnnJ2vDZ0-g.jpeg'
 category:
-  - news
+  - Staking
 authors: 
   - KonstantinLomashuk
 company: 
