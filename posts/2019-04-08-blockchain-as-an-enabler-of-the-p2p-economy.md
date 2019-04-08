@@ -6,7 +6,8 @@ date: 2019-04-08
 thumbnail: 'https://live.staticflickr.com/7883/40596710143_46d80538c0.jpg'
 heroImage: 'https://live.staticflickr.com/7883/40596710143_46d80538c0.jpg'
 category:
-  - Economy, Technology Regulation
+  - economy 
+  - technology-regulation
 authors: 
   - KonstantinLomashuk
 company: 
