@@ -4,7 +4,7 @@ description: "This article will go in depth on the influence of blockchain techn
 "
 date: 2019-04-08
 thumbnail: 'https://live.staticflickr.com/7883/40596710143_46d80538c0.jpg'
-heroImage: 'https://live.staticflickr.com/7883/40596710143_46d80538c0.jpg'
+heroImage: 'https://live.staticflickr.com/7883/40596710143_2cf7b824ef_h.jpg'
 category:
   - economy 
   - technology-regulation
