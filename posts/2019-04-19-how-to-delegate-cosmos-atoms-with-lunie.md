@@ -1,6 +1,6 @@
 ---
 title: "How to delegate Cosmos Atoms using Lunie wallet"
-description: "Lunie (previous name “Voyager”) is an official audited web wallet & UI for interacting with the Cosmos Hub. The process of sending, staking and redelegating atoms could be done in a simple and secure way."
+description: "Lunie (previous name “Voyager”) is an official audited web wallet and UI for interacting with the Cosmos Hub. The process of sending, staking and redelegating atoms could be done in a simple and secure way."
 date: 2019-04-19
 thumbnail: 'https://live.staticflickr.com/65535/46710170045_afcf0ff075_h.jpg'
 heroImage: 'https://live.staticflickr.com/65535/46710170045_afcf0ff075_h.jpg'
@@ -14,7 +14,12 @@ company:
 
 Lunie (previous name “Voyager”) is an official audited web wallet & UI for interacting with the Cosmos Hub. The process of sending, staking and redelegating atoms could be done in a simple and secure way. Lunie will not ask for your private keys or seed phrases. To interact with it you need to have Ledger device. Following this two-step guide will not take more than 5-10 minutes. 
 
+> **Note:** If you participated in the fundraiser, you should be in possession of a 12-word mnemonic. When setting up a Ledger  wallet, enter the seed phrase to access your digital assets obtained through an ICO. 
+> We advise you to connect a new Ledger device, in case of replacing the seed phrase on the working device, all data will be overwritten.
+
+
 ## Step 1.  Set up your Ledger
+
 
 Download [Ledger Live](https://shop.ledger.com/pages/ledger-live) to update your Ledger device to the latest version (1.5.5)
 Press the “Settings” button in the top right corner
@@ -44,7 +49,9 @@ After successful finish, check that the Cosmos application appears on your Ledge
 
 ## Step 2. Connect Ledger with Lunie on your PC
 
+
 - Go to the [Lunie website](https://lunie.io)
+
 - Choose “Staking” and find there P2P Validator
 
 Press “Sign in” in the top right corner
@@ -67,9 +74,12 @@ Now you will be able to enter the amount of Atoms and finish the process by pres
 
 ![](https://live.staticflickr.com/65535/46712855315_7022304640_z.jpg)
 
+
 ## Congratulations! Now you can grow your holdings and earn rewards with P2P Validator, Hooray!
 
+
 If after following this guide you still have questions, issues or other concerns please follow us on [Twitter](https://twitter.com/p2pvalidator). We will provide a personal consultation and guide you through the following process. 
+
 Whether you chose to delegate your digital assets to P2P Validator or not, we welcome you to join our social channels, educational hub and use our DApps, all of which will be open-source.
 
 **Public website:** [p2p.org](https://p2p.org/?utm_source=lunie_post&utm_medium=creds_link&utm_campaign=blog)
