@@ -3,7 +3,7 @@ title: "Introduction to Cosmos economy"
 description: "This post is about cosmos network economics and roles of key participants!"
 date: 2019-04-20
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/lbNkZzZ'
+heroImage: 'https://i.imgur.com/lbNkZzZ.png'
 layout: Post
 categories:
   - economy
