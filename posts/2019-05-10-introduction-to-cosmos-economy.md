@@ -63,6 +63,7 @@ Let’s compare three imaginary validators. Assume that delegator bonded equal a
 For example, *validator 1* `V1` was caught on a double sign and slashing occurred on the 60<sup>th</sup> day. After unbonding, the rest was staked with the same conditions to another one. *Validator 2* `V2` had three liveness slashes on the 30<sup>th</sup> day with a 2-day recovery period and an inability to fix the issue, on the 60<sup>th </sup> and 180<sup>th</sup> days being offline for one day each. *Validator 3* `V3` had no such events in place. 
 ![Slashing example](https://imgur.com/BkhE45g.jpg)
 <center>_Table 2 - Projected Atom share for delegators_</center>
+
 **Overall results show that validator with a higher commission and honest behavior performed better than validators with stated slashing events.** In this example we have not taken compounding into consideration. Every slashing event may decrease the confidence of delegators and may lead to immediate re-delegation to another validator. That will cause fewer commission rewards in ATOM for validator and can lead to inability to maintain secure infrastructure in future.
 
 # Recommendations for delegators  
