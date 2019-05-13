@@ -74,6 +74,7 @@ For example, *validator 1* `V1` was caught on a double sign and slashing occurre
 *   **Diversification amongst 3-7 validators** who operate in different countries and utilize different hardware. It sounds like a good idea, as it decreases amount of stake in case of slashing, increases overall network security and brings voting power diversification as well.
 
 Do not forget to **re-delegate your ATOM rewards** in order to maximize profits and take advantage of the compounding.
+
 ---
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
