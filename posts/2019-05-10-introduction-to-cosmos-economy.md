@@ -21,12 +21,13 @@ To understand economical structure of Cosmos we should look closely at the key p
    Cosmos ecosystem utilizes Tendermint - practical byzantine fault tolerance (PBFT) consensus mechanism. It means that finalizing blocks depends on 2/3 plus one quorum of all validators agreed on the current state of the network in order to reach the consensus. There are three key groups of participants in Cosmos ecosystem. Each group has its own incentives and impact on the state of ecosystem.
 ## Validators 
 
-For Cosmos hub there are one hundred possible validators, who are responsible for proposing new blocks and validating transactions. This number will rise by 13% a year until it reaches three hundred maximum possible validators. For other hubs and zones this number is not mandatory and will depend on the particular use case and required level of security. If there are more validators then the right to participate in consensus will have ones with the higher amount of ATOM bonded.
+For Cosmos hub there are one hundred possible validators, who are responsible for proposing new blocks and validating transactions. This number will rise by `13%` a year until it reaches three hundred maximum possible validators. For other hubs and zones this number is not mandatory and will depend on the particular use case and required level of security. If there are more validators then the right to participate in consensus will have ones with the higher amount of ATOM bonded.
 ![Expected growth of validator’s quantity over 10 years](https://imgur.com/8iHMfV8.jpg)
 <center>*Table 1 - Expected growth of cosmos hub validator’s quantity over 10 years*</center>
 
 Cosmos hub validators has the highest impact on network security and provide intercommunication between zones. 
 > Tell me who are the validators and I will tell you if the network is safe. 
+
   They must actively participate in governance and are required to vote on every proposal otherwise their ATOMs are at the risk of being slashed (currently this feature is not active). This group have enough knowledge and resources to maintain infrastructure and are interested in generating maximum long-term gains from ATOM inflation and transaction fees (about this later). That is why validators care about healthy and sustainable ecosystem development. They should act in interests of their delegators if they want to keep them loyal and increase the voting power in the long term.
 ## Delegators
 
