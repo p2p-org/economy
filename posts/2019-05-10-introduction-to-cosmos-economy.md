@@ -60,7 +60,7 @@ If slashing happens, it decreases stake and leads to fewer ATOMs paid as a rewar
 Let’s compare three imaginary validators. Assume that delegator bonded equal amount of ATOM to each. Slashing decreases the amount of stake thus meaning a proportional decrease in ATOM provisions since the event has taken place.
 
 For example, *validator 1* `V1` was caught on a double sign and slashing occurred on the 60<sup>th</sup> day. After unbonding, the rest was staked with the same conditions to another one. *Validator 2* `V2` had three liveness slashes on the 30<sup>th</sup> day with a 2-day recovery period and an inability to fix the issue, on the 60<sup>th </sup> and 180<sup>th</sup> days being offline for one day each. *Validator 3* `V3` had no such events in place. 
-![Slashing example](https://imgur.com/DgZQz1n.jpg)
+![Slashing example](https://imgur.com/3fH5DQZ.jpg)
 **Overall results show that validator with a higher commission and honest behavior performed better than validators with stated slashing events.** In this example we have not taken compounding into consideration. Every slashing event may decrease the confidence of delegators and may lead to immediate re-delegation to another validator. That will cause fewer commission rewards in ATOM for validator and can lead to inability to maintain secure infrastructure in future.
 
 # Recommendations for delegators  
