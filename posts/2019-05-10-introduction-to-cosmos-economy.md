@@ -19,22 +19,21 @@ To understand economical structure of Cosmos we should look closely at the key p
    Cosmos network consists of application-specific blockchains (Zones) which can be designed differently depending on the utility purpose. All blockchains are interoperable within a single ecosystem connected through intermediary blockchains (hubs) that in fact replace centralized organizations by set of validators. As a separate blockchain each zone can have its own token to govern the private or public network and have its own set of validators but governance can decide that validators of the Cosmos hub will be required to validate additional zones.  
    
    Cosmos ecosystem utilizes Tendermint - practical byzantine fault tolerance (PBFT) consensus mechanism. It means that finalizing blocks depends on 2/3 plus one quorum of all validators agreed on the current state of the network in order to reach the consensus. There are three key groups of participants in Cosmos ecosystem. Each group has its own incentives and impact on the state of ecosystem.
-## Validators 
+### Validators 
 
 For Cosmos hub there are `100` possible validators, who are responsible for proposing new blocks and validating transactions. This number will rise by `13%` a year until it reaches three hundred maximum possible validators. For other hubs and zones this number is not mandatory and will depend on the particular use case and required level of security. If there are more validators then the right to participate in consensus will have participants with the higher amount of ATOMs bonded.  
   ![Expected growth of validator’s quantity over 10 years](https://imgur.com/8iHMfV8.jpg)  
-  <center> Table 1 - Expected growth of validator’s quantity over 10 years </center>  
-  
   Cosmos hub validators has the highest impact on network security and provide intercommunication between zones. They must actively participate in governance and are required to vote on every proposal otherwise their ATOMs are at the risk of being slashed (currently this feature is not active).
   
   > Tell me who are the validators and I will tell you if the network is safe
   
-This group have enough knowledge and resources to maintain infrastructure and are interested in generating maximum long-term gains from ATOM inflation and transaction fees (about this later). That is why validators care about healthy and sustainable ecosystem development. They should act in interests of their delegators if they want to keep them loyal and increase the voting power in the long term.
-## Delegators
+This group have enough knowledge and resources to maintain infrastructure and are interested in generating maximum long-term gains from ATOM inflation and transaction fees (about this later). That is why validators care about healthy and sustainable ecosystem development. They should act in interests of their delegators if they want to keep them loyal and increase the voting power in the long term.  
+
+### Delegators
 
 This group consists of ATOM token holders who have not enough skills or resources to run and maintain the infrastructure but still want to increase the network security and earn a share of the transaction fees and inflationary reward by bonding tokens to the validators. It boosts the voting power of validator and frequency of being chosen as block proposer. In fact, *by bonding ATOM to validator delegators choose one of the pillars of the ecosystem so their choice is very important and affects the level of decentralization.*  
   Delegators are eligible for  transaction fees and inflation reward as well but they have to pay commission, which vary within existing validators. There is no way for validators to steal bonded tokens but there are still other risks related with choosing the validator, which we will discuss later. Decisions based solely on a low commission rate is not always the best decision for delegators.
-## Users
+### Users
 
 If we compare Cosmos network with the market, users are consumers and service providers. Developers, entrepreneurs and buyers who want to utilize the advantages of Cosmos ecosystem. Many different hubs can co-exist. To go further we can compare the network with a nation where there is a national hub with cities and zones each acting as smaller hubs within it and the possibility to join with the secure hub (Cosmos) if needed. Activity of this group measures the overall value of the network and can have a significant impact on demand for the token, transaction fees, workload and so on.
 # Cosmos hub economy and reward distribution  
@@ -56,14 +55,12 @@ There are two fundamental streams of revenue for Validators
 *   If a validator fails to sign more than `95%` blocks in a row of `10000` due to inactivity, `0.01%` of the bonded ATOMs will be lost and the validator will be *jailed for ten minutes without allowance to participate in consensus and be eligible for rewards.*
 
 If slashing happens, it decreases stake and leads to fewer ATOMs paid as a reward.
-## Example
+### Example
 
 Let’s compare three imaginary validators. Assume that delegator bonded equal amount of ATOM to each. Slashing decreases the amount of stake thus meaning a proportional decrease in ATOM provisions since the event has taken place.
 
 For example, *validator 1* `V1` was caught on a double sign and slashing occurred on the 60<sup>th</sup> day. After unbonding, the rest was staked with the same conditions to another one. *Validator 2* `V2` had three liveness slashes on the 30<sup>th</sup> day with a 2-day recovery period and an inability to fix the issue, on the 60<sup>th </sup> and 180<sup>th</sup> days being offline for one day each. *Validator 3* `V3` had no such events in place. 
-![Slashing example](https://imgur.com/BkhE45g.jpg)
-<center>_Table 2 - Projected Atom share for delegators_</center>
-
+![Slashing example](https://imgur.com/3fH5DQZ.jpg)
 **Overall results show that validator with a higher commission and honest behavior performed better than validators with stated slashing events.** In this example we have not taken compounding into consideration. Every slashing event may decrease the confidence of delegators and may lead to immediate re-delegation to another validator. That will cause fewer commission rewards in ATOM for validator and can lead to inability to maintain secure infrastructure in future.
 
 # Recommendations for delegators  
@@ -77,6 +74,7 @@ For example, *validator 1* `V1` was caught on a double sign and slashing occurre
 *   **Diversification amongst 3-7 validators** who operate in different countries and utilize different hardware. It sounds like a good idea, as it decreases amount of stake in case of slashing, increases overall network security and brings voting power diversification as well.
 
 Do not forget to **re-delegate your ATOM rewards** in order to maximize profits and take advantage of the compounding.
+
 ---
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
