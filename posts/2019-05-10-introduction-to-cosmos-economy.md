@@ -24,10 +24,12 @@ To understand economical structure of Cosmos we should look closely at the key p
 For Cosmos hub there are `100` possible validators, who are responsible for proposing new blocks and validating transactions. This number will rise by `13%` a year until it reaches three hundred maximum possible validators. For other hubs and zones this number is not mandatory and will depend on the particular use case and required level of security. If there are more validators then the right to participate in consensus will have participants with the higher amount of ATOMs bonded.  
   ![Expected growth of validator’s quantity over 10 years](https://imgur.com/8iHMfV8.jpg)  
   <center> Table 1 - Expected growth of validator’s quantity over 10 years </center>  
+  
   Cosmos hub validators has the highest impact on network security and provide intercommunication between zones. They must actively participate in governance and are required to vote on every proposal otherwise their ATOMs are at the risk of being slashed (currently this feature is not active).
   
-  > Tell me who are the validators and I will tell you if the network is safe. 
-   This group have enough knowledge and resources to maintain infrastructure and are interested in generating maximum long-term gains from ATOM inflation and transaction fees (about this later). That is why validators care about healthy and sustainable ecosystem development. They should act in interests of their delegators if they want to keep them loyal and increase the voting power in the long term.
+  > Tell me who are the validators and I will tell you if the network is safe
+  
+This group have enough knowledge and resources to maintain infrastructure and are interested in generating maximum long-term gains from ATOM inflation and transaction fees (about this later). That is why validators care about healthy and sustainable ecosystem development. They should act in interests of their delegators if they want to keep them loyal and increase the voting power in the long term.
 ## Delegators
 
 This group consists of ATOM token holders who have not enough skills or resources to run and maintain the infrastructure but still want to increase the network security and earn a share of the transaction fees and inflationary reward by bonding tokens to the validators. It boosts the voting power of validator and frequency of being chosen as block proposer. In fact, *by bonding ATOM to validator delegators choose one of the pillars of the ecosystem so their choice is very important and affects the level of decentralization.*  
