@@ -40,7 +40,7 @@ If we compare Cosmos network with the market, users are consumers and service pr
 
    Cosmos hub economy relies on the inflationary approach. The target annual inflation rate represents the percentage from total supply that is changing each block. If the total bonded stake is less than `66%` of the total ATOM supply, the inflation rate will slightly increase until it reaches a maximum of `20%` or the total bonded stake climbs higher than `66%`. In this case, the annual inflation will decrease to `7%` depending on ATOMs participating in bonding. New tokens incentivize participants to secure the network. The more tokens locked via staking the higher the threshold for initiating a successful attack.
 
-There are two fundamental streams of revenue for Validators
+There are two fundamental streams of revenue for validators:
 ![Reward distribution](https://imgur.com/yreCCgt.jpg)
 *   **Block reward**, which distributing amongst all validators proportionally to their voting power. This reward is paid in ATOMs and depends on the current annual inflation rate, which varies each block with the frequency of average block time. In the future, this reward can be split between ATOMs and Photons that will play the role of a secondary token with the purpose of transaction fee payment only, decreasing the velocity and liquidity of ATOMS and making a 1/3 attack more expensive. Inflation of Photons is expected to be fixed and equivalent to `500` tokens per hour. 
    *Currently Photons are not available but could be activated with specific implementation and distribution method by the community via governance.*
@@ -51,8 +51,8 @@ There are two fundamental streams of revenue for Validators
 
    In some circumstances occurs slashing of bonded ATOMs. Penalties should increase the responsibility level of participants who are directly involved in decisions associated with network security. Validators have no control over delegator’s stake but if such an event happens both parties lose a percentage of their tokens. This is in order to prevent misbehavior and negligence from validators and bring incentives to delegators to diversify amongst them, perform proper due diligence and choose wisely.
 
-*   The first reason a stake can be slashed is double-signing a block. This means that a malicious node is broadcasting two blocks with different content for the same height. The penalty for that is currently set at `5%` and the validator who is responsible for that drops out of validators set. All ATOMs enter an unbonding (process of undelegating ATOMs from validator) period that lasts for `21 days` and **within this period the stake will not earn provisions and transaction fees.**  
-*   If a validator fails to sign more than `95%` blocks in a row of `10000` due to inactivity, `0.01%` of the bonded ATOMs will be lost and the validator will be *jailed for ten minutes without allowance to participate in consensus and be eligible for rewards.*
+*   The first reason a stake can be slashed is double-signing a block. This means that a malicious node is broadcasting two blocks with different content for the same height. The penalty for that is currently set at `5%` and the validator who is responsible for that drops out of validators set. All ATOMs enter an unbonding (process of undelegating ATOMs from validator) period that lasts for `21 days` and *within this period the stake will not earn provisions and transaction fees.*  
+*   If a validator fails to sign more than `95%` blocks in a row of `10000` due to inactivity, `0.01%` of the bonded ATOMs will be lost and the validator will be *jailed for `10 minutes` without allowance to participate in consensus and be eligible for rewards.*
 
 If slashing happens, it decreases stake and leads to fewer ATOMs paid as a reward.
 ### Example
@@ -60,7 +60,7 @@ If slashing happens, it decreases stake and leads to fewer ATOMs paid as a rewar
 Let’s compare three imaginary validators. Assume that delegator bonded equal amount of ATOM to each. Slashing decreases the amount of stake thus meaning a proportional decrease in ATOM provisions since the event has taken place.
 
 For example, *validator 1* `V1` was caught on a double sign and slashing occurred on the 60<sup>th</sup> day. After unbonding, the rest was staked with the same conditions to another one. *Validator 2* `V2` had three liveness slashes on the 30<sup>th</sup> day with a 2-day recovery period and an inability to fix the issue, on the 60<sup>th </sup> and 180<sup>th</sup> days being offline for one day each. *Validator 3* `V3` had no such events in place. 
-![Slashing example](https://imgur.com/3fH5DQZ.jpg)
+![Slashing example](https://imgur.com/RQVNat4.jpg)
 **Overall results show that validator with a higher commission and honest behavior performed better than validators with stated slashing events.** In this example we have not taken compounding into consideration. Every slashing event may decrease the confidence of delegators and may lead to immediate re-delegation to another validator. That will cause fewer commission rewards in ATOM for validator and can lead to inability to maintain secure infrastructure in future.
 
 # Recommendations for delegators  
