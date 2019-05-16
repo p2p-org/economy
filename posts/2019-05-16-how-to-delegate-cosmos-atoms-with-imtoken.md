@@ -19,19 +19,20 @@ Download imToken wallet for [iOS](https://itunes.apple.com/us/app/imtoken2/id138
 
 ## Step 2.  Select Cosmos and transfer your Atoms
 
-⋅⋅* Select Cosmos from the list & copy your address
-⋅⋅* Transfer your Atoms to imToken wallet
-![](https://live.staticflickr.com/65535/47628279741_238cfab42e_h.jpg)
+ * Select Cosmos from the list & copy your address
+ * Transfer your Atoms to imToken wallet
+
+![](https://live.staticflickr.com/65535/47861351251_5ecee94080_o.png)
+
 
 ## Step 3.  Stake yor Atoms and get rewards
-⋅⋅* Select “Staking” button to start delegating
-⋅⋅* Select “Validators” tab
-⋅⋅* Choose P2P Validator from the validator list
-⋅⋅* Enter the amount and press the “delegate” button.
-⋅⋅* Enter your password to confirm the delegation
+  * Select “Staking” button to start delegating
+  * Select “Validators” tab
+  * Choose P2P Validator from the validator list
+  * Enter the amount and press the “delegate” button.
+  * Enter your password to confirm the delegation
 
-![](https://live.staticflickr.com/65535/47628332471_9221db3e07_h.jpg)
-
+![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
 
 # Congratulations! Now you can sit back and watch your rewards grow.
 
