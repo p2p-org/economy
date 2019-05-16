@@ -2,8 +2,8 @@
 title: "How to delegate Cosmos Atoms with imToken wallet (Android, iOS)"
 description: ""
 date: 2019-05-16
-thumbnail: ''
-heroImage: ''
+thumbnail: 'https://live.staticflickr.com/65535/33984162958_b7d8049632_o.png'
+heroImage: 'https://live.staticflickr.com/65535/33984162958_b7d8049632_o.png'
 category:
   - staking
 authors:
@@ -11,7 +11,6 @@ authors:
 company:
   - p2p
 ---
-
 
 ## Step 1.  Download imToken wallet
 
@@ -21,7 +20,7 @@ Download imToken wallet for [iOS](https://itunes.apple.com/us/app/imtoken2/id138
 
   * Select Cosmos from the list & copy your address
   * Transfer your Atoms to imToken wallet
-  
+
 ![](https://live.staticflickr.com/65535/47861351251_5ecee94080_o.png)
 
 ## Step 3.  Stake your Atoms and get rewards
