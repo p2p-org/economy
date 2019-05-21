@@ -12,7 +12,7 @@ company:
   - p2p
 ---
 
-Lunie (previous name “Voyager”) is an official audited web wallet & UI for interacting with the Cosmos Hub. The process of sending, staking and redelegating atoms could be done in a simple and secure way. Lunie will not ask for your private keys or seed phrases. To interact with it you need to have Ledger device. Following this two-step guide will not take more than 5-10 minutes. 
+Lunie (previous name “Voyager”) is an official audited web wallet and UI for interacting with the Cosmos Hub. The process of sending, staking and redelegating atoms could be done in a simple and secure way. Lunie will not ask for your private keys or seed phrases. To interact with it you need to have Ledger device. Following this two-step guide will not take more than 5-10 minutes. 
 
 > **Note:** If you participated in the fundraiser, you should be in possession of a 12-word mnemonic. When setting up a Ledger  wallet, enter the seed phrase to access your digital assets obtained through an ICO. 
 > We advise you to connect a new Ledger device, in case of replacing the seed phrase on the working device, all data will be overwritten.
@@ -28,7 +28,7 @@ Press the “Settings” button in the top right corner
 
 Turn on Developer mode 
 
-![](https://live.staticflickr.com/65535/47628279741_238cfab42e_h.jpg)
+![](https://live.staticflickr.com/65535/40932388633_dd637b8d3e_o.png)
 
 Go to the Ledger Live App Store and download the Cosmos application
 
