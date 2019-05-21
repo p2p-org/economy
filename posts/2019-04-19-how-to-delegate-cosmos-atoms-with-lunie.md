@@ -28,7 +28,7 @@ Press the “Settings” button in the top right corner
 
 Turn on Developer mode 
 
-![](https://live.staticflickr.com/65535/47628279741_238cfab42e_h.jpg)
+![](https://live.staticflickr.com/65535/40932388633_dd637b8d3e_o.png)
 
 Go to the Ledger Live App Store and download the Cosmos application
 
