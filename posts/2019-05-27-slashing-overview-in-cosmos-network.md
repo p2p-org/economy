@@ -5,7 +5,7 @@ date: 2019-04-20
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://i.imgur.com/aqETFSr.jpg'
 layout: Post
-categories:
+category:
   - economy
   - cosmos
 authors:
