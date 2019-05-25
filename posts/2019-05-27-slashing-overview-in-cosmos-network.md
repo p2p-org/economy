@@ -3,7 +3,7 @@ title: "Slashing overview in cosmos network"
 description: "This post is about the role of slashing mechanism in cosmos ecosystem"
 date: 2019-04-20
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/aqETFSr'
+heroImage: 'https://i.imgur.com/aqETFSr.jpg'
 layout: Post
 categories:
   - economy
