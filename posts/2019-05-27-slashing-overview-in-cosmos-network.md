@@ -1,4 +1,4 @@
-
+---
 title: "Slashing overview in cosmos network"
 description: "This post is about the role of slashing mechanism in cosmos ecosystem"
 date: 2019-04-20
