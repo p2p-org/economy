@@ -71,11 +71,11 @@ If we will compare the performance of delegators who bonded to different validat
 
 ![Slashing example](https://imgur.com/9QnrSOH.jpg)
 
-You can notice that in the longer term (in our example >5 years)  current double-sign slashing do not cause huge effect and there still exist incentive for delegators to choose validators basing predominantly on the commission rate. In theory, this can cause weaker decentralization level of the network. 
+You can notice that in the longer term (in our example >5 years)  current double-sign slashing do not cause huge effect on the performance and there still exist high incentive for delegators to choose validators basing predominantly on the commission rate. In theory, this may cause weaker decentralization level of the network. 
 
-Downtime slashing has even less voting and economic influence on participants. Current slashing conditions should be considered as a starting point for further discussion on that topic and possible future changes via governance mechanism. 
+Downtime slashing has even less voting and economic influence. Current slashing conditions should be considered as a starting point for further discussion on that topic and may be changed in future via governance mechanism. 
 
-For example, every repeating downtime event over the period of `X` could cause atom slashing equivalent to `prev_slashing_amount * 2`.  If a validator constantly goes offline this will cost him more and increase incentive to properly maintain the state of own infrastructure and incentive for delegators to re-delegate to others. 
+For example, every repeating downtime event over the period of `X` could cause atom slashing equivalent to `prev_slashing_percentage * 2`.  If a validator constantly goes offline this will cost more for him and his delegators thus increasing incentive to properly maintain the state of own infrastructure and for delegators to re-delegate to others. One of concerns about changing initial parameters is a lack of empirical data so as the network evolve we will see more experiments in this field.
 
 # Smart ideas for delegators to protect from slashing consequences
 
@@ -83,24 +83,31 @@ No one can predict the future and **one of the best ways for delegators to prote
 
 Another idea is responsible behavior. Bonding to a validator is not a blind step and simple way to earn passive income. To be up to date delegators should continue to monitor validator uptime. Frequent downtimes may indicate unreliable infrastructure. 
 
-What actions validator take in order to prevent slashing conditions? Does he disclose an infrastructure? Is it secure? What upgrades and improvements are in the roadmap? Is the commission rate sufficient to support validator activities and maintain reliable infrastructure? What is the level of responsibility of a validator and how valuable is his contribution to the ecosystem development? 
+* What actions validator take in order to prevent slashing conditions? 
+* Does valiadator disclose an infrastructure setup? 
+* Is it secure? 
+* What upgrades and improvements are in the roadmap? 
+* Is the commission rate sufficient to support validator activities and maintain reliable infrastructure? 
+* What is the responsibility level of a validator and how valuable is it's contribution to the ecosystem development? 
+
 Answers to these questions can help delegators to diversify amongst the most remarkable validators.
 
-The most prominent validators who set up well-protected infrastructure and have a high level of confidence can offer refunds for their delegators in case of slashing event. In this case reserve funds or the idea of developing slashing insurance for delegators make sense. For some delegators who have no ability to follow up to the state of their atom performance, this could be a reasonable solution. 
+
+The most prominent validators who set up well-protected infrastructure and have a high level of confidence can offer refunds for their delegators in case of slashing event. In this case reserve funds or the idea of developing slashing insurance for delegators make sense. For some delegators who have no ability to follow up with the state of their atom performance this could be a reasonable solution. 
 
 > The first rule – do not lose your money, the second rule – remember of the first one.  
 > <right>"Warren Buffet"</right>
 
-In the cosmos ecosystem, your atoms are your assets, which can generate additional income (mostly from transaction fees) for you. Take care of your holdings and be responsible for the decisions you make.
+In the cosmos ecosystem, your atoms are your assets, which can generate additional income for you. Take care of your holdings and be responsible for the decisions you make.
 
 ---
 
-P2P Validator offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
+**P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
-Web:[ https://p2p.org](https://p2p.org)
+**Web:**[ https://p2p.org](https://p2p.org)
 
-Stake ATOMs with us:[ https://p2p.org/cosmos](https://p2p.org/cosmos)
+**Stake ATOMs with us:**[ https://p2p.org/cosmos](https://p2p.org/cosmos)
 
-Twitter:[ @p2pvalidator](https://twitter.com/p2pvalidator)
+**Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
-Telegram: [https://t.me/p2pvalidator](https://t.me/p2pvalidator)
+**Telegram:**[ https://t.me/p2pvalidator](https://t.me/p2pvalidator)
