@@ -85,6 +85,7 @@ However, in some cases in crypto networks it could be incorrect. **To re-delegat
 ![*Graph - Daily/monthly/Quarterly/Annualy - with fees*](https://imgur.com/hhXzR2q.jpg)
 Monthly compounding looks like the most optimal frequency to re-delegate ATOM rewards. However if the stake is higher than `3000 atoms` re-investing on a daily or weekly basis becomes more reasonable with current RoS `~12,2%`.
 > "Compounding matters and does so far more than people expect. The human brain thinks in a linear way which means that if we were asked to estimate what `10.22%` (*close to current annual yield of cosmos network*) compounded over `100 years` would be then our answer is likely to be closer to `1,022%` than `1,679,600%`, something economists call exponential growth bias. This means that compounding is often underestimated and should be at the heart of long-term investing" *Marathon Asset Management*
+
 # Increase of stability and network security
 As pointed in the [previous article](https://economy.p2p.org/introduction-to-cosmos-economy), cosmos ecosystem utilizes tendermint consensus. It achieves absolute finality and any block that receives `>2/3` pre-votes and pre-commits are considered as valid. If `>1/3` malicious validators collude they can cause a fork. Off-chain coordination will allow honest validators to make a reorganization proposal as it would not be possible to perform on-chain as the malicious group will be able to veto every proposal.
 
