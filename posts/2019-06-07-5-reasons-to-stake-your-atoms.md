@@ -1,7 +1,7 @@
 ---
 title: "5 reasons to stake your atoms"
 description: "This post is about existing incentives for atom holders to participate in staking"
-date: 2019-06-15
+date: 2019-06-07
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/1LTHUg6.jpg'
 layout: Post
