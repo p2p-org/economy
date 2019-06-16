@@ -1,7 +1,7 @@
 ---
-title: "5 reasons to stake your atoms"
-description: "This post is about existing incentive for atom holders to participate in staking"
-date: 2019-06-13
+title: "Overview of atom staking strategies"
+description: "This post about various staking models for cosmos hub delegators"
+date: 2019-06-15
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/C4J62dg.jpg'
 layout: Post
