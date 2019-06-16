@@ -13,7 +13,6 @@ authors:
 company:
  - p2p
 ---
-# Overview of atom staking strategies
 
 Previously [we discussed](https://economy.p2p.org/5-reasons-to-stake-your-atoms) why staking is important for the ecosystem and how people interested in the network potential can benefit increasing their overall share without suffering from inflation implications. In this short blog post I want to cover some strategies which participants could utilize with their outcomes and possible risks.
 
