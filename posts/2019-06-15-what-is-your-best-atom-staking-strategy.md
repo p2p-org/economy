@@ -53,7 +53,7 @@ This approach is also good as a hedge against slashing in the long run. The more
 
 # Comparison in dynamics
 
-Let’s take `15 year` period and look at the performance of these strategies in dynamics. Initial atom supply in this example is `100 atoms`. Four delegators have `10 atoms` each:
+Let’s take `15 year` period and look at the performance of these strategies in dynamics. Initial atom supply in this example is `100 atoms`. In the beginning, four delegators have `10 atoms` each:
 * D1 stake & forget
 * D2 stake and compound
 * D3 stake and maintain the network ownership selling the rest
