@@ -1,5 +1,5 @@
 ---
-title: "Overview of atom staking strategies"
+title: "What is your best atom staking strategy?"
 description: "This post about various staking models for cosmos hub delegators"
 date: 2019-06-15
 thumbnail: 'http://url-to-thumbnail.jpg'
@@ -19,7 +19,8 @@ Previously [we discussed](https://economy.p2p.org/5-reasons-to-stake-your-atoms)
 There are three key options for stakers in existing conditions:
 * Stake and forget
 * Stake and use the power of compounding in order to increase a total share of the network
-* Stake and save the current network share while withdrawing gains diluted by inflation from other participants who do not stake
+* Stake and save the current network share while withdrawing gains diluted by inflation from other participants who do not stake.
+
 In fact each of these options could be supplemented with the idea of diversification amongst various validators to decrease [slashing risk](https://economy.p2p.org/slashing-overview-in-cosmos-network).
 
 For simplicity let’s assume that we have two delegators, the first is staking the second one is not. Initial total supply is `100 atoms` inflation is `7%`, staking ratio is equal to the target value of `67%` and considered period of observation is `5 years`. 
@@ -52,7 +53,7 @@ This approach is also good as a hedge against slashing in the long run. The more
 
 # Comparison in dynamics
 
-Let’s take `15 year` period and look at the performance of these strategies in dynamics. Initial atom supply in this example is `100`. Four delegators with `10 atoms` each:
+Let’s take `15 year` period and look at the performance of these strategies in dynamics. Initial atom supply in this example is `100` () atoms(добавить atoms после цифры `100`). Four delegators (with заменить на have) have `10 atoms` each:
 * D1 stake & forget
 * D2 stake and compound
 * D3 stake and maintain the network ownership selling the rest
