@@ -40,7 +40,7 @@ By dividing the quantity of seconds in a year by average block time, we get the 
 
 After we have figured out ATOM provisions per block we can find overall annual RoS. **These rewards go only to participants who are involved in staking.** If all ATOMs are locked in staking then everyone gets an equivalent amount of tokens and there will be no additional benefit relative to each other. In this case, annual inflation will be the same as annual RoS and no one will be diluted or rewarded. 
 
-Otherwise, we need to include staking ratio in our calculation. `Annual RoS = annual inflation / staking ratio`, where `staking ratio = staked ATOMs / total ATOMs`. In fact, additional rewards that go to delegators from inflation are ATOMs intended for those who do not stake. In that way, net earnings are the difference between annual RoS and annual inflation rate. Passive holders are penalized by inflation and their share of the network is diluted and redistributed amongst delegators.
+Otherwise, we need to include staking ratio in our calculation. `Annual RoS = annual inflation / staking ratio`, where `staking ratio = staked ATOMs / total ATOMs`. In fact, additional rewards that go to delegators from inflation are ATOMs intended for those who do not stake. In that way, **net earnings are the difference between annual RoS and annual inflation rate.** Passive holders are penalized by inflation and their share of the network is diluted and redistributed amongst delegators.
 
 ### Example  
 
@@ -97,6 +97,7 @@ The resiliency and overall network protection depend on the staked tokens. In th
 * By delegating, you increase the network security and support reliable project evolution in the long-term.
 
 *Special thanks to [@asmodat](https://twitter.com/Asmodat) for bringing clarity to the inflation part of this article*
+
 ---
 
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
