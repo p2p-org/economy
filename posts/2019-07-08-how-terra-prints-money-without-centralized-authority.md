@@ -44,7 +44,7 @@ Without fiat collateral and centralized control over the “printing press” it
 
 For example, if existing supply is not high enough, when transaction volumes grow significantly, demand for stablecoins may also increase. The price of a single unit may rise creating an arbitraging opportunity for the payment network participants who stake LUNA. They can exchange one to another with the inner price, and benefit from its deviations out of the peg. In response, to provide the exchange protocol mints requested amount of currency that can be used to release risk-free profit on the open market returning the peg.
 
-![Terra arbitrage](https://imgur.com/kh3pfJW.jpg)
+![Terra arbitrage](https://imgur.com/SzJDgbW.jpg)
 
 When protocol gets tokens in exchange for minting it distribute a part of that provisions to the treasury burning the rest with a `burn rate` which is defined by the protocol and depends on changes in the macroeconomic variables. This module is playing the role of *decentral algorithmic bank* regulating a transaction fee rate and weight of seigniorage that goes to stakers. 
 
