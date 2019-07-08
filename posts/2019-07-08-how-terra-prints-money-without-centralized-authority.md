@@ -38,32 +38,32 @@ Family of Terra stablecoins represent the second type and include various coins 
 
 # How Terra achieves price stability and benefit e-commerce providers maintaining stable reward growth for stakeholders
 
-Another important part of Terra project is a staking token Luna. **Luna may be considered as a decentralized collateral, representing a buffer absorbing volatility. It captures the value of the transaction flow and redistributes it among stakeholders** (everyone who stake) creating incentives for them to care about low volatility of stablecoin family. Terra protocol utilizes Tendermint consensus mechanism and another important purpose of staking token is securing the network creating incentives for validators, who play roles of price oracles for inner currency exchanges and broadcast transactions in the network to behave in the interests of the ecosystem and properly provide their services. 
+Another important part of Terra project is a staking token LUNA. **LUNA may be considered as a decentralized collateral, representing a buffer absorbing volatility. It captures the value of the transaction flow and redistributes it among stakeholders** (everyone who stake) creating incentives for them to care about low volatility of stablecoin family. Terra protocol utilizes Tendermint consensus mechanism and another important purpose of staking token is securing the network creating incentives for validators, who play roles of price oracles for inner currency exchanges and broadcast transactions in the network to behave in the interests of the ecosystem and properly provide their services. 
 
 Without fiat collateral and centralized control over the “printing press” it is not easy to provide price stability and control the total supply as well as inner economics in general. To create the market for the own currency, Terra united an *alliance of e-commerce providers in Asia* who are interested in using stablecoins as a payment method offering it to their customers. Terra money is issued in a decentralized manner depending on the demand and total market size. 
 
-For example, if existing supply is not high enough, when transaction volumes grow significantly, demand for stablecoins may also increase. The price of a single unit may rise creating an arbitraging opportunity for the payment network participants who stake Luna. They can exchange one to another with the inner price, and benefit from its deviations out of the peg. In response, to provide the exchange protocol mints requested amount of currency that can be used to release risk-free profit on the open market returning the peg.
+For example, if existing supply is not high enough, when transaction volumes grow significantly, demand for stablecoins may also increase. The price of a single unit may rise creating an arbitraging opportunity for the payment network participants who stake LUNA. They can exchange one to another with the inner price, and benefit from its deviations out of the peg. In response, to provide the exchange protocol mints requested amount of currency that can be used to release risk-free profit on the open market returning the peg.
 
-![Terra arbitrage](https://imgur.com/kATBcxz.jpg)
+![Terra arbitrage](https://imgur.com/kh3pfJW.jpg)
 
 When protocol gets tokens in exchange for minting it distribute a part of that provisions to the treasury burning the rest with a `burn rate` which is defined by the protocol and depends on changes in the macroeconomic variables. This module is playing the role of *decentral algorithmic bank* regulating a transaction fee rate and weight of seigniorage that goes to stakers. 
 
 When the economy is in the growth stage, spendings are high. People purchase more goods and services. That results in rising inflation. When inflation surges people cut spendings, slowing them down. It leads to lower profits for companies resulting in the inability to pay their debts or make investments. The economy slows down. To fix it, according to a Keynesian approach, when the economy is rising and families spend a lot, Central Banks should do the opposite to control inflation and be able to step in when the economic cycle is moving closer to a recession. That is exactly the way how the economy is functioning today.
 
-Treasury module is doing exactly the same for Terra economy. In periods of growth and rising transaction volumes it increases accumulation of Luna earned in exchange for minting Terra by decreasing the `burn rate`. When the economy begins to contract in the cycle of lower transaction volumes Terra protocol facilitates spendings using accumulated funds in the treasury, bootstrapping stable demand and economic growth. Another purpose of these provisions is to provide discounts for usage of Terra stablecoin as a payment. If people prefer to pay that way, it obviously creates additional incentives for e-commerce providers to join the Terra network.
+Treasury module is doing exactly the same for Terra economy. In periods of growth and rising transaction volumes it increases accumulation of LUNA earned in exchange for minting Terra by decreasing the `burn rate`. When the economy begins to contract in the cycle of lower transaction volumes Terra protocol facilitates spendings using accumulated funds in the treasury, bootstrapping stable demand and economic growth. Another purpose of these provisions is to provide discounts for usage of Terra stablecoin as a payment. If people prefer to pay that way, it obviously creates additional incentives for e-commerce providers to join the Terra network.
 
-The core priority for the success of such a system is to create strong incentives for Luna staking even in periods of instability. This mechanism works like programmatically determined equalizer, managing Luna `burn rate` and `transaction fee rate` which together represent staking rewards. To provide stable staking reward growth, protocol measure and balance these components depending on the economic variables. 
+The core priority for the success of such a system is to create strong incentives for LUNA staking even in periods of instability. This mechanism works like programmatically determined equalizer, managing LUNA `burn rate` and `transaction fee rate` which together represent staking rewards. To provide stable staking reward growth, protocol measure and balance these components depending on the economic variables. 
 
-- When the Luna `burn rate` is high it rewards holders as staking power of their assets is rising. To smooth that growth, protocol decreases the `transaction fee rate`.
-- When the Luna `burn rate` is low it dilutes holders and staking power is falling. To compensate that, protocol increases the `transaction fee rate`.
+- When the LUNA `burn rate` is high it rewards holders as staking power of their assets is rising. To smooth that growth, protocol decreases the `transaction fee rate`.
+- When the LUNA `burn rate` is low it dilutes holders and staking power is falling. To compensate that, protocol increases the `transaction fee rate`.
 
 # Decentralized resource allocation
 
 Terra may be applied to various sectors with different decentralized applications (dApps) built on top creating multiple token economies managed by the single programmable module. Treasury funds will be filling from various sources. Growth cycles and inflow changes from one sector will cover a decline in another. 
 
-![Pic. 4 - possible dApps and market with flows](https://imgur.com/hPiZFYx.jpg)
+![Pic. 4 - possible dApps and market with flows](https://imgur.com/bz6OoYG.jpg)
 
-Capital allocations for dApps development would be managed by the network participants in a decentralized manner via governance. Every Luna holder may cast a vote taking into consideration actual results of a particular dApp measuring potential benefit. This model creates motivation for dApp providers to investigate new incentive models and offers a unique value proposition competing with others for capital allocation. 
+Capital allocations for dApps development would be managed by the network participants in a decentralized manner via governance. Every LUNA holder may cast a vote taking into consideration actual results of a particular dApp measuring potential benefit. This model creates motivation for dApp providers to investigate new incentive models and offers a unique value proposition competing with others for capital allocation. 
 
 In existing centralized decision making on fiscal spending, a small group of people decide how resources should be allocated. There is a high probability of corruption schemes or lobbying interested parties. In those cases, resources may not be spent efficiently. Future economic outcomes may suffer, undermining the entire ecosystem. 
 
@@ -81,7 +81,7 @@ An optimal economic resources distribution, a sophisticated stability mechanism,
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
-**Stake ATOMs with us:**[ https://p2p.org/cosmos](https://p2p.org/cosmos)
+**Stake LUNA with us:**[ https://p2p.org/terra](https://p2p.org/terra)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
