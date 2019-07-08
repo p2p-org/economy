@@ -3,7 +3,7 @@ title: "How Terra prints money without centralized authority"
 description: "This post explains basic concepts of Terra protocol"
 date: 2019-07-08
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/FRikroH.jpg'
+heroImage: 'https://imgur.com/Xtit0D2.jpg'
 layout: Post
 category:
   - economy
