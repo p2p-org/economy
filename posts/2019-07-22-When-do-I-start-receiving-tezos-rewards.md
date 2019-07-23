@@ -50,7 +50,7 @@ server time & running costs
 building better infrastructure 
 24/7 technical support
 
-![](https://live.staticflickr.com/65535/47628279761_3027f0158b_h.jpg)
+![](https://live.staticflickr.com/65535/48356359996_9c139b8002_o.jpg)
 
 P2P Validator is part of a tezos network, which is a decentralised one. There are many validators (bakers) in the network and each one makes their own decision on what fees to charge. If a fee is too low there is a risk to the baking process. 
 We believe in charging a fair fee for a good service.
