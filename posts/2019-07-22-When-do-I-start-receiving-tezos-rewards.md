@@ -1,12 +1,12 @@
 ---
 title: "When do I start receiving Tezos rewards?"
-description: "A story about John’s XTZ delegation"
+description: "A story about John’s XTZ delegation. John has some Tezos tokens and wants to receive rewards. He takes them to a baker"
 date: 2019-07-01
-thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/1LTHUg6.jpg'
+thumbnail: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
+heroImage: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
 layout: Post
 category:
-  - explain i'm five
+  - explain like I'm Five
   - tezos
   - staking
 authors:
