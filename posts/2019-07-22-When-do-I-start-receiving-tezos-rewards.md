@@ -1,6 +1,6 @@
 ---
 title: "When do I start receiving Tezos rewards?"
-description: "A story about John’s XTZ delegation. John has some Tezos tokens and wants to receive rewards. He takes them to a baker"
+description: "A story about John’s XTZ delegation. John has some Tezos tokens and wants to receive rewards. He takes them to a baker..."
 date: 2019-07-01
 thumbnail: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
 heroImage: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
