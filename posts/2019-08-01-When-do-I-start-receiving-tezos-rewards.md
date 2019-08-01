@@ -14,7 +14,7 @@ authors:
 company:
  - p2p
 ---
-> Enjoy our first light-weight post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering a reward distribution in Tezos blockchain in a form of comic-strip style story. 
+> Enjoy our first light-weight post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering a reward distribution in Tezos blockchain in the form of comic-strip style story. 
 
 John has some Tezos tokens and wants to receive rewards. He takes them to a baker*, P2P Validator. 
 
