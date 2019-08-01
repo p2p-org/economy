@@ -1,12 +1,12 @@
 ---
 title: "When do I start receiving Tezos rewards?"
 description: "A story about John’s XTZ delegation. John has some Tezos tokens and wants to receive rewards. He takes them to a baker..."
-date: 2019-07-01
+date: 2019-08-01
 thumbnail: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
 heroImage: 'https://live.staticflickr.com/65535/48350540051_5855cfab9d_o.jpg'
 layout: Post
 category:
-  - explain like I'm Five
+  - Eli5
   - tezos
   - staking
 authors:
@@ -14,8 +14,9 @@ authors:
 company:
  - p2p
 ---
+> Enjoy our first light-weight post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering a reward distribution in Tezos blockchain in a form of comic-strip style story. 
+
 John has some Tezos tokens and wants to receive rewards. He takes them to a baker*, P2P Validator. 
-> **Note:** Validator = Baker in Tezos network
 
 ![](https://live.staticflickr.com/65535/48350672587_d30bd4863d_o.jpg)
 
