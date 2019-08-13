@@ -6,11 +6,11 @@ thumbnail: ''
 heroImage: ''
 layout: Post
 category:
-  - CyberWay
+  - cyberway
 authors:
-  - Mikhail Komarov
+  - MikhailKomarov
 company:
- - Nil Foundation
+ - nilfoundation
 ---
 
 Hello, World.
