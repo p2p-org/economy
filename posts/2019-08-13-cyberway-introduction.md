@@ -2,8 +2,8 @@
 title: "CyberWay. What is it all about?"
 description: "O Rly, mate?"
 date: 2019-08-13
-thumbnail: ''
-heroImage: ''
+thumbnail: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
+heroImage: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
 layout: Post
 category:
   - cyberway
@@ -18,7 +18,7 @@ Hello, World.
 Since I've been once closely related to the ex-Golos development, I'd like to
 take a look at what folks have done with it.
 
-TL;DR: I'm not really amazed with the result, but it's lesser than most evils. 
+TL;DR: Lesser than most evils. 
 
 Introduction
 ============
@@ -64,8 +64,7 @@ for, was at first queued, then rejected and then some author was put into a
 blacklist?
 
 Furthermore, lots of technical issues along with awful data storage and 
-protocol architecture were still there, so I did not even touched that - it was
-disgusting.
+protocol architecture were still there, so I was not impressed.
 
 You got something else?
 -----------------------
