@@ -1,6 +1,6 @@
 ---
 title: "Introduction to CyberWay"
-description: "CyberWay. What is this about."
+description: "CyberWay - blockchain for applications"
 date: 2019-08-13
 thumbnail: 'https://cdn1.imggmi.com/uploads/2019/8/14/70cbe543b797b589ce54b3821647fdef-full.png'
 heroImage: 'https://cdn1.imggmi.com/uploads/2019/8/14/70cbe543b797b589ce54b3821647fdef-full.png'
