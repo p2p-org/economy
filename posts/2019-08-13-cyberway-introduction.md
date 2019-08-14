@@ -1,6 +1,6 @@
 ---
-title: "CyberWay. What is it all about?"
-description: "O Rly, mate?"
+title: "Introduction to CyberWay"
+description: "CyberWay. What is this about."
 date: 2019-08-13
 thumbnail: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
 heroImage: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
@@ -8,17 +8,10 @@ layout: Post
 category:
   - cyberway
 authors:
-  - MikhailKomarov
+  - KonstantinLomashuk
 company:
- - nilfoundation
+ - p2p
 ---
-
-Hello, World.
-
-Since I've been once closely related to the ex-Golos development, I'd like to
-take a look at what folks have done with it.
-
-TL;DR: Lesser than most evils. 
 
 Introduction
 ============
@@ -28,7 +21,7 @@ Since the development of the first so-called “blockchain” database named
 wondering how they could pay, bet, play, and even order pizza with such
 assets.
 
-The first complex transaction acceptance logic implementation was made available
+The first complex transaction logic implementation was made available
 right in “Bitcoin” with a stack virtual machine providing a limited set
 of operations for the end-user to make some fun with it. Fine example is
 an Omni-layer built on top of the operations set, which end-user
@@ -44,14 +37,13 @@ unnecessarily created from scratch programming language called
 it would not overflow the database throughput. Obviously this lead to
 another failure. Primal language and naive database architecture
 understanding did not survive the reality check - in 2017 the protocol
-was literally down with CryptoShitties hype.
+was literally down with CryptoKitties hype.
 
-The scalability troubles got up again, so another popular (which usually means 
-extremely bad) solution was rapidly proposed. It’s name was EOS. The solution 
-was to split the computable transaction complex behaviour and replication
-computations, and then process it with the set of cluster nodes, which were 
-called “Block producers”. This lead to the entrustment of an enourmous 
-responsibility to these “Block producers”.
+The scalability troubles got up again, so another popular solution was
+rapidly proposed. It’s name was EOS. The solution was to split the
+computable transaction complex behaviour and to process it with the set
+of cluster nodes, which were called “Block producers”. This lead to the
+entrustment of an enourmous responsibility to these “Block producers”.
 They were now not only about data storage providers, but also
 computation providers. Now these guys not only store and process your
 data, but they even define the way your transaction behaves itself,
@@ -60,18 +52,13 @@ Futhermore, such an “improvement” lead to the unacceptable database node
 hardware requirements, which made the support truly awful. Moreover such
 a split was not enough for building production-ready applications - who
 would like to find out if the upvote transaction, which was even payed
-for, was at first queued, then rejected and then some author was put into a 
-blacklist?
+for, was at first queued and then rejected?
 
-Furthermore, lots of technical issues along with awful data storage and 
-protocol architecture were still there, so I was not impressed.
-
-You got something else?
------------------------
+You have something to propose?
+------------------------------
 
 Yeap. The following blog post series is about the CyberWay
-(<https://cyberway.io>) - an attempt to make a cheaper and faster version of
-EOS.
+(<https://cyberway.io>) - improved and refactored EOS fork.
 
 Proposal
 ========
@@ -81,7 +68,8 @@ So what is CyberWay particularily about?
 EOS-compatibility
 -----------------
 
-First of all the backward compatibility is held. So-called
+First of all the backward compatibility is held. The code contains most
+of the tolerable EOS parts, but excludes the awful ones. So-called
 “Smart Contracts” API backward compatiblity is held too, but the insides
 have changed. That means every EOS application could easily become the
 CyberWay-based one and vice versa. Enough of that. Next.
@@ -93,10 +81,11 @@ EOS’s bandwidth distribution is closely related to the amount of asset
 the particular user owns. Furthermore, it requires for the user to hold
 the asset to be available for the usage at any time. That means the
 asset becomes a highly valuable, but also it becomes the non-available
-for the newcomers one. So, seems like, no newcoming applications are welcomed 
-to be built with EOS.
+for the newcomers one. So no newcoming applications are welcomed to be
+built with EOS.
 
-Cyberway introduces some changes.
+Striving to eliminate these inconveniences Cyberway introduces some
+changes.
 
 The bandwitdh accounting is split to the couple of categories:
 
@@ -114,15 +103,11 @@ data is saved and restored after restart correctly. Futhermore EOS does
 not provide any convenient API, but supposes the data structure stored
 inside would be complex.
 
-CyberWay does not solve, but walks these troubles around. CyberWay uses the 
-external DBMS for the cold state storage, which means the particular developer 
-favourite query language can be used and the external well-designed replication 
-and clusterisation mechanisms, done by real engineers and scientists, are
-also about making life easier.
-
-This is obviously slower and requires more powerful hardware, but this is better
-than trying to do something, the particular project does not know how and not
-intends to.
+CyberWay solves these troubles. CyberWay uses the external DBMS for the
+state storage, which means the particular developer favourite query
+language can be used and the external well-designed replication and
+clusterisation mechanisms, done by real engineers and scientists, are
+also about to reduce the hardware costs and make life easier.
 
 Event Engine
 ------------
@@ -139,12 +124,10 @@ outside.
 Virtualization
 --------------
 
-Just like EOS, CyberWay requires for the transaction behavior to be
+Just like EOS, CyberWay requires for the transaction behaviour to be
 updated easier, than updating the whole cluster software. That is why
 the WebAssembly engine is used for the virtualization purposes and with
 C++ as primary language for the application development.
-
-Once again. Could be better, but lesser that most evils.
 
 Separation
 ==========
@@ -286,9 +269,9 @@ MongoDB is available, but in case of requirements, more are coming. Such
 a configuration considered to be troublesome for managing, but more
 reliable in long term.
 
-Embedded state storage is also promised to be available in CyberWay. 
-RocksDB is intended to be used as the in-memory storage management component, 
-which intends to be faster than MongoDB.
+Embedded state storage is also available in CyberWay. RocksDB is used
+for the in-memory and in-daemon storage management component that is faster than
+MongoDB.
 
 Event Engine
 ------------
@@ -327,24 +310,25 @@ Protocol Properties
 
 Protocol properties are also got changed comparing to EOS’s ones.
 
-So-called "Block" Generation
-----------------------------
+Block Generation
+----------------
 
-First of all, so-called "block" generation time is increased for achieving more
-stable node replication. EOS’s 0.5 second "block" replication time is fine
+First of all, block generation time is increased for achieving more
+stable node replication. EOS’s 0.5 second block replication time is fine
 for most application in case of all the nodes are located in the same
-datacenter. But as much the cluster nodes become long-distanced from each other,
-the more replication interval is required to be increased due to increased 
-network latency. CyberWay increases the "block" replication time to be 3 seconds.
+datacenter. But for truly distributed protocol, this requires to be
+increased due to increased network latency. CyberWay supposes the
+block replication time to be 3 seconds.
 
-So-called "Block" Producers
----------------------------
+Block Producers
+---------------
 
-"Block" producers are the key members of a protocol. They keep the database safe, 
-consistent and get rewarded for that.
+Block producers are the key members of a protocol. They keep the
+database safe and consistent and get rewarded for that.
 
-Inspite of EOS’s 21 default "block" producers, in CyberWay the amount of "block" 
-producers is promised to be increased up to 101 in the future. 
+Inspite of EOS’s 21 default block producers, in CyberWay the number of block producers is to 
+be increased up to 101 in the future. This is required for more decentralization to
+be achieved.
 
 Consensus Algorithm
 -------------------
@@ -372,15 +356,14 @@ Moreover, the passive users are diluted as they do not get any rewards from vali
 What if some user considers another user to understand better, which
 block producer is the best service provider? This gets covered
 by CyberWay with a proxy mechanism which ensures that some user could delegate
-his own assets to another user called “Proxy”. The proxy user gets fees for its 
-service.
+his own assets to another user called “Proxy”. The proxy user gets fees for its service.
 
 Censorship
 ----------
 
 In contrast to EOS, CyberWay completely removes any inequality between the users.
-There are no privileged accounts, no so-called bullshit “Constitution”,
-no blacklists. Which seems good to me.
+There are no privileged accounts, no so-called “Constitution”,
+no blacklists.
 
 Workers
 -------
@@ -393,15 +376,11 @@ particular improvement to resolve is selected via voting by validators.
 Conslusion
 ==========
 
-CyberWay is one more EOS fork, which intention is to be specified to handle 
-more complex applications with lesser cluster node localization requirements. 
-Protocol supposes for the "workers" to be present, so it could ease out the 
-features and improvements management job for the developers team.
-The absence of censorship and priveledged accounts makes CyberWay cluster 
-protocol some kind of more fair-playing.
+CyberWay is one more fork of EOS, specified to handle more complex
+applications with more decentralization available. Workers are
+considered to be the most powerful tool for decentralized protocol
+improvements. The scalability and performance CyberWay introduces is
+fine enough for running complex social applications or financial service apllications
+or gaming applications. The absence of censorship and priveledged accounts 
+makes CyberWay even more decentralized, which is coming in the next blog post.
 
-In my honest opinion, there is no revolutionary changes at all, but this attempt
-to make EOS eatable with social applications on top of it deserves a chance.
-
-I'm going to try to make a more detailed review on particular protocol features
-in newcoming blog posts.
