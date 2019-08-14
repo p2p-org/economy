@@ -10,14 +10,14 @@ category:
 authors:
   - KonstantinLomashuk
 company:
- - p2p
+ - cyberway
 ---
 
 Introduction
 ============
 
-Since the development of the first so-called “blockchain” database named
-“Bitcoin”, complex transaction behaviour was a “Holy Grail” for people
+Since the development of the first blockchain database named “Bitcoin”, 
+complex transaction behaviour was a “Holy Grail” for people
 wondering how they could pay, bet, play, and even order pizza with such
 assets.
 
