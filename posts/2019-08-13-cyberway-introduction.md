@@ -2,13 +2,13 @@
 title: "Introduction to CyberWay"
 description: "CyberWay. What is this about."
 date: 2019-08-13
-thumbnail: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
-heroImage: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
+thumbnail: 'https://cdn1.imggmi.com/uploads/2019/8/14/70cbe543b797b589ce54b3821647fdef-full.png'
+heroImage: 'https://cdn1.imggmi.com/uploads/2019/8/14/70cbe543b797b589ce54b3821647fdef-full.png'
 layout: Post
 category:
   - cyberway
 authors:
-  - KonstantinLomashuk
+  - MarinaGuryeva
 company:
  - cyberway
 ---
@@ -31,13 +31,12 @@ transfer. Unfortunately, such an application logic usage rapidly overflowed the
 throughput available, so no mass adoption happened.
 
 Another attempt to provide the customizable complex transaction
-behaviour was made with creation of “Ethereum”, which provided an
-unnecessarily created from scratch programming language called
-“Solidity” for creation of even more complex application logic, hoping
-it would not overflow the database throughput. Obviously this lead to
-another failure. Primal language and naive database architecture
-understanding did not survive the reality check - in 2017 the protocol
-was literally down with CryptoKitties hype.
+behaviour was made with creation of “Ethereum”, which provided some 
+created from scratch programming language called “Solidity” for creation of 
+even more complex application logic, hoping it would not overflow the database 
+throughput. Obviously this lead to another failure. Primal language and naive 
+database architecture understanding did not survive the reality check - in 2017 
+the protocol was literally down with CryptoKitties hype.
 
 The scalability troubles got up again, so another popular solution was
 rapidly proposed. It’s name was EOS. The solution was to split the
