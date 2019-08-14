@@ -8,7 +8,7 @@ layout: Post
 category:
   - cyberway
 authors:
-  - MarinaGuryeva
+  - MarinaGureva
 company:
  - cyberway
 ---
