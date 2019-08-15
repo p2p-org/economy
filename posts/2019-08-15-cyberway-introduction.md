@@ -2,8 +2,8 @@
 title: "Introduction to CyberWay"
 description: "CyberWay - blockchain for applications"
 date: 2019-08-15
-thumbnail: 'https://i.ibb.co/XsLnMDx/Cyber.jpg'
-heroImage: 'https://i.ibb.co/XsLnMDx/Cyber.jpg'
+thumbnail: 'https://i.ibb.co/mSL3DLJ/1240x698.png'
+heroImage: 'https://i.ibb.co/mSL3DLJ/1240x698.png'
 layout: Post
 category:
   - cyberway
