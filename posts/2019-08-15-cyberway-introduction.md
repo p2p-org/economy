@@ -1,9 +1,9 @@
 ---
 title: "Introduction to CyberWay"
 description: "CyberWay - blockchain for applications"
-date: 2019-08-13
-thumbnail: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
-heroImage: 'https://mir-s3-cdn-cf.behance.net/project_modules/hd/a916e374310853.5c2bc6ebc535a.png'
+date: 2019-08-15
+thumbnail: 'https://i.ibb.co/mSL3DLJ/1240x698.png'
+heroImage: 'https://i.ibb.co/mSL3DLJ/1240x698.png'
 layout: Post
 category:
   - cyberway
