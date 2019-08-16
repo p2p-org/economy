@@ -48,10 +48,12 @@ step 1: Open your wallet and select your delegating account
 step 2: Press Delegate than Update delegate buttons
 
 step 3: Confirm with Ledger and enter P2P Validator address, finally Confirm once more.
-   
-![](https://drive.google.com/uc?id=1avxxK83T5zukQWaw9pvOpHWYMf4d0W7j)
+
+
 
 K: Do you recommend that I choose P2P Validator?
+   
+![](https://drive.google.com/uc?id=1avxxK83T5zukQWaw9pvOpHWYMf4d0W7j)
 
 A: Absolutely. They are extremely efficient, have a great track record and only charge a fair validator fee.
 
