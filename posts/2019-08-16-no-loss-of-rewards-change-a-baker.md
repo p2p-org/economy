@@ -14,12 +14,12 @@ authors:
 company:
  - p2p
 ---
-> Enjoy a second post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering losing rewards, stopping baking and redelegation in Tezos blockchain in our comic-strip. 
+> Enjoy a second post in our comic-strip of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering loss of rewards, stopping baking and redelegation in Tezos blockchain. 
 
 
 Arthur is having dinner with Kate, a colleague from work. They get on very well and talk about a lot of things about themselves.  They discover they both have the same opinion about banks - they are crypto-enthusiasts. 
 
-![](https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw)
+![](https://drive.google.com/uc?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7)
 
 Arthur and Kate share their experiences with PoS tokens. They both love Tezos as an up-and-coming network. 
 
