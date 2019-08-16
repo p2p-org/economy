@@ -17,7 +17,7 @@ company:
 > Enjoy a second post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering losing rewards, stopping baking and redelegation in Tezos blockchain in our comic-strip. 
 
 
-![](https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7)
+![](https://docs.google.com/drawings/d/1PhSTIE3XXLbj3zV3rNzjPtT-n43xBdoY5vqgl9Ap8zw/edit?usp=sharing)
 
 Arthur is having dinner with Kate, a colleague from work. They get on very well and talk about a lot of things about themselves.  They discover they both have the same opinion about banks - they are crypto-enthusiasts. 
 
