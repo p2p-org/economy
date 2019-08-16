@@ -2,8 +2,8 @@
 title: "No loss of rewards, change a baker!"
 description: "Arthur has a romantic dinner with Kate and gives some good advice..."
 date: 2019-08-16
-thumbnail: 'https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw'
-heroImage: 'https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw'
+thumbnail: 'https://drive.google.com/uc?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7'
+heroImage: 'https://drive.google.com/uc?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7'
 layout: Post
 category:
   - Eli5
