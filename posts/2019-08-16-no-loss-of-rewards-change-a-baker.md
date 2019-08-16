@@ -27,7 +27,7 @@ Arthur and Kate share their experiences with PoS tokens. They both love Tezos as
 
 Arthur: Who is your delegator? I have been with P2P Validator since 2018. I love their intuitive dashboard - I can see my rewards and rewards history at a glance.
 
-![](https://lh3.google.com/u/0/d/1WNWs3IxuKa_3v-2iIx_fREtuXYnOhS5K=w2608-h1476-iv2)
+![](https://drive.google.com/uc?id=1WNWs3IxuKa_3v-2iIx_fREtuXYnOhS5K)
 
 Kate: Oh, I really struggle to find out my rewards. My delegator is terrible at keeping me in the loop. I discovered they didn’t pay my rewards on time or in full. It’s a real headache. 
 
