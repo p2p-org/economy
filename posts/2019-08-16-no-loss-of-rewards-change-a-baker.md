@@ -17,11 +17,9 @@ company:
 > Enjoy a second post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering losing rewards, stopping baking and redelegation in Tezos blockchain in our comic-strip. 
 
 
-![](https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw)
-
 Arthur is having dinner with Kate, a colleague from work. They get on very well and talk about a lot of things about themselves.  They discover they both have the same opinion about banks - they are crypto-enthusiasts. 
 
-![](https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg)
+![](https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw)
 
 Arthur and Kate share their experiences with PoS tokens. They both love Tezos as an up-and-coming network. 
 
@@ -33,7 +31,7 @@ Kate: Oh, I really struggle to find out my rewards. My delegator is terrible at 
 
 A: Be carefull, maybe in future they may not pay at all. Why not change? It's really simple.
 
-![](https://drive.google.com/uc?id=1mePe_V65XRler6JuTGBd7RAqfIe29L9k.jpg)
+![](https://drive.google.com/uc?id=1mePe_V65XRler6JuTGBd7RAqfIe29L9k)
 
 K: Won't I lose my rewards while I’m redelegating?
 
@@ -43,7 +41,7 @@ K: That sounds great! How do I get started?
 
 A: It’s easy, just follow these simple steps: 
  
-![](https://drive.google.com/uc?id=1PxJwyJKI4tZyFbURfLKDyPupwrMVK2zb.jpg)
+![](https://drive.google.com/uc?id=1PxJwyJKI4tZyFbURfLKDyPupwrMVK2zb)
 
 step 1: Open your wallet and select your delegating account
 
@@ -51,7 +49,7 @@ step 2: Press Delegate than Update delegate buttons
 
 step 3: Confirm with Ledger and enter P2P Validator address, finally Confirm once more.
    
-![](https://drive.google.com/uc?id=1avxxK83T5zukQWaw9pvOpHWYMf4d0W7j.jpg)
+![](https://drive.google.com/uc?id=1avxxK83T5zukQWaw9pvOpHWYMf4d0W7j)
 
 K: Do you recommend that I choose P2P Validator?
 
@@ -61,7 +59,7 @@ K: You’ve sold them to me. How about coming up for a cup of coffee and help me
 
 A: This will be the beginning of a beautiful relationship!
 
-![](https://drive.google.com/uc?id=1uPgFiivOWjwmTIFCQzNyV9DAAIATJqyo.jpg)
+![](https://drive.google.com/uc?id=1uPgFiivOWjwmTIFCQzNyV9DAAIATJqyo)
 
 *In our next story you will learn about Proof-of-Stake (POS) and staking. Let us know what you think and make suggestions for topics you would like us to cover.*
 
