@@ -2,8 +2,8 @@
 title: "No loss of rewards, change a baker!"
 description: "Arthur has a romantic dinner with Kate and gives some good advice..."
 date: 2019-08-16
-thumbnail: 'https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg'
-heroImage: 'https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg'
+thumbnail: 'https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw'
+heroImage: 'https://lh3.googleusercontent.com/y5YmMpXTcQu0pfbg8hCBk9qbEwPxVC_U6rmQfUZXXirGGFwJHsVPJPD5ouPEId-NoloKlc-2Cbl0NaCZ84P5=w1920-h1008-rw'
 layout: Post
 category:
   - Eli5
@@ -27,7 +27,7 @@ Arthur and Kate share their experiences with PoS tokens. They both love Tezos as
 
 Arthur: Who is your delegator? I have been with P2P Validator since 2018. I love their intuitive dashboard - I can see my rewards and rewards history at a glance.
 
-![](https://drive.google.com/open?id=1WNWs3IxuKa_3v-2iIx_fREtuXYnOhS5K.jpg)
+![](https://lh3.google.com/u/0/d/1WNWs3IxuKa_3v-2iIx_fREtuXYnOhS5K=w2608-h1476-iv2)
 
 Kate: Oh, I really struggle to find out my rewards. My delegator is terrible at keeping me in the loop. I discovered they didn’t pay my rewards on time or in full. It’s a real headache. 
 
