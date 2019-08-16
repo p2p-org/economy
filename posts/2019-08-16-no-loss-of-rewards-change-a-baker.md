@@ -1,6 +1,6 @@
 ---
 title: "No loss of rewards, change a baker!"
-description: "A story about John’s XTZ delegation. John has some Tezos tokens and wants to receive rewards. He takes them to a baker..."
+description: "Arthur has a romantic dinner with Kate and gives some good advice..."
 date: 2019-08-16
 thumbnail: 'https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg'
 heroImage: 'https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg'
@@ -16,7 +16,6 @@ company:
 ---
 > Enjoy a second post of [Eli5 series](https://economy.p2p.org/category/Eli5/) covering losing rewards, stopping baking and redelegation in Tezos blockchain in our comic-strip. 
 
-Arthur has a romantic dinner with Kate and gives some good advice... 
 
 ![](https://drive.google.com/open?id=1vg-eKYzsSN4hwPS7Bm_fuwDu57UTyQc7.jpg)
 
