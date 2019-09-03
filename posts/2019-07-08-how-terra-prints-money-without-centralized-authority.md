@@ -28,7 +28,7 @@ The core idea of Terra project is to bring on the market a stable family of cryp
 
 There are three types of stablecoin implementations:
 
-- *Collateralized* (fiat or crypto or mixed) each coin is backed by a defined currency at some ratio which covers spikes in demand. This type is the most common one and include such prominent projects as Maker (DAI), TrueUSD or Kava (USDX)
+- *Collateralized* (fiat or crypto or mixed) each coin is backed by a defined currency at some ratio which covers spikes in demand. This type is the most common one and include such prominent projects as Maker (DAI), TrueUSD or [Kava (USDX)](https://economy.p2p.org/kava-the-first-decentralized-lending-platform-in-cosmos)
 
 - *Algorithmic* (utilizes various mechanisms to follow the peg)
 
