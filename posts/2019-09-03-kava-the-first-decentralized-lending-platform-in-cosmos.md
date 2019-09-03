@@ -33,9 +33,10 @@ Kava is the first decentralized bank in the [Cosmos ecosystem](https://economy.p
 
 Cosmos ecosystem is designed with existing assets like Bitcoin or Ripple in mind. If we assume that just `1%` of `BTC` will take part in DeFi it will result in more than `1,5 billion USD` value injection also adding to a scarcity of `BTC` positively influencing the cryptocurrency market in general.
 
---------
+---
 *In the next chapters we will dive deeper into details of Kava platform and cover staking benefits, CDP, existing risks associated with staking and other important topics.*
---------
+
+---
 
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
