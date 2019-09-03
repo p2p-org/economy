@@ -19,7 +19,7 @@ We live in a world of finance. Monetary incentives and market movements influenc
 
 ![Picturee Cosmos DeFi + BTC, XRP, ETH -> Kava - K, USDX](https://imgur.com/T8DKKpE.jpg)
 
-Kava is the first decentralized bank in the Cosmos ecosystem bridging broad digital assets to DeFi. With interoperability in mind and solid team cross-chain expertise Kava blockchain will bring new markets to the Cosmos ecosystem providing users with the liquidity and the necessary fundamentals for DeFi applications and services.
+Kava is the first decentralized bank in the [Cosmos ecosystem](https://economy.p2p.org/introduction-to-cosmos-economy) bridging broad digital assets to DeFi. With interoperability in mind and solid team cross-chain expertise Kava blockchain will bring new markets to the Cosmos ecosystem providing users with the liquidity and the necessary fundamentals for DeFi applications and services.
 
 # 4 "De-s" of Kava
 
@@ -33,11 +33,11 @@ Kava is the first decentralized bank in the Cosmos ecosystem bridging broad digi
 
 Cosmos ecosystem is designed with existing assets like Bitcoin or Ripple in mind. If we assume that just `1%` of `BTC` will take part in DeFi it will result in more than `1,5 billion USD` value injection also adding to a scarcity of `BTC` positively influencing the cryptocurrency market in general.
 
-------
-
+---
 *In the next chapters we will dive deeper into details of Kava platform and cover staking benefits, CDP, existing risks associated with staking and other important topics.*
 
-------
+---
+
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
 **Web:**[ https://p2p.org](https://p2p.org)
