@@ -31,7 +31,7 @@ Kava is the first decentralized bank in the [Cosmos ecosystem](https://economy.p
 
 **4) De-centralized governance and ownership.** The most exciting part is that everyone can participate in the project's evolution and own a share of the network. All participants who stake native token `KAVA` will be rewarded for effective governance depending on transaction fees, total supply emission and repaid loan fees. 
 
-Cosmos ecosystem is designed with existing assets like Bitcoin or Ripple in mind. If we assume that just `1%` of `BTC` will take part in DeFi it will result in more than `1,5 billion USD` value injection also adding to a scarcity of `BTC` positively influencing the cryptocurrency market in general.
+Cosmos ecosystem is designed with existing assets like `BTC` or `XRP` in mind. If we assume that just `1%` of `BTC` will take part in DeFi it will result in more than `1,5 billion USD` value injection also adding to a scarcity of `BTC` positively influencing the cryptocurrency market in general.
 
 ---
 *In the next chapters we will dive deeper into details of Kava platform and cover staking benefits, CDP, existing risks associated with staking and other important topics.*
