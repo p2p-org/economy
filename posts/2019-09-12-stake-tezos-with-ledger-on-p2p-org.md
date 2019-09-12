@@ -30,7 +30,7 @@ To become a delegator or re-delegate your XTZ tokens you just need to perform th
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
-**Stake your XTZ with us:** [https://p2p.org/tezos](p2p.org/tezos)
+**Stake your XTZ with us:** [https://p2p.org/tezos](https://p2p.org/tezos)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
