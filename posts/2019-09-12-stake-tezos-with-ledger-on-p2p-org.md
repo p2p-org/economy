@@ -19,7 +19,7 @@ One of the most secure ways to become a delegator is to use cold staking from yo
 
 ![Stake Tezos](https://imgur.com/DzsTMmr.jpg)
 
-To become a delegator or re-delegate your XTZ tokens you just need to perform three simple steps that take less than five minutes. [Try it now](p2p.org/tezos) and enjoy simple and secure staking!
+To become a delegator or re-delegate your XTZ tokens you just need to perform three simple steps that take less than five minutes. [Try it now](https://p2p.org/tezos) and enjoy simple and secure staking!
 
 ------
 
@@ -30,7 +30,7 @@ To become a delegator or re-delegate your XTZ tokens you just need to perform th
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
-**Stake your XTZ with us:** [p2p.org/tezos](p2p.org/tezos)
+**Stake your XTZ with us:** [https://p2p.org/tezos](p2p.org/tezos)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
