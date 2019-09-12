@@ -1,3 +1,34 @@
-
-{ "economy": "economy", "staking": "staking", "cosmos": "cosmos", "terra":"terra", "Eli5": "Explain like I'm Five", "tezos": "tezos", "cyberway": "cyberway", "kava": "kava"}
-
+{
+  "economy": {
+    "name": "economy",
+    "description": "P2PEconomy is changing the main criterion for economic decision-making from the desire to increase individual capital (capitalism) and public property (socialism) to new motivation criterion equilibrium"
+  },
+  "staking": {
+    "name": "staking",
+    "description": "Staking is a new paradigm of energy-efficient and environment-friendly mining accessible for everyone. By staking you support a network and earn passive income"
+  },
+  "cosmos": {
+    "name": "cosmos",
+    "description": "Cosmos is a decentralized network of independent and interoperable blockchains where Cosmos Hub is the first Proof-Of-Stake blockchain that will provide the connection within the whole ecosystem"
+  },
+  "terra": {
+    "name": "terra",
+    "description": "Terra is a stablecoin family that achieve stability with a staking token LUNA that serves as a collateral. Terra will power the next-generation payment network evolving into a new financial paradigm"
+  },
+  "Eli5": {
+    "name": "Explain like I'm Five",
+    "description": "Explain like I'm five is a short series of writings covering reward distribution, slashing and other important aspects of staking explained in a simple way like for a five year old child"
+  },
+  "tezos": {
+    "name": "tezos",
+    "description": "Tezos is an open-source smart-contract platform for assets and applications that incorporates a process for upgrading the protocol through on-chain governance in a decentralized manner"
+  },
+  "cyberway": {
+    "name": "cyberway",
+    "description": "Cyberway is a flexible decentralized platform specified to handle more complex applications with microservice infrastructure"
+  },
+  "kava": {
+    "name": "kava",
+    "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi enabling users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
+  }
+}
