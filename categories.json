@@ -31,4 +31,7 @@
     "name": "kava",
     "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi enabling users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
   }
+  "kusama": {
+    "name": "kusama"
+  }
 }
