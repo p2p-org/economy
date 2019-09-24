@@ -1,7 +1,7 @@
 ---
 title: "Kusama network delegation guide"
 description: "Step by step explanation of KSM delegation procedure"
-date: 2019-09-23
+date: 2019-09-24
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/jpbF7jU.jpg'
 layout: Post
@@ -16,7 +16,11 @@ company:
 
 *If you participated in a Polkadot fundraiser and received your DOT indicator tokens you can claim KSM with your original Ethereum address.* 
 
-[TOC]
+[Create an account on Kusama network](#Create-an-account-on-Kusama-network)
+
+[Claim your KSM](#Claim-your-KSM)
+
+[Nominate validators](#Nominate-validators)
 
 # Create an account on Kusama network
 
@@ -98,7 +102,7 @@ After that you will get an output. Copy and paste it into the empty box in the P
 
 If you have a valid claim you will see a green box. This means that you are able to take part in staking and governance. Token transfers are prohibited at the moment.
 
-# Delegate your KSM
+# Nominate validators
 
 
 
