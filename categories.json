@@ -5,19 +5,19 @@
   },
   "staking": {
     "name": "staking",
-    "description": "Staking is a new paradigm of energy-efficient and environment-friendly mining accessible for everyone. By staking you support a network and earn passive income"
+    "description": "Staking is a new paradigm of energy-efficient and environment-friendly mining accessible to everyone. By staking you support a network and earn passive income"
   },
   "cosmos": {
     "name": "cosmos",
-    "description": "Cosmos is a decentralized network of independent and interoperable blockchains where Cosmos Hub is the first Proof-Of-Stake blockchain that will provide the connection within the whole ecosystem"
+    "description": "Cosmos is a decentralized network of independent and interoperable blockchains where Cosmos Hub is the first Proof-Of-Stake blockchain that will provide connectivity within the whole ecosystem"
   },
   "terra": {
     "name": "terra",
-    "description": "Terra is a stablecoin family that achieve stability with a staking token LUNA that serves as a collateral. Terra will power the next-generation payment network evolving into a new financial paradigm"
+    "description": "Terra is a stablecoin family that achieves stability with a staking token LUNA that serves as collateral. Terra will power the next-generation payment network evolving into a new financial paradigm"
   },
   "Eli5": {
     "name": "Explain like I'm Five",
-    "description": "Explain like I'm five is a short series of writings covering reward distribution, slashing and other important aspects of staking explained in a simple way like for a five year old child"
+    "description": "'Explain like I'm five' is a short series of articles covering reward distribution, slashing and other important aspects of staking explained in a simple way like for a five year old child"
   },
   "tezos": {
     "name": "tezos",
@@ -25,13 +25,14 @@
   },
   "cyberway": {
     "name": "cyberway",
-    "description": "Cyberway is a flexible decentralized platform specified to handle more complex applications with microservice infrastructure"
+    "description": "Cyberway is a flexible decentralized platform specifically designed to handle more complex applications with microservice infrastructure"
   },
   "kava": {
     "name": "kava",
-    "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi enabling users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
+    "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi. This enables users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
   },
   "kusama": {
     "name": "kusama"
+    "description": "Kusama is an early and experimental version of Polkadot created for testing network parameters, parachains and other activities."
   }
 }
