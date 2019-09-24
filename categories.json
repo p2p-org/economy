@@ -32,7 +32,7 @@
     "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi. This enables users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
   },
   "kusama": {
-    "name": "kusama"
+    "name": "kusama",
     "description": "Kusama is an early and experimental version of Polkadot created for testing network parameters, parachains and other activities."
   }
 }
