@@ -16,11 +16,11 @@ company:
 
 *If you participated in a Polkadot fundraiser and received your DOT indicator tokens you can claim KSM with your original Ethereum address.* 
 
-[Create an account on Kusama network](#Create-an-account-on-Kusama-network)
+[Create an account on Kusama network](#create-an-account-on-kusama-network)
 
-[Claim your KSM](#Claim-your-KSM)
+[Claim your KSM](#claim-your-ksm)
 
-[Nominate validators](#Nominate-validators)
+[Nominate validators](#nominate-validators)
 
 # Create an account on Kusama network
 
