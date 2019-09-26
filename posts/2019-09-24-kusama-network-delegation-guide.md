@@ -176,6 +176,8 @@ Sign and submit the transaction.
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
+**Stake KSM with us:**[https://p2p.org/kusama](https://p2p.org/kusama)
+
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
 **Telegram:**[ https://t.me/kusama_p2pvalidator](https://t.me/kusama_p2pvalidator)
