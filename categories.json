@@ -34,5 +34,9 @@
   "kusama": {
     "name": "kusama",
     "description": "Kusama is an early and experimental version of Polkadot created for testing network parameters, parachains and other activities."
+  },
+  "daobet": {
+    "name": "daobet",
+    "description": "DAOBet is an infrastructure for the gambling and other iGaming sectors regulated by technology and managed by individuals."
   }
 }
