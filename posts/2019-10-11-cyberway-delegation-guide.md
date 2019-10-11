@@ -16,13 +16,11 @@ company:
 
 
 
-*To participate in Cyberway economy you need to purchase CYBER tokens on kuna.io exchange. To become a delegator you can stake using [cleos](https://cyberway.gitbook.io/en/validators/stake_usage_guide) or transfer tokens to your golos.io account.*
+*To participate in Cyberway economy you need to purchase CYBER tokens on kuna.io exchange. To become a delegator you can stake using [cleos](https://cyberway.gitbook.io/en/validators/stake_usage_guide) or transfer tokens to your golos.io account and delegate from there.*
 
 
 
 **Create an account on golos.io**
-
-
 
 Visit golos.io web page
 
@@ -32,15 +30,13 @@ Visit golos.io web page
 
 Press `sign up` and complete all the required fields 
 
- ![img](https://lh5.googleusercontent.com/4lh8rDrJkSPeFEkulnVZ3K30tSA7UBqwVIFJ5n2tgcWdvqhx6EurQpG6MTdjxLnOYq2jpshXQnibUhbnlomXkWNVoUJlXYK145Vq7LRFD2mKVVOqz3kQQdLudwe0e9IA4DHIvXFe)
+ ![img](https://imgur.com/Z22JHt7.jpg)
 
 After filling in the verification code you will get a pdf file with all the information related to your account. Save it in a secure place.
 
 
 
 **Send CYBER tokens to your account**
-
-
 
 Press `three-dot` button on the top right side of the screen
 
@@ -84,11 +80,11 @@ To delegate your stake to a validator you will need to convert your CYBER into a
 
 You will see a conversion window where you should select CYBER
 
-![img](https://lh3.googleusercontent.com/ocs3pAksf8V6yCaqSAqv7qjiCwWSVOlCkWhC_r8wX5yu-WdcXjBhSOL9LIhUryqjauREf6f9-Ly4ArAdAb1EVUi9ici-BktMgHQqVZZ8QrakAnDLn0fU0m2qBEoCwAHl31SCwioO)
+![img](https://imgur.com/f66EZxF.jpg)
 
 Fill the desired amount to bond and press `convert`
 
-![img](https://lh6.googleusercontent.com/MWt_yghMhAIynH7rTVoK3EOwH-e7FqVzuffDNu0u1tXM5AZTn1l_VxoWZn-UYScNNkAzf8JO88egm_uWaiC05ZWr-BjtT7WPgf1jMg7LJ12QHPEDlTLDqR103ZMjZDY9Z37AogMm)
+![img](https://imgur.com/OxFih4e.jpg)
 
 
 
@@ -135,8 +131,6 @@ Congratulations! You have finished the delegation process. You will receive your
 **P2P Validator** offers high-quality staking facilities and provides up to date information for educational purposes. Stay tuned for updates and new blog posts.
 
 **Web:**[ https://p2p.org](https://p2p.org)
-
-**Stake CYBER with us:** [ https://p2p.org/cyberway](https://p2p.org/cyberway)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
