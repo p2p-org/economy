@@ -60,10 +60,10 @@ Go to the folder `cd ~/go/src/`
 
 Execute:
 
-  `git clone https://github.com/kava-labs/kava`
-  `cd kava`
-  `git checkout v0.3.1
-  `make install`
+`git clone https://github.com/kava-labs/kava`
+`cd kava`
+`git checkout tags/v0.3.1`
+`make install`
 
 If everything went as it should in the folder `~/go/bin` appeared `- kvd` and `- kvcli` packets
 
