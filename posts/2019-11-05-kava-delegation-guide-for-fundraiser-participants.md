@@ -80,7 +80,7 @@ If everything went as it should in the folder `~/go/bin` appeared `- kvd` and `-
 
 **3) Delegate KAVA tokens**
 
-*In the following instruction all commands sent from a network node in testnet and `chain id` and `validator address` parameters in screenshots differ from the mainnet values. The actual values for mainnet provided below.*
+*In the following instruction all commands were sent from a network node in testnet and `chain id` and `validator address` parameters on screenshots differ from the mainnet values. The actual values provided below.*
 
 To make actions further you should have:
 
@@ -88,7 +88,7 @@ To make actions further you should have:
 
 * Active node
 
-Make sure that account exist and have positive balance:
+Make sure that account exists and has a positive balance:
 
  `kvcli keys list`
 
@@ -109,7 +109,8 @@ Make sure that account exist and have positive balance:
 *Important note*, delegation amount nominated in uKAVA. For instance, if you want to stake 100 KAVA you should enter 100000000 in the amount field.
 
 *P2P Validator address:* **kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg**
-*Chain ID:* **kava-1**
+
+Chain ID: **kava-1**
 
 For delegation execute:
 
