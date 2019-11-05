@@ -1,9 +1,9 @@
 ---
 title: "Kava delegation guide for fundraiser participants"
 description: "Step by step guide to stake KAVA tokens with P2P Validator"
-date: 2019-05-11
+date: 2019-11-05
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/a/CotJBJx.jpg'
+heroImage: 'https://imgur.com/B3tFJfK.jpg'
 layout: Post
 category:
   - kava
