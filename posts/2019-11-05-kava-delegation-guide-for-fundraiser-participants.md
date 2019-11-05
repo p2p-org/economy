@@ -31,7 +31,9 @@ Requirements:
 *-Download Go:*
 
 `wget https://dl.google.com/go/go1.13.1.linux-amd64.tar.gz`
+
 `sudo tar -C /usr/local -xzf go1.13.1.linux-amd64.tar.gz`
+
 `mkdir -p ~/go/{bin,src,pkg}`
 
 For correct work of Go you will need to define environment variables
@@ -39,15 +41,21 @@ For correct work of Go you will need to define environment variables
 Execute following commands by rotation:
 
  `export PATH=$PATH:/usr/local/go/bin`
+
  `export GOPATH=$HOME/go`
+
  `export GOBIN=$GOPATH/bin`
+
  `export PATH=$PATH:$GOBIN`
 
 For convenience add these strings to the current user profile. In Ubuntu it is: `~/.profile`. Execute `nano ~/.profile` and put strings from the previous step in the end of the file:
 
   `export PATH=$PATH:/usr/local/go/bin`
+
   `export GOPATH=$HOME/go`
+
   `export GOBIN=$GOPATH/bin`
+
   `export PATH=$PATH:$GOBIN`
 
 ![img](https://lh6.googleusercontent.com/z1xgb-QnqfZ13Q2xZqlRYHf2cCpfcj93ikbqdHxX0mdPTISTCv0sg5Ic6RgrEGD-hgPylKsVqUklRnJOIXwRl991czdeUhKRLGjXZt80U-5DFW5RJk3M4ADGmjEhXOxxjPHce8wr)
@@ -61,8 +69,11 @@ Go to the folder `cd ~/go/src/`
 Execute:
 
 `git clone https://github.com/kava-labs/kava`
+
 `cd kava`
+
 `git checkout tags/v0.3.1`
+
 `make install`
 
 If everything went as it should in the folder `~/go/bin` appeared `- kvd` and `- kvcli` packets
