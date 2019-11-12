@@ -1,6 +1,6 @@
 ---
-title: "How to calculate available staking capacity of a Tezos baker"
-description: "The purpose of this post is to bring clarity in the calculation of a baker's free space"
+title: "Confusion with calculation of available staking capacity in Tezos. Who is right?"
+description: "The purpose of this post is to shed some light on calculation of baker's free space"
 date: 2019-11-12
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/jeNGYqU.jpg'
@@ -21,15 +21,19 @@ It may lead to a confusion when the same variable has different values on multip
 
 ### Example
 
-Stats for P2P Validator on various analytical tools for 11.11.2019:
+Stats for P2P Validator on various analytical tools for 11.12.2019:
 
-*Tzstats.io*: staking capacity = 17 466 726 XTZ resulting in available staking capacity = **5 517 514 XTZ**.
+*Tzstats.io*: staking capacity = 17 460 670 XTZ resulting in available staking capacity = **5 415 692 XTZ**.
 
-*MyTezosBaker*: available staking capacity = **1 359 639 XTZ**| staking capacity = 13 308 951 XTZ .
+*MyTezosBaker*: available staking capacity = **1 265 191 XTZ**| staking capacity = 13 307 167 XTZ.
 
-*Tezos Nodes*: available staking capacity = **3 431 493 XTZ** resulting in staking capacity = 15 380 805 XTZ.
+*Tezos Nodes*: available staking capacity = **3 358 978 XTZ** resulting in staking capacity = 15 403 956 XTZ.
 
-The difference between the values above is huge and cannot be explained by fluctuations of baking rights and endorsements. The purpose of this post is to establish a single approach for available staking capacity calculation and eliminate errors and confusion for end users on various analytical resources. Below I share my understanding of the correct approach to calculate this parameter and invite everyone in Tezos community to join the discussion, express your point of view or suggest other ways of thinking about this parameter.
+*Baking Bad:* available staking capacity = **2 512 000 XTZ** resulting in staking capacity = 14 557 000 XTZ.
+
+The difference between the values above is huge and cannot be explained by fluctuations of baking rights and endorsements. Who is right? 
+
+The purpose of this post is to establish a single approach for available staking capacity calculation and eliminate errors and confusion for end users on various analytical resources. Below I share my understanding of the correct approach to calculate this parameter and invite everyone in Tezos community to join the discussion, express your point of view or suggest other ways of thinking about this parameter.
 
 # Security deposit
 
@@ -63,11 +67,11 @@ Let's crunch some numbers:
 
 `preserved_cycles = 5`
 
-All these parameters are derived from a Tezos protocol and represent constant values until community decides to propose changes via governance procedure. The only dynamic parameter is `total_supply` which at the day of writing is equal *~ 815,54 million XTZ*. 
+All these parameters are derived from a Tezos protocol and represent constant values until community decides to propose changes via governance procedure. The only dynamic parameter is `total_supply` which at the day of writing is equal *~ 815,67 million XTZ*. 
 
 The actual self-bond requirement is floating as baking frequency and endorsement rights are changing but for this case we will not take possible baking deviations into consideration.
 
-The whole calculation of minimum self-bond requirement *if 100% tokens at stake* look like: `((512 + 64 * 32) * 4096 * (5+1)) / 815 540 000 = 7,71%`.
+The whole calculation of minimum self-bond requirement *if 100% tokens at stake* look like: `((512 + 64 * 32) * 4096 * (5+1)) / 815 670 000 = 7,71%`.
 
 With a decrease of total supply percentage at stake, minimum self-bond requirement will increase as overall share of frozen XTZ in a security deposit related to the participating tokens will be higher.
 
@@ -97,11 +101,11 @@ The answer to the second question is available staking capacity. To find this va
 
 `available_staking_capacity = max_balance - staking_balance`
 
-Using formulae from above we get available `staking capacity of P2P Validator = 3 476 030 XTZ`
+Using formulas from above we get available `staking capacity of P2P Validator = 3 398 942 XTZ`
 
-Seems like only[ Tezos Nodes](https://www.tezos-nodes.com/baker/tz1P2Po7YM526ughEsRbY4oR9zaUPDZjxFrb) uses a similar approach for calculation of a baker free space.
+Seems like only[ Tezos Nodes](https://www.tezos-nodes.com/baker/tz1P2Po7YM526ughEsRbY4oR9zaUPDZjxFrb) uses similar approach for calculation of a baker free space.
 
-Now you have all the necessary information to check by yourself if the self-bond is sufficient enough to bake and what is the [ spreadsheet with prepared calculations](https://docs.google.com/spreadsheets/d/1ZxRBHETPixxeYAG0efJbXsKeiIHPq1nGWJ2ZazND2a8/edit#gid=1765745933) for simplicity.
+Now you have all the necessary information to check by yourself if the self-bond is sufficient enough to bake and what is  the available staking capacity of a baker. In addition we have created a [ spreadsheet with prepared calculations](https://docs.google.com/spreadsheets/d/1ZxRBHETPixxeYAG0efJbXsKeiIHPq1nGWJ2ZazND2a8/edit#gid=1765745933) for simplicity.
 
 ------
 
