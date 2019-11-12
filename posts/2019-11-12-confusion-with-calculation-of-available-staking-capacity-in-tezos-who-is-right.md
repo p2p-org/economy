@@ -101,7 +101,7 @@ The answer to the second question is available staking capacity. To find this va
 
 `available_staking_capacity = max_balance - staking_balance`
 
-Using formulas from above we get available `staking capacity of P2P Validator = 3 398 942 XTZ`
+Using formulas from above we get `available staking capacity of P2P Validator = 3 398 942 XTZ`
 
 Seems like only[ Tezos Nodes](https://www.tezos-nodes.com/baker/tz1P2Po7YM526ughEsRbY4oR9zaUPDZjxFrb) uses similar approach for calculation of a baker free space.
 
