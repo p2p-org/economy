@@ -85,7 +85,7 @@ After finding the exact self-bond requirement we can answer two questions:
 
 To answer the first question we should find a self-bond share in the total staking balance.
 
-staking_balance = self_bond + delegated_balance
+`staking_balance = self_bond + delegated_balance`
 
 `self_bond / staking_balance * 100 = X%`.
 
