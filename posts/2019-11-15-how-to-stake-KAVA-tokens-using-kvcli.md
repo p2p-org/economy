@@ -118,11 +118,11 @@ If you have connection to the node, for delegation execute:
 
 If you don't have connection to the node you can use ours. Execute: 
 
-`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node [tcp://95.216.184.50:26657](tcp://95.216.184.50:26657)`
+`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node tcp://95.216.184.50:26657`
 
 If you used ledger to generate keys add `--ledger` in the end of command. Execute:
 
-`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node [tcp://95.216.184.50:26657](tcp://95.216.184.50:26657) --ledger `
+`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node tcp://95.216.184.50:26657 --ledger `
 
 Below is an example of the output you should get after successful delegation.
 
