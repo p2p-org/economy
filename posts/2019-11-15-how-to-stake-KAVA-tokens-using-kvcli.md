@@ -86,7 +86,7 @@ To make actions further you should have:
 
 * Kava account
 
-* Active node
+* Active node (if you don't have you can use our node)
 
 Make sure that account exists and has a positive balance:
 
@@ -106,15 +106,23 @@ Make sure that account exists and has a positive balance:
 
 ![img](https://lh6.googleusercontent.com/nCHMstEHBgRP3DTPsGdxpy2dt7Oe4SEwTKfpR8iSIKu-ID0d80gDY1Z6cqcZyxenQHnaapaoIOXNawNyDKD3vAtrwvH8z5mm5ul27sdpLsqoYg0AFe_oad_KsAGvNV21LXNbh4R5)
 
-*Important note*, delegation amount nominated in uKAVA. For instance, if you want to stake 100 KAVA you should enter 100000000 in the amount field.
+*Important note*, delegation amount nominated in uKAVA. For instance, if you want to stake 100 KAVA you should enter 100000000 in the amount field. Read this chapter in full before choosing the command for your case.
 
 *P2P Validator address:* **kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg**
 
 Chain ID: **kava-2**
 
-For delegation execute:
+If you have connection to the node, for delegation execute:
 
-`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from  --chain-id kava-2` 
+`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2` 
+
+If you don't have connection to the node you can use ours. Execute: 
+
+`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node [tcp://95.216.184.50:26657](tcp://95.216.184.50:26657)`
+
+If you used ledger to generate keys add `--ledger` in the end of command. Execute:
+
+`kvcli tx staking delegate kavavaloper12g40q2parn5z9ewh5xpltmayv6y0q3zs6ddmdg <amount of KAVA you want to stake>ukava --from <address> --chain-id kava-2 --node [tcp://95.216.184.50:26657](tcp://95.216.184.50:26657) --ledger `
 
 Below is an example of the output you should get after successful delegation.
 
