@@ -1,5 +1,5 @@
 ---
-title: "How to delegate KAVA tokens using kvcli"
+title: "How to stake KAVA tokens using kvcli"
 description: "Step by step guide to stake KAVA tokens with P2P Validator"
 date: 2019-11-15
 thumbnail: 'http://url-to-thumbnail.jpg'
@@ -14,7 +14,7 @@ company:
 
 ---
 
-*Staking of KAVA tokens will be available after a successful launch of Kava blockchain on mainnet. In this guide you will use `kvcli` to delegate.*
+*Staking will be available after a successful launch of Kava blockchain on mainnet. To use this guide you should have an existing account with KAVA tokens and connection to the node.*
 
 Requirements:
 
@@ -78,19 +78,9 @@ Execute:
 
 If everything went as it should in the folder `~/go/bin` appeared `- kvd` and `- kvcli` packets
 
-**3) Create Kava account and send your KAVA tokens there (skip if you already have an account)**
+**3) Delegate KAVA tokens**
 
-Execute `kvcli keys add <name>`
-
-![img](https://lh4.googleusercontent.com/J5zvkhwZFWblkjGTwY0MMikBimDyOelWXnZrI33rTznZ_vyV9dAUDX3xAKfP_ueRQWelpWiUNIM-_JA_kvkd7zeCG5P6hjgYNSCt7SJIV_sXk4kx_ZAvr06gJRRYRxX-GLD3mLGt)
-
-Save your pass phrase in a secure place. It will be required to restore your account. 
-
-If you have KAVA tokens on exchange send them to the generated address.
-
-**4) Delegate KAVA tokens**
-
-*In the following instruction all commands were sent from a network node in testnet and `chain id` and `validator address` parameters on screenshots differ from the mainnet values. The actual values provided below.*
+*In the following instruction all commands were sent from a network node in testnet and `chain id` and `validator address` values on screenshots differ from the mainnet values. The actual values provided below.*
 
 To make actions further you should have:
 
