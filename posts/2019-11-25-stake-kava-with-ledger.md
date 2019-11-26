@@ -2,8 +2,8 @@
 title: "Stake Kava  with your Ledger"
 description: "Step by step guide to stake KAVA tokens with P2P Validator"
 date: 2019-11-25
-thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/B3tFJfK.jpg'
+thumbnail: 'https://live.staticflickr.com/65535/49127717986_d106ee5ed5_o.png'
+heroImage: 'https://live.staticflickr.com/65535/49127717986_d106ee5ed5_o.png'
 layout: Post
 category:
   - kava
