@@ -20,10 +20,10 @@ company:
   To start go to [p2p.org/kava](https://p2p.org/kava?utm_source=Kava_Ledger&utm_medium=creds_link&utm_campaign=blog) and click "Delegate with Ledger" button
 
 ## Step 1. Connect your Ledger Device and Navigate to Cosmos App
-![](https://live.staticflickr.com/65535/49126466637_11c3e94ddb.jpg")
+![](https://live.staticflickr.com/65535/49126466637_765480cf72_o.png")
 
 ## Step 2. Choose amount
-![](https://live.staticflickr.com/65535/49126427501_44f18ac483_z.jpg")
+![](https://live.staticflickr.com/65535/49126427501_b703042c64_o.jpg")
 
 After a successful connection, you will see your address and available balance for delegation in the opened window. 
 Put the amount you wish to stake and press "Continue"
@@ -31,7 +31,7 @@ Put the amount you wish to stake and press "Continue"
 > If you have multiple addresses in your Ledger you can switch accounts by changing the "path" and reconnect.
 
 ## Step 3. Confirm Transaction
-![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
+![](https://live.staticflickr.com/65535/49126671127_1f228ff997_o.png")
 
 After the successful delegation, you can check all related information and monitor your rewards using P2P Dashboard.
 
