@@ -20,7 +20,7 @@ company:
   To start go to [p2p.org/kava](https://p2p.org/kava?utm_source=Kava_Ledger&utm_medium=creds_link&utm_campaign=blog) and click "Delegate with Ledger" button
 
 ## Step 1. Connect your Ledger Device and Navigate to Cosmos App
-![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
+![](https://drive.google.com/file/d/1AXdT774XCyIkafUw8EWGJ26aB9sD5Wuy/view?usp=sharing")
 
 ## Step 2. Choose amount
 ![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
