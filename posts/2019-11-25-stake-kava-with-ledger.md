@@ -23,7 +23,7 @@ company:
 ![](https://live.staticflickr.com/65535/49126466637_765480cf72_o.png")
 
 ## Step 2. Choose amount
-![](https://live.staticflickr.com/65535/49126427501_b703042c64_o.jpg")
+![](https://live.staticflickr.com/65535/49126504221_1eedc453cb_o.png")
 
 After a successful connection, you will see your address and available balance for delegation in the opened window. 
 Put the amount you wish to stake and press "Continue"
@@ -31,9 +31,10 @@ Put the amount you wish to stake and press "Continue"
 > If you have multiple addresses in your Ledger you can switch accounts by changing the "path" and reconnect.
 
 ## Step 3. Confirm Transaction
-![](https://live.staticflickr.com/65535/49126671127_1f228ff997_o.png")
+![](https://live.staticflickr.com/65535/49126717417_7ed733c025_o.png")
 
 After the successful delegation, you can check all related information and monitor your rewards using P2P Dashboard.
+![](https://live.staticflickr.com/65535/49126046203_ec302b1e21_o.png")
 
 ------
 
