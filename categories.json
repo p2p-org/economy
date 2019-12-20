@@ -38,5 +38,9 @@
   "daobet": {
     "name": "daobet",
     "description": "DAOBet is an infrastructure for the gambling and other iGaming sectors regulated by technology and managed by individuals."
+  },
+  "chainlink": {
+    "name": "chainlink",
+    "description": "Chainlink is a decentralized oracle network that enables smart-contracts to securely access off-chain data feeds, web APIs and traditional bank payments."
   }
 }
