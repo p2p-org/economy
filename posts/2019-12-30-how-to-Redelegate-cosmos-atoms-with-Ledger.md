@@ -1,7 +1,7 @@
 ---
 title: "How to Redelegate your ATOM with Ledger at p2p.org"
 description: "The whole process of re-delegating your Atoms is simple and can be done in a safe way in just a few minutes. Use this function to change your validator if you are no longer satisfied with its services or terms."
-date: 2019-12-27
+date: 2019-12-30
 thumbnail: 'https://live.staticflickr.com/65535/49280293208_bd083f3f45_o.png'
 heroImage: 'https://live.staticflickr.com/65535/49280293208_bd083f3f45_o.png'
 category:
