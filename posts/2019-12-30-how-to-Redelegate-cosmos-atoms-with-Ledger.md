@@ -48,6 +48,7 @@ To **get started** just go to [p2p.org/cosmos](https://p2p.org/cosmos?utm_source
 ![](https://live.staticflickr.com/65535/49297697943_2fb36b526c_o.jpg")
 
 After the successful re-delegation, you can check all related information and monitor your rewards using P2P Dashboard.
+
 ![](https://live.staticflickr.com/65535/49297783503_e257b0794d_o.jpg")
 
 ------
