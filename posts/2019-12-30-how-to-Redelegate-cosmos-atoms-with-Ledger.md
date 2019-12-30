@@ -18,13 +18,13 @@ Our team have updated the delegation tool using the **Ledger** device on the **C
 
 > P2P.ORG - offers Secure & Non-Custodial Staking. No operations are possible without your confirmation, we will not request or store your private key or initial phrase. 
 
-The **redelegation process allows you to change which validator you are delegating** at any time, without any delay and free of charge.
+The redelegation process allows you to change which validator you are delegating at any time, without any delay and free of charge.
 
 Use this function to **change your validator** if you are no longer satisfied with its services or terms. For example, **high commission rates**, long downtimes that **reduce your rewards**, or other factors.
 
 The whole process of **re-delegating your ATOMs** is simple and can be done in a safe way **in just a few minutes**.
 
-To **get started** just go to [p2p.org/cosmos](https://p2p.org/cosmos?utm_source=Cosmos_Redelegate&utm_medium=creds_link&utm_campaign=blog), click the **"Stake with Ledger"** button and select **Redelegate.**
+To **get started** just go to [p2p.org/cosmos](https://p2p.org/cosmos?utm_source=Cosmos_Redelegate&utm_medium=creds_link&utm_campaign=blog), click the `Stake with Ledger` button and select `Redelegate`
 
 ## Step 1. Plug in your Ledger device and open the Cosmos app
 
