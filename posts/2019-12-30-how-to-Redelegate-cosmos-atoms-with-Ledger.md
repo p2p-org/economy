@@ -5,7 +5,7 @@ date: 2019-12-30
 thumbnail: 'https://live.staticflickr.com/65535/49280293208_bd083f3f45_o.png'
 heroImage: 'https://live.staticflickr.com/65535/49280293208_bd083f3f45_o.png'
 category:
-  - staking
+  - cosmos
 authors:
   - PaulP
 company:
@@ -48,8 +48,7 @@ To **get started** just go to [p2p.org/cosmos](https://p2p.org/cosmos?utm_source
 ![](https://live.staticflickr.com/65535/49297697943_2fb36b526c_o.jpg")
 
 After the successful re-delegation, you can check all related information and monitor your rewards using P2P Dashboard.
-![](https://live.staticflickr.com/65535/49126046203_ec302b1e21_o.png")
-
+![](https://live.staticflickr.com/65535/49297783503_e257b0794d_o.jpg")
 
 ------
 
