@@ -61,8 +61,6 @@ Non-tech paper:[ https://docsend.com/view/5uuhcj3](https://docsend.com/view/5uuh
 
 Blog:[ https://www.oasislabs.com/blog](https://www.oasislabs.com/blog)
 
-Quest Game Of Stakes info -[ HERE](https://docs.oasis.dev/operators/staking-competition-rules.html#types-of-challenges)
-
 ------
 
 *Want to stake Oasis with us? Alexey will be happy to help. Contact* *am@p2p.org* *to get personal assistance.*
