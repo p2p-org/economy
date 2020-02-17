@@ -42,5 +42,9 @@
   "chainlink": {
     "name": "chainlink",
     "description": "Chainlink is a decentralized oracle network that enables smart-contracts to securely access off-chain data feeds, web APIs and traditional bank payments."
+   },
+  "oasis": {
+    "name": "oasis",
+    "description": "Oasis is a decentralized privacy-preserving preserving platform for cloud computing providing confidentiality at every layer of the protocol"
   }
 }
