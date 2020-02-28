@@ -27,7 +27,7 @@ Oasis team addressed privacy issues by implementing[ Ekiden](https://docsend.com
 
 ### Token allocation and purpose
 
-Oasis Labs raised $45 million. The overall token allocation looks as follows:
+Oasis Labs raised $45 million. The overall token allocation is currently not available and will be published by the project team later.
 
 Oasis native token is a staking unit with limited liquidity and low volatility serving the purpose of securing the network and incentivizing nodes to follow the protocol rules. Transaction fees are also denominated in native token as well as a payment for provided computations after this feature will be enabled.
 
