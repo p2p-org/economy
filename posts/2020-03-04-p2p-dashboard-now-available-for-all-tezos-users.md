@@ -38,7 +38,7 @@ All this is even more difficult if you are baking with several bakers or splitti
 To start, **go to** [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos) and **click on the Get started** button in the right corner. 
 Connect to the panel by manually entering the address or using your Ledger device.
 
-**Try it now. No registration! No fees!**
+**Try it now at [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos)!**
 
 ------
 
