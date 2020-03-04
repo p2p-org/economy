@@ -1,6 +1,6 @@
 ---
 
-title: "P2P Dashboard now available for all Tezos users"
+title: "P2P Launched Dashboard For All Tezos Users"
 description: "Check received and pending rewards, balances and current delegations across several addresses in one place.
 "
 date: 2020-03-04
