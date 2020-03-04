@@ -39,14 +39,14 @@ Connect to the panel by manually entering the address or using your Ledger devic
 Try it now. No registration! No fees!
 
 ------
-**If you have any questions feel free to contact us. We are always open for communication.**
+**If you have any questions feel free to contact us. We are always open for communication**
 ------
 
-**Web: **[p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos)
+**Web:** [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos)
 
-**Stake Tezos with us: **[p2p.org/tezos](https://p2p.org/tezos?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos)
+**Stake Tezos with us:** [p2p.org/tezos](https://p2p.org/tezos?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos)
 
-**Twitter: **[@p2pvalidator](https://twitter.com/p2pvalidator)
+**Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
 
 
 
