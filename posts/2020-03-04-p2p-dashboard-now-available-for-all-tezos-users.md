@@ -36,11 +36,7 @@ All this is even more difficult if you have several addresses from which you del
 To start, **go to** [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=p2p_dashboard_tezos) and **click on the Get started** button in the right corner. 
 Connect to the panel by manually entering the address or using your Ledger device.
 
-Try it now. No registration! No fees!
-
-------
-
-**If you have any questions feel free to contact us. We are always open for communication**
+**Try it now. No registration! No fees!**
 
 ------
 
