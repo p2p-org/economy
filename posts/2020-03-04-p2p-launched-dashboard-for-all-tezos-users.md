@@ -1,7 +1,7 @@
 ---
 
 title: "P2P Launched Dashboard For All Tezos Users"
-description: "Check received and pending rewards, balances and current delegations across several addresses in one place.
+description: "You can check received and pending rewards, balances and current delegations across any amount of addresses for any baker in one place.
 "
 date: 2020-03-04
 thumbnail: 'https://imgur.com/7ktEYwP.jpg'
