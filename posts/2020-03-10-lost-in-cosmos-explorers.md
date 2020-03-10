@@ -6,7 +6,7 @@ thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/oKWGTp8.jpg'
 layout: Post
 category:
-  - staking, cosmos, kava, regen, terra, economy, iris
+  - staking, cosmos, kava, regen, terra, economy
 authors:
   - AlexBond
 company:
