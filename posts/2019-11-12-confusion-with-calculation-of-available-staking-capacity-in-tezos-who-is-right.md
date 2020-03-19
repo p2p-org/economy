@@ -103,11 +103,11 @@ The answer to the second question is available staking capacity. To find this va
 
 To make calculation of available capacity even more precise you can adjust `self_bond` by `frozen_fees` + `frozen_rewards` as they do not take part in security deposits and use actual rolls of a baker to get the actual `staking_balance`. 
 
-Using formulas from above we get `available staking capacity of P2P Validator ~ 1 997 663 XTZ`
+Using formulas from above we get `available staking capacity of P2P Validator ~ 1 997 663 XTZ` (19.03.2020).
 
 Seems like [Baking Bad](https://baking-bad.org/), [Tzstats](https://tzstats.com/tz1P2Po7YM526ughEsRbY4oR9zaUPDZjxFrb) and [Tezos Nodes](https://www.tezos-nodes.com/) are quite aligned with the value and use similar approach for calculation of a baker free space.
 
-Now you have all the necessary information to check by yourself if the self-bond is sufficient enough to bake and what is the available staking capacity of a baker. In addition, we have created a [ spreadsheet with prepared calculations](https://docs.google.com/spreadsheets/d/1ZxRBHETPixxeYAG0efJbXsKeiIHPq1nGWJ2ZazND2a8/edit#gid=1765745933) for simplicity. We also improved calculation for self-bond and staking balance of a baker to make available capacity value even more precise.
+Now you have all the necessary information to check by yourself if the self-bond is sufficient enough to bake and what is the available staking capacity of a baker. In addition, we have created a [ spreadsheet with prepared calculations](https://docs.google.com/spreadsheets/d/1ZxRBHETPixxeYAG0efJbXsKeiIHPq1nGWJ2ZazND2a8/edit#gid=1765745933) for simplicity. We also improved a calculation for self-bond and staking balance of a baker to make available capacity value even more precise.
 
 ------
 
