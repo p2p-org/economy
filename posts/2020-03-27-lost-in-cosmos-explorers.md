@@ -17,7 +17,7 @@ company:
  - p2p
 ---
 
-Existing Cosmos explorers show limited information. In some cases, reward withdrawal happens not only by initiating `withdraw` transaction and there are unobvious events, which cause that action. We have added these hidden events to [P2P Dashboard](https://p2p.org/#dashboard-block), implemented full reward history across all Cosmos Hub versions and opened it for community. Below, I will walk through the topic in detail with examples.
+Existing Cosmos explorers show limited information. In some cases, reward withdrawal happens not only by initiating `withdraw` transaction and there are unobvious events, which cause that action. We have added these hidden events to [P2P Dashboard](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_dashboard_release#dashboard-block), **implemented full reward history across all Cosmos Hub versions and opened it for community**. Below, I will walk through the topic in detail with examples.
 
 ### Transparency limit
 
@@ -84,10 +84,10 @@ Every public network needs a variety of analytical tools to allow people without
 
 Thinking of that, we decided to conduct technical research to make all rewards and withdrawals together with corresponding messages accessible and transparent across all versions of Cosmos Hub.
 
-> We have added ability to check all withdrawal events across all versions of Cosmos Hub on [P2P Dashboard](https://p2p.org/#dashboard-block) and made it open for community. In addition, any ATOM delegator can check all withdrawals, get full reward history and download a report in CSV for multiple addresses.
+> We have added ability to check all withdrawal events across all versions of Cosmos Hub on [P2P Dashboard](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_dashboard_release#dashboard-block) and made it open for community. In addition, any ATOM delegator can check all withdrawals, get full reward history and download a report in CSV for multiple addresses.
 >
 
-To start, go to[ https://p2p.org](https://p2p.org) and click `Get started` button in the top right corner. Connect to the dashboard manually by entering the address or using your Ledger device.
+To start, go to [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_dashboard_release) and click `Get started` button in the top right corner. Connect to the dashboard manually by entering the address or using your Ledger device.
 
 ------
 
@@ -99,7 +99,7 @@ To start, go to[ https://p2p.org](https://p2p.org) and click `Get started` butto
 
 **Stake ATOM with us:**[ https://p2p.org/cosmos](https://p2p.org/cosmos)
 
-**Web:**[ https://p2p.org](https://p2p.org)
+**Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_dashboard_release)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
