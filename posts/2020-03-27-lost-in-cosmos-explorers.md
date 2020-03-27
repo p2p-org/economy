@@ -1,7 +1,7 @@
 ---
 title: "Lost in Cosmos explorers..."
-description: "Triggers for reward withdrawal that are not displayed by most explorers"
-date: 2020-03-25
+description: "P2P Dashboard now show all reward withdrawals that are not displayed by most explorers"
+date: 2020-03-27
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/oKWGTp8.jpg'
 layout: Post
@@ -17,9 +17,11 @@ company:
  - p2p
 ---
 
-Every transaction that is recorded in non-private blockchain can easily be retrieved for analytical or other purposes providing clarity for end users. With such transparency everyone can get a trusted record of any event since the start of the network. But is it really an easy task for someone without deep knowledge in code and various API endpoints to get all the data they need?
+Existing Cosmos explorers show limited information. In some cases, reward withdrawal happens not only by initiating `withdraw` transaction and there are unobvious events, which cause that action. We have added these hidden events to [P2P Dashboard](https://p2p.org/#dashboard-block), implemented full reward history across all Cosmos Hub versions and opened it for community. Below, I will walk through the topic in detail with examples.
 
 ### Transparency limit
+
+Every transaction that is recorded in non-private blockchain can easily be retrieved for analytical or other purposes providing clarity for end users. With such transparency everyone can get a trusted record of any event since the start of the network. But is it really an easy task for someone without deep knowledge in code and various API endpoints to get all the data they need? 
 
 You may argue that there are multiple explorers built for this purpose but each of them focuses on various goals and doesn’t give a complete picture of all events happening in a particular network. For an ordinary user like me, explorers act as a window in this magic world of blockchains and **our understanding is limited by the events various tools decide to display**.
 
@@ -31,13 +33,13 @@ A diversity of high-quality explorers is significant for building user commitmen
 
 Let's take a look at the reward withdrawal process in Cosmos Hub. Surplus accumulates in a validator pool and can be withdrawn to the corresponding staking address manually. Basically, a delegator withdraws rewards at any point of time to receive them on address. Explorers show this operation with names like GetReward or Withdraw Reward. In fact that's not the only action that triggers reward withdrawal.
 
-#### **Example**
+#### **Example** (27.03.2020)
 
 Let's take a random account and check the information about its balance on[ Mintscan](https://www.mintscan.io/account/cosmos1d5lu67hu3lhqtw6zyv7uy4gkfpdtfnzxw0wga8) block explorer.
 
-![img](https://lh3.googleusercontent.com/pbOzSOzQL9RN3I6K4tQvoDc8H9zZLT-ZJOY9uc9mvgjKy7FJQiwFIU6pwDJqulcdAhbNnSKQzmD8HvVnDNI-YpSiARkWIqCIEPtCQ298Lk3LVBPScGENEowCnADgfk56XZIHhhaJ)
+![img](https://imgur.com/FXDDdMR.jpg)
 
-![img](https://lh5.googleusercontent.com/y3ff9Aa9VysjtS0XPxBf8cYKm454NpsyTDuTP10YvrNhVpyTulyMTyiPYA6Tp6PLVNG4JKHhoOfGT_9GpBw8_A11-uQjoziRD3r4Zu9yGB8PZq2D64NpHyphCuhtKOfpRcC-ubk_)
+![img](https://imgur.com/xgM9HKW.jpg)
 
 If we calculate total balances using this transaction data we should get:
 
@@ -48,11 +50,11 @@ If we calculate total balances using this transaction data we should get:
 
 And here are values from[ Mintscan](https://www.mintscan.io/account/cosmos1d5lu67hu3lhqtw6zyv7uy4gkfpdtfnzxw0wga8):
 
-![img](https://lh4.googleusercontent.com/8ceoFL9qNY5ilkmOy7LlVAYH2nwXXNDpP5dp3pjipl7W-sgHm5HB7fM5_lIeAlDjwk0qg-fg09P_FBTMYUW0VultsCX6PHOoxH2yonQ92cA5r6KdMB0_x-rbMhNVWzFFvPMOhkr_)
+![img](https://imgur.com/9AQXf6z.jpg)
 
 It is also true for the same address on [Forbole](https://cosmos.bigdipper.live/account/cosmos1d5lu67hu3lhqtw6zyv7uy4gkfpdtfnzxw0wga8):
 
-![img](https://lh4.googleusercontent.com/MsN4x__zDhUQxXEUhLzbxBasPI8pkM_kiOgrQQ9JPnOuvv4EfFp9S11jqx9VrFPLMB1Fnbp7AsfH2GXYwh5zDU1jDvWvd2UpVGiQH57GT4fIfNQgfHEY6qJEsnwlw8HlYp-IIVNT)
+![img](https://imgur.com/s2My69D.jpg)
 
 We see an additional 0,971002 ATOM on the available balance, but where did they come from if there was no withdraw transaction made by this account? Of course you may say it's even less than 1 ATOM who cares? But systems based on a code should not allow any mistake. So, is the displayed balance correct or wrong? Let's look into it.
 
@@ -68,19 +70,22 @@ There are five core types of actions delegators usually perform:
 
 The first four of them initiate reward withdrawal, which is usually not displayed for the first three  actions by most explorers.
 
+On [P2P Dashboard](https://p2p.org/dashboard/cosmos1d5lu67hu3lhqtw6zyv7uy4gkfpdtfnzxw0wga8) you can check reward withdrawals related to the same address.
+
+![img](https://imgur.com/1GVbU5l.jpg)
+
 In some cases, to apply updates of the network, validators stop producing blocks and upgrade node software. This process requires a transition to a new chain with a new genesis file that stores the actual state at the moment of chain halt. When the new chain becomes active what happens with accumulated rewards?
 
 These rewards also become available, the transition to the new chain triggers withdrawal but the event is also hidden and not obvious to delegators.
 
-### Final thoughts
+### P2P Dashboard
 
-Every public network needs a variety of analytical tools to allow people without advanced technical skills to get information about what is going on from different angles. In Proof-Of-Stake blockchains a clear reward history and accessibility of historical data are especially important.
+Every public network needs a variety of analytical tools to allow people without advanced technical skills to get information about what is going on from different angles. In Proof-Of-Stake blockchains a clear reward history and accessibility of historical data are especially important. **What if you need to prove received reward referring to a particular event that simply does not displayed by any explorer?** 
 
-Having more explorers doesn't guarantee high diversity of data but still contributes to increasing user confidence and shows different aspects of a particular network. A higher number of explorers can increase transparency. Every message or event can be important if it clarifies some valuable logics of the system.
+Thinking of that, we decided to conduct technical research to make all rewards and withdrawals together with corresponding messages accessible and transparent across all versions of Cosmos Hub.
 
-**What if you need to prove received reward referring to a particular event that simply does not displayed by any explorer?** Thinking of that, we decided to conduct technical research to make all rewards and withdrawals together with corresponding messages accessible and transparent across all versions of Cosmos Hub.
-
-As a result we have added ability to check all withdrawal events across all versions of Cosmos Hub on [P2P Dashboard](https://p2p.org/#dashboard-block). In addition, any ATOM delegator can get full reward history and download a report in CSV for multiple addresses.
+> We have added ability to check all withdrawal events across all versions of Cosmos Hub on [P2P Dashboard](https://p2p.org/#dashboard-block) and made it open for community. In addition, any ATOM delegator can check all withdrawals, get full reward history and download a report in CSV for multiple addresses.
+>
 
 To start, go to[ https://p2p.org](https://p2p.org) and click `Get started` button in the top right corner. Connect to the dashboard manually by entering the address or using your Ledger device.
 
