@@ -3,7 +3,7 @@ title: "P2P Validator helps to carry out development of Random Beacon for Cosmos
 description: "Publicly verifiable Random Beacon will become a foundation for gaming applications within Cosmos ecosystem"
 date: 2020-04-27
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/gOCed9u.jpg'
+heroImage: 'https://imgur.com/rlOCQmc.jpg'
 layout: Post
 category:
   - cosmos
