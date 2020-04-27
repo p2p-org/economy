@@ -3,7 +3,7 @@ title: "P2P Validator helps to carry out development of Random Beacon for Cosmos
 description: "Publicly verifiable Random Beacon will become a foundation for gaming applications within Cosmos ecosystem"
 date: 2020-04-27
 thumbnail: 'http://url-to-thumbnail.jpg'
-heroImage: 'https://imgur.com/gOCed9u.jpg'
+heroImage: 'https://imgur.com/rlOCQmc.jpg'
 layout: Post
 category:
   - cosmos
@@ -15,7 +15,7 @@ company:
 
 P2P Validator’s team successfully carried out the development of BLS-based Random Beacon to provide Cosmos application-specific blockchains with an unbiased source of entropy. The code is[ open-sourced](https://github.com/corestario/tendermint) and available for further exploration by the community. This implementation of Random Beacon opens new possibilities for projects that require truly unpredictable randomness in their decentralized products.
 
-**Our team will continue to develop features that can bring more users and add more value to the Cosmos ecosystem**. If you want to support our initiatives the best way is to[ stake ATOM with us](https://p2p.org/cosmos).
+**Our team will continue to develop features that can bring more users and add more value to the Cosmos ecosystem**. If you want to support our initiatives the best way is to[ stake ATOM with us](https://p2p.org/cosmos?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_random_beacon).
 
 ### High level overview
 
@@ -73,7 +73,7 @@ BLS threshold signatures need a key generation step. We implemented an off-chain
 
 **P2P Validator** provides secure non-custodial staking. Subscribe to our channels and stay tuned for updates and new blog posts.
 
-**Stake ATOM with us:** [https://p2p.org/cosmos](https://p2p.org/cosmos)
+**Stake ATOM with us:** [https://p2p.org/cosmos](https://p2p.org/cosmos?utm_source=blog&utm_medium=economy&utm_campaign=cosmos_random_beacon)
 
 **Web:** [https://p2p.org](https://p2p.org)
 
