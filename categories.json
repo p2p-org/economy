@@ -47,6 +47,10 @@
     "name": "oasis",
     "description": "Oasis is a decentralized privacy-preserving preserving platform for cloud computing providing confidentiality at every layer of the protocol"
    },
+  "polkadot": {
+    "name": "polkadot",
+    "description": "Polkadot is a sharded protocol that allows parallelized chains connected to a Relay Chain to interoperate seamlessly sharing security and increasing overall scalability of the network."
+   },
   "regen": {
     "name": "regen",
     "description": "Regen Network is a decentralized ecosystem focused on tracking ecological data, facilitating planet regeneration and achieving better understanding of various ecological outcomes"
