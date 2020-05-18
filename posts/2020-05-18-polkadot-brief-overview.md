@@ -1,7 +1,7 @@
 ---
 title: "Polkadot brief overview"
 description: "Introductory post about Polkadot"
-date: 2020-05-14
+date: 2020-05-18
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/qwVYJ4o.jpg'
 layout: Post
@@ -19,7 +19,7 @@ Developers can utilize Substrate, a framework for building parachains, to minimi
 
 ### Current state and market potential
 
-Polkadot mainnet will be launched by the end of May.
+Polkadot mainnet will be launched by the end of May as a Proof-of-Authority chain with gradual transition to Nominated-Proof-of-Stake.
 
 Interoperability is an important component for the evolution of blockchains. The benefit of a single network is limited by its capabilities and design solutions. The ability to interoperate seamlessly and utilize some unique features of each other will bring new use cases across interconnected projects and increase the synergy of cumulative value flow.
 
@@ -46,9 +46,7 @@ In Polkadot, due to the fact that validators perform the same job for the networ
 
 There is no minimum required to become a nominator but balance must have at least 0.01 DOT and should be sufficient to pay transaction fees. Staking since the beginning of the mainnet will result in higher returns for nominators.
 
-![img](https://imgur.com/I3IshhC.jpg)
-
-**If 50% tokens are nominated and validators have equal stake.*
+![img](https://imgur.com/I3IshhC.jpg)*If 50% tokens are nominated and validators have equal stake.*
 
 ### Slashing risks
 
