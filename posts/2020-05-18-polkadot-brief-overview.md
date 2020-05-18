@@ -19,7 +19,7 @@ Developers can utilize Substrate, a framework for building parachains, to minimi
 
 ### Current state and market potential
 
-Polkadot mainnet will be launched by the end of May as a Proof-of-Authority chain with gradual transition to Nominated-Proof-of-Stake.
+Polkadot mainnet is expected to launch by the end of May as a Proof-of-Authority chain with gradual transition to Nominated-Proof-of-Stake.
 
 Interoperability is an important component for the evolution of blockchains. The benefit of a single network is limited by its capabilities and design solutions. The ability to interoperate seamlessly and utilize some unique features of each other will bring new use cases across interconnected projects and increase the synergy of cumulative value flow.
 
