@@ -46,7 +46,7 @@ In Polkadot, due to the fact that validators perform the same job for the networ
 
 There is no minimum required to become a nominator but balance must have at least 0.01 DOT and should be sufficient to pay transaction fees. Staking since the beginning of the mainnet will result in higher returns for nominators.
 
-![img](https://imgur.com/I3IshhC.jpg)*If 50% tokens are nominated and validators have equal stake.*
+![img](https://imgur.com/I3IshhC.jpg)**If 50% tokens are nominated and validators have equal stake.*
 
 ### Slashing risks
 
