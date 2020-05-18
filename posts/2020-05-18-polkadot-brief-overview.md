@@ -1,5 +1,5 @@
 ---
-title: "Polkadot brief overview"
+title: "Polkadot Brief Overview"
 description: "Introductory post about Polkadot"
 date: 2020-05-18
 thumbnail: 'http://url-to-thumbnail.jpg'
@@ -62,7 +62,7 @@ If validators form large cartels and pose a serious security risk then punishmen
 
 ### About P2P Validator
 
-[P2P Validator](https://p2p.org) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
+[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polka_brief) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
 
 ### Useful Polkadot resources
 
@@ -102,7 +102,7 @@ Mainnet launch explained: https://www.youtube.com/watch?v=TpcCeo-ZkDY
 
 **P2P Validator** provides secure non-custodial staking. Subscribe to our channels and stay tuned for updates and new blog posts.
 
-**Web:**[ https://p2p.org](https://p2p.org)
+**Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polka_brief)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
