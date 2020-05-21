@@ -2,8 +2,8 @@
 title: "P2P will continue to invest to Cosmos ecosystem even after 8% fee return"
 description: "P2P will return to 8% fee but will still spend more than validation earnings for the development of Cosmos."
 date: 2019-05-27
-thumbnail: '??'
-heroImage: '??'
+thumbnail: 'https://i.imgur.com/2uCFzTO.png'
+heroImage: 'https://i.imgur.com/2uCFzTO.png'
 layout: Post
 category:
   - economy
