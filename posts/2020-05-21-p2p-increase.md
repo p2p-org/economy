@@ -14,6 +14,7 @@ company:
 ---
 
 P2P Validator has been supporting Cosmos network from day one, **providing high-quality validation services** for ATOM delegators. Our **developed products allow delegators** to easily manage investments and receive a detailed report on their staking income.
+
 **We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to return to a commission of 8% in 21 days to remain flexible and provide even safer and more sustainable services.
  
 ## What have we done?
