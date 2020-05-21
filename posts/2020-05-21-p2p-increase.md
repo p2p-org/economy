@@ -15,16 +15,16 @@ company:
 
 P2P Validator has been supporting Cosmos network from day one, **providing high-quality validation services** for ATOM delegators. Our **developed products allow delegators** to easily manage investments and receive a detailed report on their staking income.
 
-**We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to **return to a commission of 8% in 21 days** to remain flexible and provide even safer and more sustainable services.
+**We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to **return to a commission of 8% in 21 days** to remain flexible and provide more sustainable services.
  
 ## What have we done?
 
-For more than 5 months of hard work under a reduced fee, we **did not stop the development activity** in the COSMOS network. Here is a list of the **most significant achievements** that have been realised  for the Cosmos ecosystem:
+For more than 5 months of hard work under a reduced fee, we **did not stop the development activity** in the Cosmos network. Here is a list of the **most significant achievements** that have been released  for the Cosmos ecosystem:
 
 1. [P2P Dashboard](https://p2p.org/#dashboard-block) for Cosmos users:
-   * Track and predict users rewards (more correctly than major explorers, check out our [article](https://economy.p2p.org/lost-in-cosmos-explorers))
+   * Track and predict user rewards (more correctly than major explorers, check out our [article](https://economy.p2p.org/lost-in-cosmos-explorers))
    * Ledger delegation, redelegation, claim of rewards
-   * Rewards Report for all Cosmos Hubs (1,2,3)
+   * Rewards report for all Cosmos Hubs (1,2,3)
    * CSV reward report
 2. [9 articles](https://economy.p2p.org/category/cosmos) and users guides posted 
 3. [Visualization of IBC handshakes](https://goz.p2p.org/) for the Game of Zones
@@ -39,7 +39,7 @@ Product development inside the ecosystem is an essential element not only to sup
 
 We will increase the commission by 1% every day, starting from June 11. **On June 17, our rate will remain at 8%.** There is a lot of work ahead and we believe that **joint efforts will accelerate the evolution of Cosmos network.**
 
-We want to **thank all our delegators** for their continuous support and being with us! **If you stake ATOM with P2P  - you contribute to the Cosmos ecosystem**
+We want to **thank all our delegators** for their continuous support and being with us! **If you stake ATOM with P2P  - you contribute to the Cosmos ecosystem.**
 
 ## About P2P Validator
 
