@@ -15,7 +15,7 @@ company:
 
 P2P Validator has been supporting Cosmos network from day one, **providing high-quality validation services** for ATOM delegators. Our **developed products allow delegators** to easily manage investments and receive a detailed report on their staking income.
 
-**We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to return to a commission of 8% in 21 days to remain flexible and provide even safer and more sustainable services.
+**We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to **return to a commission of 8% in 21 days** to remain flexible and provide even safer and more sustainable services.
  
 ## What have we done?
 
@@ -29,7 +29,7 @@ For more than 5 months of hard work under a reduced fee, we **did not stop the d
 2. [9 articles](https://economy.p2p.org/category/cosmos) and users guides posted 
 3. [Visualization of IBC handshakes](https://goz.p2p.org/) for the Game of Zones
 4. [Documentation](https://github.com/p2p-org/relayer/blob/master/docs/commands.md) and [dashboards](https://dash-goz.p2p.org/public/dashboards/PxNuUZv6XxsUwETE4iWhLiVEUIOiFlD3GJhPig6P?org_slug=default) for Game of Zones
-5. [Affiliate API](https://dash-goz.p2p.org/public/dashboards/PxNuUZv6XxsUwETE4iWhLiVEUIOiFlD3GJhPig6P?org_slug=default) for Cosmos wallet monetization 
+5. [Affiliate API](https://defiapi.com/) for Cosmos wallet monetization 
 6. We financially [supported Corestar team](https://economy.p2p.org/p2p-validator-acquired-corestar-development-team), who developed Arcade, Tendermint hack with built-in [BLS random beacon](https://economy.p2p.org/p2p-validator-helps-to-carry-out-random-beacon-for-Cosmos) built on ICF grant
 7. Ongoing work on public rate-limited GraphQL API for Cosmos applications
 
