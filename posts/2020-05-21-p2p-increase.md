@@ -39,7 +39,7 @@ Product development inside the ecosystem is an essential element not only to sup
 
 We will increase the commission by 1% every day, starting from June 11. **On June 17, our rate will remain at 8%.** There is a lot of work ahead and we believe that **joint efforts will accelerate the evolution of Cosmos network.**
 
-We want to thank all our delegators for their continuous support and being with us! If you stake ATOM with P2P  - you contribute to the Cosmos ecosystem.
+We want to **thank all our delegators** for their continuous support and being with us! **If you stake ATOM with P2P  - you contribute to the Cosmos ecosystem**
 
 ## About P2P Validator
 
