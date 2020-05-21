@@ -1,19 +1,19 @@
 ---
 title: "P2P will continue to invest to Cosmos ecosystem even after 8% fee return"
 description: "P2P will return to 8% fee but will still spend more than validation earnings for the development of Cosmos."
-date: 2019-05-27
+date: 2020-05-21
 thumbnail: 'https://i.imgur.com/2uCFzTO.png'
 heroImage: 'https://i.imgur.com/2uCFzTO.png'
 layout: Post
 category:
-  - economy
   - cosmos
 authors:
   - PaulP
 company:
  - p2p
 ---
-P2P Validator has been supporting Cosmos network from day one, **providing high-quality validation services** for ATOM delegators. Our developed products allow delegators to easily manage investments and receive a detailed report on their staking income.
+
+P2P Validator has been supporting Cosmos network from day one, **providing high-quality validation services** for ATOM delegators. Our **developed products allow delegators** to easily manage investments and receive a detailed report on their staking income.
 **We invest in the development of Cosmos network** and see the long-term prospects, however, the costs of maintaining the infrastructure and product development are several times higher than the revenues that the validator receives currently. We have decided to return to a commission of 8% in 21 days to remain flexible and provide even safer and more sustainable services.
  
 ## What have we done?
@@ -21,10 +21,10 @@ P2P Validator has been supporting Cosmos network from day one, **providing high-
 For more than 5 months of hard work under a reduced fee, we **did not stop the development activity** in the COSMOS network. Here is a list of the **most significant achievements** that have been realised  for the Cosmos ecosystem:
 
 1. [P2P Dashboard](https://p2p.org/#dashboard-block) for Cosmos users:
-  * Track and predict users' rewards (more correctly than major explorers, check out our article on that - https://economy.p2p.org/lost-in-cosmos-explorers)
-  * Ledger delegation, redelegation, claim of rewards
-  * Rewards Report for all Cosmos Hubs (1,2,3)
-  * CSV reward report
+   * Track and predict users rewards (more correctly than major explorers, check out our [article](https://economy.p2p.org/lost-in-cosmos-explorers))
+   * Ledger delegation, redelegation, claim of rewards
+   * Rewards Report for all Cosmos Hubs (1,2,3)
+   * CSV reward report
 2. [9 articles](https://economy.p2p.org/category/cosmos) and users guides posted 
 3. [Visualization of IBC handshakes](https://goz.p2p.org/) for the Game of Zones
 4. [Documentation](https://github.com/p2p-org/relayer/blob/master/docs/commands.md) and [dashboards](https://dash-goz.p2p.org/public/dashboards/PxNuUZv6XxsUwETE4iWhLiVEUIOiFlD3GJhPig6P?org_slug=default) for Game of Zones
@@ -32,7 +32,7 @@ For more than 5 months of hard work under a reduced fee, we **did not stop the d
 6. We financially [supported Corestar team](https://economy.p2p.org/p2p-validator-acquired-corestar-development-team), who developed Arcade, Tendermint hack with built-in [BLS random beacon](https://economy.p2p.org/p2p-validator-helps-to-carry-out-random-beacon-for-Cosmos) built on ICF grant
 7. Ongoing work on public rate-limited GraphQL API for Cosmos applications
 
-Product development inside the ecosystem is an essential element not only to support the Cosmos network, but also as a part of the long-term growth of the community and the network value.
+Product development inside the ecosystem is an essential element not only to support the Cosmos network, but also as a part of the **long-term growth of the community and the network value.**
 
 ## When will the commission be increased?
 
