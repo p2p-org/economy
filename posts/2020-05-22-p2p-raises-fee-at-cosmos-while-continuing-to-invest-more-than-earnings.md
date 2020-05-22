@@ -1,5 +1,5 @@
 ---
-title: "P2P will continue to invest to Cosmos ecosystem even after 8% fee return"
+title: "P2P Raises Fee at Cosmos While Continuing to Invest More Than Earnings"
 description: "P2P will return to 8% fee but will still spend more than validation earnings for the development of Cosmos."
 date: 2020-05-21
 thumbnail: 'https://i.imgur.com/2uCFzTO.png'
@@ -37,7 +37,7 @@ Product development inside the ecosystem is an essential element not only to sup
 
 ## When will the commission be increased?
 
-We will increase the commission by 1% every day, starting from June 11. **On June 17, our rate will remain at 8%.** There is a lot of work ahead and we believe that **joint efforts will accelerate the evolution of Cosmos network.**
+We will increase the commission by 1% every day, starting from June 12. **On June 18, our rate will remain at 8%.** There is a lot of work ahead and we believe that **joint efforts will accelerate the evolution of Cosmos network.**
 
 We want to **thank all our delegators** for their continuous support and being with us! **If you stake ATOM with P2P  - you contribute to the Cosmos ecosystem.**
 
@@ -62,6 +62,3 @@ We want to **thank all our delegators** for their continuous support and being w
 **Telegram chat:** [https://t.me/P2Pstaking](https://t.me/P2Pstaking)
 
 **Telegram announcement:** [https://t.me/p2porg](https://t.me/p2porg)
-
-
-
