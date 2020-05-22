@@ -1,7 +1,7 @@
 ---
 title: "P2P Raises Fee at Cosmos While Continuing to Invest More Than Earnings"
 description: "P2P will return to 8% fee but will still spend more than validation earnings for the development of Cosmos."
-date: 2020-05-21
+date: 2020-05-22
 thumbnail: 'https://i.imgur.com/2uCFzTO.png'
 heroImage: 'https://i.imgur.com/2uCFzTO.png'
 layout: Post
