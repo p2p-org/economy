@@ -1,7 +1,7 @@
 ---
 title: "Polkadot Nomination Guide"
 description: "Simple guide that will help you to stake and earn rewards in Polkadot network"
-date: 2019-09-24
+date: 2020-05-29
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/AWFWheI.jpg'
 layout: Post

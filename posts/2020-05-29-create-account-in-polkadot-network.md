@@ -1,7 +1,7 @@
 ---
 title: "Create Account in Polkadot Network"
 description: "Simple step by step instruction on creating Polkadot account"
-date: 2019-09-24
+date: 2020-05-29
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/gzhT5t7.jpg'
 layout: Post
