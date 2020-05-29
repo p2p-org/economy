@@ -1,7 +1,7 @@
 ---
 title: "Claim DOT With PolkadotJS"
 description: "Simple guide that will help you to claim your DOT tokens"
-date: 2019-09-24
+date: 2020-05-29
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/MJkmQXj.jpg'
 layout: Post
