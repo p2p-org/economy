@@ -67,6 +67,9 @@ To nominate P2P Validator simply copy all our addresses one by one and paste the
 1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
 2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
 4. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
+4. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
+5. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
+6. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
 
 
 
