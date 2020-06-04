@@ -1,7 +1,7 @@
 ---
 title: "Cosmos' Game of Zones Phase 3: a Deceptive Rootchain that will trap your tokens"
 description: "For Game of Zones Phase 3 we made a special deceptive zone to demonstrate IBC threat models"
-date: 2020-05-29
+date: 2020-06-04
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/AWFWheI.jpg'
 layout: Post
