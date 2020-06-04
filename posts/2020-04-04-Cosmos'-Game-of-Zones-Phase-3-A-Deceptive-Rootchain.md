@@ -1,104 +1,89 @@
 ---
-title: "Polkadot Nomination Guide"
-description: "Simple guide that will help you to stake and earn rewards in Polkadot network"
+title: "Cosmos' Game of Zones Phase 3: a Deceptive Rootchain that will trap your tokens"
+description: "For Game of Zones Phase 3 we made a special deceptive zone to demonstrate IBC threat models"
 date: 2020-05-29
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://imgur.com/AWFWheI.jpg'
 layout: Post
 category:
-  - polkadot
+  - cosmos
 authors:
-  - AlexBond
+  - vshvsh
 company:
  - p2p
 
 ---
 
-*This guide will help you to nominate validators in Polkadot network. Make sure that you have [created account](https://economy.p2p.org/create-account-in-polkadot-network) with mainnet address and [claimed DOT](https://economy.p2p.org/claim-dot-with-polkadotjs) tokens.* 
-
-# Nominate validators
-
-**a)** First you need to bond your DOT that are in the stash account. 
-
-Visit the[ Polkadot UI](https://polkadot.js.org/apps) and select `Staking` tab. Choose `Account actions` in the top menu and press `+ Nominator` button.
+*For Phase 3 we prepared a specific deceptive zone whose purpose is to trap your transfers and let the zone ‘root’ users to claim them on the counterparty chains.* 
 
 
+# Evil Rootchain
 
-![img](https://imgur.com/TTNYJu1.jpg)
+For Phase 3 we prepared a specific deceptive zone whose purpose is to trap your transfers and let the zone ‘root’ users to claim them on the counterparty chains.
 
+That zone does not expose a vulnerability in IBC, neither it is something unexpected by people who made ICS: it’s merely an illustration of IBC threat model and how it can be used to steal user funds.
 
+We modified `createOutgoingPacket()` function to work like that:
+- user who has at least some root denom tokens (i.e. 1000root on balance) can create any outgoing transfers they want, even if they don’t have the required funds;
+- user who has no root tokens cannot transfer any tokens back to a source chain.
 
-In the modal window choose your stash account and a controller account (in our case they are the same and their names and addresses will match). Put the number of DOT you are willing to bond. **This amount should be less than the total amount in your stash** to pay tx fees or set a separate controller account for your stash account in future. It is recommended to leave at least 5% not bonded.
+Here’s the [gist](https://gist.github.com/vshvsh/88964912dbd389332c53bc239fb59168) of how it’s done, and the [full project](https://github.com/p2p-org/gaia-rootchain).  
 
-Press `next` and finish the process. After that your funds will be locked. They will become available only after **unbonding** that **will last for 28 days after initiating**.
+So if someone was to transfer, say, doubloons to our deceptive chain, they couldn’t take it back - but any root user can redeem fake tokens for real tokens on an origin chain.
 
+That means that a regular user who sends funds to a deceptive chain can’t cash them out on an origin chain - they’ve basically lost they funds. But it’s not apparent, because internal transfers on the zone work fine, and until a user tries to redeem the transferred token they won’t see any problems.
 
+Moreover, malicious root token holder can redeem those tokens instead of an original sender or transferred token holders, and that wouldn’t be apparent too without aggregate analysis of all transfers across all channels.
 
-![img](https://imgur.com/xm1ImvS.jpg)
+We deployed it on responsible-3 zone (heads up: responsible was an approved sockpuppet account of p2p all along; it didn’t compete in earlier phases where scarcity and/or account throughput were an issue).
 
+# Demonstration
 
+An unsuspecting user makes a transfer of 100 very valuable ptp tokens to responsible-3:
+```
+>rly tx transfer p2p-org-3 responsible-3 100ptp true cosmos16zx4s8nculu94vhm07fd3qlg8g7grtj0xk49dg
+I[2020-06-03|18:21:59.489] ✔ [p2p-org-3]@{50776} - msg(0:transfer) hash(962733C0568867D6F4EA70417EB1E747FCC136396E3E020D5351DAD011ACBE6D) 
+I[2020-06-03|18:22:09.218] ✔ [responsible-3]@{50793} - msg(0:update_client,1:ics04/opaque) hash(87D2802713DB702334AB843CAD488841E5A3E1A7C95DCB0DA0344E5039A77674)
+```
 
-**b)** After your DOT are bonded you will be able to nominate up to 16 validators. You cannot specify the amount delegated to a particular validator, bonded stake automatically will spread among selected validators by the algorithm after transition to NPoS.
+They now have transferred tokens in the wallet, but can they transfer them back?
+```
+>rly q bal responsible-3 
+100transfer/fmqnwnlqii/ptp
+```
 
-Choose press the button with three dots in `Account actions` tab.
+```
+>rly tx transfer responsible-3 p2p-org-3 100ptp false cosmos16zx4s8nculu94vhm07fd3qlg8g7grtj0xk49dg
+I[2020-06-03|18:56:09.666] ✘ [responsible-3]@{51200} - msg(0:transfer) err(sdk:4:failed to execute message; message index: 0: need to be root user to send ibc source=false transfers: unauthorized) 
+Error: failed to send first transaction
+```
 
-![img](https://imgur.com/gWO32vj.jpg)
+No, they can’t. Here comes a root user:
+```
+>rly q bal responsible-3                                                                           
+100000000000root,975000rsp
+```
 
+They don’t have any `100transfer/fmqnwnlqii/ptp` tokens, but they can redeem 100ptp on p2p-org-3 anyway:
 
+```
+>rly tx transfer responsible-3 p2p-org-3 100ptp false cosmos1hazzkmrvxcrxvxv98daslkw0a7uax5djqgn20d
+I[2020-06-03|18:58:41.425] ✔ [responsible-3]@{51230} - msg(0:transfer) hash(24456218B05964F3B7B57EFD1F25E2CEEDA9BAAEBC957D0A6E315D801929E093) 
+I[2020-06-03|18:58:49.540] ✔ [p2p-org-3]@{51217} - msg(0:update_client,1:ics04/opaque) hash(769158A9735DF93496F08F631E5D1AB04CCF081DFC132700E25C970D33DF74DB) 
+```
 
-Choose `Set nomenees`.
+```
+>rly q bal p2p-org-3                                                                               
+100ptp
+```
 
+## Conclusion
 
+The prolonged existence of actively malicious “rootchains” is not realistic - people wouldn’t use it for anything - but we expect people might deploy temporary ones for fishing or scamming purpose when IBC connections are permissionless and IBC-enabled wallets allow arbitrary chains to be added. 
 
-![img](https://imgur.com/W1bJnmp.jpg)
+More than that, any sufficiently complicated IBC-enabled blockchain can become a “rootchain” due to vulnerability, especially if we’re talking about complex smart contract chains and dynamic IBC like on Agoric or CosmWASM chains. Both trapping the funds on receiving chain forever or dishonest redeeming on source chain can be a result of an exploit on undertested code.
 
-
-
-In the opened window you can set validators selecting them from the left box. You can easily find a particular validator by pasting his address in the blank search field.
-
-
-
-![img](https://imgur.com/nGgovA0.jpg)
-
-
-
-To nominate P2P Validator simply copy all our addresses one by one and paste them in the search field. **Here are P2P addresses:**
-
-1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
-2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
-4. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
-4. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
-5. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
-6. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
-
-
-
-![img](https://imgur.com/ZTJdHZo.jpg)
-
-
-
-Press with the left click on the account appeared in the left column to add it in you nomination list. 
-
-
-
-![img](https://imgur.com/pDGwFgt.jpg)
-
-
-
-After adding all addresses clear the search field and check that all addresses are presented in the right column. Press `Nominate` button and confirm the transaction.
-
-
-
-![img](https://imgur.com/1GHrCyI.jpg)
-
-
-
-In the `Account actions` you will see your bonded account. Your nomination will be in `Waiting` status until the transition to NPoS. After that system will distribute your stake in an optimal way and you will see that nomination status changed on `Active` at least for one target and you will receive DOT rewards.
-
-
-
-![img](https://imgur.com/X9umYEL.jpg)
-
+We think that the community should build tools for total supply observability across chains and means to swiftly stop IBC transfers with malicious or vulnerable zones or applications via governance to prevent user fund loss.
 
 
 ------
