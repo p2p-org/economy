@@ -13,11 +13,12 @@ company:
  - p2p
 
 ---
+# Cosmos' Game of Zones Phase 3: a Deceptive Rootchain that will trap your tokens
 
 *For Phase 3 we prepared a specific deceptive zone whose purpose is to trap your transfers and let the zone ‘root’ users to claim them on the counterparty chains.* 
 
 
-# Evil Rootchain
+## Evil Rootchain
 
 For Phase 3 we prepared a specific deceptive zone whose purpose is to trap your transfers and let the zone ‘root’ users to claim them on the counterparty chains.
 
@@ -37,7 +38,7 @@ Moreover, malicious root token holder can redeem those tokens instead of an orig
 
 We deployed it on responsible-3 zone (heads up: responsible was an approved sockpuppet account of p2p all along; it didn’t compete in earlier phases where scarcity and/or account throughput were an issue).
 
-# Demonstration
+## Demonstration
 
 An unsuspecting user makes a transfer of 100 very valuable ptp tokens to responsible-3:
 ```
