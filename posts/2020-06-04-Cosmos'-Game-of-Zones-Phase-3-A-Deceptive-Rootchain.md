@@ -87,12 +87,11 @@ We think that the community should build tools for total supply observability ac
 
 
 ------
-
 *The best way to support our contribution is to [stake ATOM with P2P Validador](https://p2p.org/cosmos).*
-------
+---
 
 [P2P Validator]() is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We've been validating in Cosmos Hub since the first day of mainnet. P2P Validator provides comprehensive due-diligence and invested its own funds in ATOM in 2017 intending to support Cosmos network in the long term.
-----------------------------------------
+
 **Web:**[ https://p2p.org](https://p2p.org/)
 **Stake ATOM with us:** [p2p.org/cosmos](https://p2p.org/cosmos)
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
