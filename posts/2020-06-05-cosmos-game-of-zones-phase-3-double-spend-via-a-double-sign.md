@@ -2,8 +2,8 @@
 title: "Cosmos' Game of Zones Phase 3: Double Spend via a Double Sign"
 description: "For Game of Zones Phase 3 we show how malicious validators can double spend via IBC"
 date: 2020-06-05
-thumbnail: 'https://i.imgur.com/A5bq7Fh.png'
-heroImage: 'https://i.imgur.com/A5bq7Fh.png'
+thumbnail: 'https://i.imgur.com/RrXTPuo.png'
+heroImage: 'https://i.imgur.com/RrXTPuo.png'
 layout: Post
 category:
   - cosmos
