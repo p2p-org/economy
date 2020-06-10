@@ -54,17 +54,19 @@ If you lack educational information and can't find guides explaining the require
 2. [Claim DOT tokens](https://economy.p2p.org/claim-dot-with-polkadotjs)
 3. [Nominate validators](https://economy.p2p.org/polkadot-nomination-guide/)
 
+# About P2P Validator
+
+[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=reasons_to_stake) is a world-leading non-custodial staking provider with the best industry practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities securing more than 40 million of USD value. At the time of publishing, P2P Validator is trusted by over 1000 delegators across 15+ networks.
+
 ------
 
 *Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org. We are always ready to help and open for communication.*
 
 ------
 
-**P2P Validator** provides secure non-custodial staking. Subscribe to our channels and stay tuned for updates and new blog posts.
+**Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=reasons_to_stake)
 
-**Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate)
-
-**Stake DOT with us:** [https://p2p.org/polkadot](https://p2p.org/polkadot?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate)
+**Stake DOT with us:** [https://p2p.org/polkadot](https://p2p.org/polkadot?utm_source=blog&utm_medium=economy&utm_campaign=reasons_to_stake)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
