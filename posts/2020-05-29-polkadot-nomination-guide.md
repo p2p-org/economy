@@ -99,15 +99,15 @@ In the `Account actions` you will see your bonded account. Your nomination will 
 
 ![img](https://imgur.com/X9umYEL.jpg)
 
-------
-
-*Hooray, now you can officially call yourself a nominator. You are fully prepared to earn rewards immediately after the transition to NPoS. Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org. We are always open for communication.*
-
-------
-
 # About P2P Validator
 
 [P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
+
+------
+
+*Now you can officially call yourself a nominator. You are fully prepared to earn rewards immediately after the transition to NPoS. Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org. We are always open for communication.*
+
+------
 
 **Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate)
 

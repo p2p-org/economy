@@ -151,15 +151,15 @@ For secure staking you will need to have at least two accounts:
 
 Now you have created one account that initially will perform both functions. It will appear in your `Accounts` tab. **After enablement of token transfers**, it is recommended to create a separate account, send 1 DOT to it and use it as a controller.
 
-------
-
-*Hooray, now you have an account in Polkadot and you can [claim DOT](https://economy.p2p.org/how-to-claim-dot-tokens-with-pokadot-js) and [start nominating](https://economy.p2p.org/how-to-nominate-validators-in-polkadot). If you have any questions, join our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org, we will be happy to help.*
-
-------
-
 # About P2P Validator
 
 [P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_create_account) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
+
+------
+
+*Now you have an account in Polkadot. The next step is to [claim DOT](https://economy.p2p.org/how-to-claim-dot-tokens-with-pokadot-js) and [start nominating](https://economy.p2p.org/how-to-nominate-validators-in-polkadot). If you have any questions, join our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org, we will be happy to help.*
+
+------
 
 **Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_create_account)
 

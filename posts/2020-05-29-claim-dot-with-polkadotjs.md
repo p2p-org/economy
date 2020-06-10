@@ -64,15 +64,15 @@ If you have a valid claim you will see a green box with the amount of DOT. Press
 
 Now you are able to take part in staking and nominate, token transfers are prohibited at the moment.
 
+# About P2P Validator
+
+[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_claim) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
+
 ------
 
 *Have issues with claiming your DOT? Ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org, we will be happy to help.*
 
 ------
-
-# About P2P Validator
-
-[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_claim) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
 
 **Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_claim)
 
