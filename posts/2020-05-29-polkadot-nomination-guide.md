@@ -62,7 +62,9 @@ In the opened window you can set validators selecting them from the left box. Yo
 
 
 
-To nominate P2P Validator simply copy all our addresses one by one and paste them in the search field. **Here are P2P addresses:**
+To nominate P2P Validator simply **copy our addresses one by one** and paste them in the search field. Don't press `Nominate` button until you add all addresses.
+
+**Here are P2P addresses:**  
 
 1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
 2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
@@ -77,7 +79,7 @@ To nominate P2P Validator simply copy all our addresses one by one and paste the
 
 
 
-Press with the left click on the account appeared in the left column to add it in you nomination list. 
+Press with the left click on the account appeared in the left column to add it in you nomination list. Address will appear in the right column.
 
 
 
@@ -85,7 +87,7 @@ Press with the left click on the account appeared in the left column to add it i
 
 
 
-After adding all addresses clear the search field and check that all addresses are presented in the right column. Press `Nominate` button and confirm the transaction.
+Clear the search field and **repeat that step for all addresses**. After adding all addresses clear the search field and check that **all addresses are presented in the right column**. Press `Nominate` button and confirm the transaction.
 
 
 
@@ -105,7 +107,7 @@ In the `Account actions` you will see your bonded account. Your nomination will 
 
 ------
 
-*Now you can officially call yourself a nominator. You are fully prepared to earn rewards immediately after the transition to NPoS. Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org. We are always open for communication.*
+*Now you can officially call yourself a nominator. You are fully prepared to earn rewards immediately after the transition to NPoS. Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alex via am@p2p.org. We are always open for communication.*
 
 ------
 

@@ -150,9 +150,39 @@ Go to `Staking overview` tab. In the left-hand column are the initial Proof-of-A
 
 
 
-**Copy our address:** 
+**Copy our addresses one by one:** 
 
-`EUwcW86EFGDoDfUP2UJYuBwhCWC7cW9SdFH9cPh6UPBvBHj`
+`FApDgUYw47GJMfwFaa7xPeR5FGtMkPWSoozW7n5tTPWwrNv`
+
+`CdvyGjJbfcgcHuTyJKLGUA9u3kypCaHpohCEeUXmbTKryPR`
+
+`HpwH8QfuZ2nQoMz2mgqNFRRi5KKFWHnDWEepWwaXNihNdQ4`
+
+`DFrB1FAqttXb8Fwsus3aB4BNG8LMdyYCzxCqoWgCV8Yx8J6`
+
+`CiWDfiBZYZ3CVDGFg7zZjoiJapDainQNMibPKFFxKgukJCX`
+
+`HhQCLnKTcsZH75LYR1oj5MVKrs2RJyn8Cvcs8VR8nDGeKkW`
+
+`JFNnfJ7vKPReCJRrGgFg2zT7ctyHvmTpq6KQ1MYFizyLkdk`
+
+`Di7jPwKdcKU3mou3LURTr26Kknxn3D6f5a7hnMwop1PVEV2`
+
+`HPJWoH3To2L8uSvBsVYVuaxAjeNnythQbpxMeoDbZf6tSe2`
+
+`HeMVut33HJMXa216gqAaMifNNAadpvTPmF2Xn6aK3qLrTJM`
+
+`FDKyVTqcnVpmQkBez6mmawzLHeZhbpGmznVZfUxZmjsVQrL`
+
+`EwN2oBhYCHzi6cuEhq3PgVwuEMAu8z9nKHm529hgjNdzMUu`
+
+`Eioz5JW7ZMQ6kxwq85h3zvFkL58E4pXpqBwJqmMuQXnCy6p`
+
+`CkxHkGXs93PsoDeRjCZX8iaWy8MmC45Hgmce3C54VAabKkZ`
+
+`DteShXKaQQy2un2VizKwwhViN5e7F47UrkAZDkxgK22LdBv`
+
+`Dkz7kFKA33PKvCAkJUhhWkS6ePi7x7FaxQD3oj8BFSpx6fm`
 
 
 
@@ -176,7 +206,7 @@ Sign and submit the transaction.
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
-**Stake KSM with us:**[https://p2p.org/kusama](https://p2p.org/kusama)
+**Stake KSM with us:** https://p2p.org/kusama
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 

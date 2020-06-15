@@ -157,7 +157,7 @@ Now you have created one account that initially will perform both functions. It 
 
 ------
 
-*Now you have an account in Polkadot. The next step is to [claim DOT](https://economy.p2p.org/how-to-claim-dot-tokens-with-pokadot-js) and [start nominating](https://economy.p2p.org/how-to-nominate-validators-in-polkadot). If you have any questions, join our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org, we will be happy to help.*
+*Now you have an account in Polkadot. The next step is to [claim DOT](https://economy.p2p.org/how-to-claim-dot-tokens-with-pokadot-js) and [start nominating](https://economy.p2p.org/how-to-nominate-validators-in-polkadot). If you have any questions, join our [Telegram chat](https://t.me/P2Pstaking) or contact Alex via am@p2p.org, we will be happy to help.*
 
 ------
 
