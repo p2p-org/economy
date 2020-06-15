@@ -198,7 +198,7 @@ Sign and submit the transaction.
 
 ------
 
-*Hooray, now you can  officially call yourself a nominator and are fully prepared to earn rewards immediately after the launch of public network.*
+*Hooray, now you can officially call yourself a nominator and are fully prepared to earn rewards immediately after the launch of public network.*
 
 ------
 
@@ -206,8 +206,8 @@ Sign and submit the transaction.
 
 **Web:**[ https://p2p.org](https://p2p.org)
 
-**Stake KSM with us:** https://p2p.org/kusama
+**Stake KSM with us:** [https://p2p.org/kusama](https://p2p.org/kusama)
 
 **Twitter:**[ @p2pvalidator](https://twitter.com/p2pvalidator)
 
-**Telegram:**[ https://t.me/kusama_p2pvalidator](https://t.me/kusama_p2pvalidator)
+**Telegram:** [https://t.me/P2Pstaking](https://t.me/P2Pstaking)
