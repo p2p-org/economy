@@ -70,7 +70,7 @@ Now you are able to take part in staking and nominate, token transfers are prohi
 
 ------
 
-*Have issues with claiming your DOT? Ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alexey via am@p2p.org, we will be happy to help.*
+*Have issues with claiming your DOT? Ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alex via am@p2p.org, we will be happy to help.*
 
 ------
 
