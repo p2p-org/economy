@@ -18,9 +18,7 @@ company:
 
 # Nominate validators
 
-**a)** First you need to bond your DOT that are in the stash account. 
-
-Visit the[ Polkadot UI](https://polkadot.js.org/apps) and select `Staking` tab. Choose `Account actions` in the top menu and press `+ Nominator` button.
+1. Visit the[ Polkadot UI](https://polkadot.js.org/apps) and select `Staking` tab. Choose `Account actions` in the top menu and press `+ Nominator` button.
 
 
 
@@ -28,9 +26,8 @@ Visit the[ Polkadot UI](https://polkadot.js.org/apps) and select `Staking` tab. 
 
 
 
-In the modal window choose your stash account and a controller account (in our case they are the same and their names and addresses will match). Put the number of DOT you are willing to bond. **This amount should be less than the total amount in your stash** to pay tx fees or set a separate controller account for your stash account in future. It is recommended to leave at least 5% not bonded.
-
-Press `next` and finish the process. After that your funds will be locked. They will become available only after **unbonding** that **will last for 28 days after initiating**.
+2. In the modal window choose your stash account and a controller account (in our case they are the same and their names and addresses will match). Put the number of DOT you are willing to bond. **This amount should be less than the total amount in your stash** to pay tx fees or set a separate controller account for your stash account in future. It is recommended to leave at least 5% not bonded.
+3. Press `next` button.
 
 
 
@@ -38,68 +35,76 @@ Press `next` and finish the process. After that your funds will be locked. They 
 
 
 
-**b)** After your DOT are bonded you will be able to nominate up to 16 validators. You cannot specify the amount delegated to a particular validator, bonded stake automatically will spread among selected validators by the algorithm after transition to NPoS.
+4. At this step you will be able to nominate up to 16 validators. Choose validators from the left box. You can easily find a particular validator by pasting his address in the blank search field.
 
-Choose press the button with three dots in `Account actions` tab.
+   You cannot specify the amount delegated to a particular validator, bonded stake automatically will spread among selected validators by the algorithm after transition to NPoS.
+
+
+
+![img](https://imgur.com/5ijByOs.jpg)
+
+
+
+5. To nominate P2P Validator pick all `P2P.ORG` from the left column or simply **copy our addresses one by one** and paste them in the search field. Don't press `Bond & Nominate` button until you add all addresses.
+
+**Here are P2P addresses:**  
+
+1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
+2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
+3. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
+4. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
+5. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
+6. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
+
+Press with the left click on the account appeared in the left column to add it to your nomination list. Address will appear in the right column.
+
+
+
+![img](https://imgur.com/RzkWNrT.jpg)
+
+
+
+Clear the search field if you used it and **repeat that step for all addresses**. After adding all addresses clear the search field and check that **all addresses are presented in the right column**. 
+
+
+
+![img](https://imgur.com/acURVHP.jpg)
+
+
+
+6. Press `Bond & Nominate` button and confirm the transaction.
+
+After that your funds will be locked. They will become available only after **unbonding** that **will last for 28 days after initiating**.
+
+
+
+![img](https://imgur.com/iSJGVno.jpg)
+
+
+
+7. In the `Account actions` you will see your bonded account. Your nomination will be in `Waiting` status until the transition to NPoS. After that system will distribute your stake in an optimal way and you will see that nomination status changed on `Active` at least for one target and you will receive DOT rewards.
+
+
+
+![img](https://imgur.com/X9umYEL.jpg)
+
+
+
+To edit your nominations press the button with three dots in `Account actions` tab.
+
+
 
 ![img](https://imgur.com/gWO32vj.jpg)
 
 
 
-Choose `Set nomenees`.
+Choose `Set nomenees` and simply repeat step #5 .
 
 
 
 ![img](https://imgur.com/W1bJnmp.jpg)
 
 
-
-In the opened window you can set validators selecting them from the left box. You can easily find a particular validator by pasting his address in the blank search field.
-
-
-
-![img](https://imgur.com/nGgovA0.jpg)
-
-
-
-To nominate P2P Validator simply **copy our addresses one by one** and paste them in the search field. Don't press `Nominate` button until you add all addresses.
-
-**Here are P2P addresses:**  
-
-1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
-2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
-4. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
-4. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
-5. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
-6. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
-
-
-
-![img](https://imgur.com/ZTJdHZo.jpg)
-
-
-
-Press with the left click on the account appeared in the left column to add it in you nomination list. Address will appear in the right column.
-
-
-
-![img](https://imgur.com/pDGwFgt.jpg)
-
-
-
-Clear the search field and **repeat that step for all addresses**. After adding all addresses clear the search field and check that **all addresses are presented in the right column**. Press `Nominate` button and confirm the transaction.
-
-
-
-![img](https://imgur.com/1GHrCyI.jpg)
-
-
-
-In the `Account actions` you will see your bonded account. Your nomination will be in `Waiting` status until the transition to NPoS. After that system will distribute your stake in an optimal way and you will see that nomination status changed on `Active` at least for one target and you will receive DOT rewards.
-
-
-
-![img](https://imgur.com/X9umYEL.jpg)
 
 # About P2P Validator
 
