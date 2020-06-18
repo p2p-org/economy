@@ -49,12 +49,16 @@ company:
 
 **Here are P2P addresses:**  
 
-1. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
-2. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
-3. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
-4. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
-5. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
+1. `12ud6X3HTfWmV6rYZxiFo6f6QEDc1FF74k91vF76AmCDMT4j`
+2. `12Z3Bhjn42TPXy5re2CiYz1fqMd21i2XyBLmbekbjLXrqVBV`
+3. `1342iFZNrBfCP9VWxqt5p39LiHp2ynyq85Ww9K7R8w6BURps`
+4. `13giQQe5CS4AAjkz1roun8NYUmZAQ2KYp32qTnJHLTcw4VxW`
+5. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
 6. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
+7. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
+8. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
+9. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
+10. `16DKyH4fggEXeGwCytqM19e9NFGkgR2neZPDJ5ta8BKpPbPK`
 
 Press with the left click on the account appeared in the left column to add it to your nomination list. Address will appear in the right column.
 
