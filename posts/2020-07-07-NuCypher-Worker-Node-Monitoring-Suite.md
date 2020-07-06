@@ -2,8 +2,8 @@
 title: "NuCypher Worker Node Monitoring Suite"
 description: "Free and open-sourced suite of self-hosted NuCypher node monitoring and alerting services using Prometheus and Grafana."
 date: 2020-07-07
-thumbnail: 'https://i.imgur.com/2uCFzTO.png'
-heroImage: 'https://i.imgur.com/2uCFzTO.png'
+thumbnail: 'https://i.imgur.com/XY1wX3H.png' 
+heroImage: 'https://i.imgur.com/XY1wX3H.png'
 layout: Post
 category:
   - NuCypher
@@ -25,9 +25,10 @@ NuCypher nodes are incentivized to maintain high uptime and availability to read
 
 Our goal was to provide a seamless setup, simple configuration and enable the user to obtain up-to-date information about their ongoing node operations and the broader NuCypher network. We implemented a Worker endpoint that provides various node metrics and a Grafana dashboard to allow users to visualize these metrics and assess the state of their node. 
 
-![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
+![](https://i.imgur.com/sKbvmsz.png")
 
-![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
+![](https://i.imgur.com/22nrHoR.png")
+
 
 Metrics include:
 * CPU / RAM / Disk / Network utilization
@@ -38,7 +39,7 @@ Metrics include:
 
 Furthermore, alerts can be provisioned based on these metrics through the dashboard to send timely messages when notable issues arise. Notification mechanisms include Telegram bots, SMS, phone calls, and email notifications. Additional functionality is provided to include images within alert messages and to configure reminders.
 
-![](https://live.staticflickr.com/65535/40894825453_44d5b3b78e_o.png")
+![](https://i.imgur.com/rEOUYqG.png")
 
 ## Getting Started
 
