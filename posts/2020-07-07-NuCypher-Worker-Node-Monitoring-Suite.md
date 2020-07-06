@@ -59,10 +59,10 @@ To set up our monitoring suite, go to https://github.com/p2p-org/nucypher-monito
 
 [P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=NuCypher-monitoring) is a world-leading staking provider with the best industry security practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities. At the time of publishing, more than 40 million of USD value is staked with P2P Validator by over 1500 delegators across 15+ networks.
 
-**Web:**[p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=nucypher-monitoring)
+**Web:** [p2p.org](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=nucypher-monitoring)
 
-**Stake DOT with us:** [p2p.org/nucypher](https://p2p.org/nucypher?utm_source=blog&utm_medium=economy&utm_campaign=nucypher-monitoring)
+**Stake NU with us:** [p2p.org/nucypher](https://p2p.org/nucypher?utm_source=blog&utm_medium=economy&utm_campaign=nucypher-monitoring)
 
-**Twitter:**[@p2pvalidator](https://twitter.com/p2pvalidator)
+**Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
 
 **Telegram:** [t.me/P2Pstaking](https://t.me/P2Pstaking)
