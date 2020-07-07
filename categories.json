@@ -54,5 +54,9 @@
   "regen": {
     "name": "regen",
     "description": "Regen Network is a decentralized ecosystem focused on tracking ecological data, facilitating planet regeneration and achieving better understanding of various ecological outcomes"
+  },
+  "nucypher": {
+    "name": "nucypher",
+    "description": "NuCypher is a decentralized blockchain privacy layer that functions as a key management system. It allows users to share private data on public networks securely and scalable, through the power of Proxy Re-Encryption (PRE)"
   }
 }
