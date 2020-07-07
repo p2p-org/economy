@@ -6,7 +6,7 @@ thumbnail: 'https://i.imgur.com/XY1wX3H.png'
 heroImage: 'https://i.imgur.com/XY1wX3H.png'
 layout: Post
 category:
-  - NuCypher
+  - nucypher
 authors:
   - PaulP
 company:
