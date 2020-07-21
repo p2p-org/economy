@@ -15,7 +15,7 @@ company:
 ---
 While validators in Polkadot work together as the heart of the ecosystem - validate transactions, build the blockchain itself, and maintain network security, nominators supply the blood - they delegate their tokens to the validators they trust and therefore receive rewards and provide supply to the blockchain economy. So, what's the best strategy for a nominator? How to be sure your funds are safe and working at their maximum? We've gathered some strategies that might be useful for you based on the stake you have.
 
-#5000 DOTs and more.
+# 5000 DOTs and more.
 You hold a large number of tokens, and the rewards you can get are pretty high (in absolute numbers). Here are some thoughts that you might find useful:
 
  - The right nomination strategy can add several additional points to your APR, while with the wrong one you can receive only half of the potential profit. "Nominate once and relax" won't work for you because the fluctuations of nominations on the network can change the position of validators you've chosen drastically.
@@ -33,7 +33,7 @@ All this can make you think that it's almost impossible to get the maximum from 
 
 **All the mentioned benefits are available for you without any additional fees. Contact us via [email](mailto:am@p2p.org) or [join our telegram group](https://t.me/P2Pstaking) to know more.**
 
-#500 - 5000 DOTs
+# 500 - 5000 DOTs
 We can bet you care about your profits, so you may develop this strategy by yourself - monitor the staking daily and update your nomination to choose the best validators. But the question is - how to choose reliable validator nodes and get maximum rewards from them? Here are some thoughts:
 
  - Your stake is still significant enough not to use the automatic validator selection on polkadot.js - you're still able to push the specific node from the top profitability position.  
@@ -41,19 +41,19 @@ We can bet you care about your profits, so you may develop this strategy by your
 
 Feel free to use a [dashboard](https://redash.p2p.org/public/dashboards/cviD6Ci7oUDRnSoq8CqNJImrJfq8uuY37DsiF2CY?org_slug=default) that predicts the next validator set and was designed to find out the best targets for nominations.
 
-#100-500 DOTs
+# 100-500 DOTs
 With a stake in this range, you might be interested in increasing profits, but paying too much attention to staking would not cover the costs of your time. The best approach would be to make a nomination and come back, check and update nomination if needed in a week or two. Here are some thoughts that might help you to make the right choice of validator:
 
  - Choose nodes from a validator you know and can reach in case you have any questions. Polkadot network is permissionless - that means anyone can be a validator. The malicious behavior of a validator results in a punishment (slashing in terms of Polkadot) - which is a lot more harmful to the nominator than the validator. 
  - If you're using polkadot.js, be careful over choosing validators automatically. This mechanism relies only on the current state of nominations and fees - and tells you nothing about specific validator quality. 
 
 
-Use the [p2p.org/polkadot](p2p.org/polkadot?utm_source=blog&utm_campaign=polkadot_nomination_strategies) web page to find out the best target addresses supported by P2P Validator.
+Use the [p2p.org/polkadot](https://p2p.org/polkadot?utm_source=blog&utm_campaign=polkadot_nomination_strategies) web page to find out the best target addresses supported by P2P Validator.
 
-#0-100 DOTs
+# 0-100 DOTs
 You don't have enough dots to earn a lot - but that also brings you an advantage - your stake does not significantly change a selected validator's profitability, so there is no need to pay much attention to nominations. The best strategy for you would be to choose around eight top-performing validators from the active set and the rest from the waiting list based on your feelings. We encourage you to put a bet on both big names in validation and include smaller independent validators who are active in community chats. 
 
-#General thoughts
+# General thoughts
 According to Polkadot network rules, you can choose up to 16 validators in your nomination, and an automated election algorithm will do the rest. It looks like a perfect solution - to nominate once and relax, but there are some pitfalls that might affect your profits:
 
  - Validators you've nominated might not be elected to the active validator set. This situation might occur if the other nominators that chose the same validators as you will renominate to other nodes. In this case, you're entirely missing any profit - and will continue to miss it until you make a new nomination or other people help your validators reach the active validator set.
@@ -69,9 +69,9 @@ The risks of not paying attention to the actual state of nomination in Polkadot 
  - We were the first ones to run validators in both Polkadot and Kusama
  - We've achieved top-notch profitability for our nominators in Kusama and have a good track record.
 
-**How to nominate P2P? Just use the 16 validator nodes listed on our website [https://p2p.org/polkadot](p2p.org/polkadot?utm_source=blog&utm_campaign=polkadot_nomination_strategies)**
+**How to nominate P2P? Just use the 16 validator nodes listed on our website [p2p.org/polkadot](https://p2p.org/polkadot?utm_source=blog&utm_campaign=polkadot_nomination_strategies)**
 
-###P2P statistics in Kusama
+## P2P statistics in Kusama
 We have accumulated a huge amount of experience in staking Kusama and continue this story in Polkadot. The graph below shows the profits for a nominator with 1000 KSM with P2P Validator and other validators*.
 ![](https://i.imgur.com/dx9t8wS.png)
 
@@ -81,13 +81,9 @@ We have accumulated a huge amount of experience in staking Kusama and continue t
 # About P2P Validator
 
 [P2P Validator](https://p2p.org/?utm_source=blog&utm_campaign=polkadot_nomination_strategies) is a world-leading non-custodial staking provider with the best industry practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities securing more than 100 million of USD value. At the time of publishing, P2P Validator is trusted by over 2000 delegators across 15+ networks.
-
 ------
-
 *Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alex via am@p2p.org. We are always ready to help and open for communication.*
-
 ------
-
 **Web:**[ https://p2p.org](https://p2p.org/?utm_source=blog&utm_campaign=polkadot_nomination_strategies)
 
 **Stake DOT with us:** [https://p2p.org/polkadot](https://p2p.org/polkadot?utm_source=blog&utm_medium=economy&utm_campaign=strategy)
