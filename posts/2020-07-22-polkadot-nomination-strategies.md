@@ -24,7 +24,7 @@ You hold a large number of tokens, and the rewards you can get are pretty high (
 
 All this can make you think that it's almost impossible to get the maximum from your stake. **Luckily, you're reading this text on p2p.org. We're a top-tier validator and can make this happen because of our vast amount of experience accumulated in Kusama and Polkadot.**
 
-###P2P Validator special offer:
+### P2P Validator special offer:
 
  - Optimized regular nominations to get maximum yield 
  - Direct support by chat or video call 
