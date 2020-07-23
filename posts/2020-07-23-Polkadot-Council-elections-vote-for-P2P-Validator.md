@@ -39,8 +39,9 @@ Efficient governance implies an active participation of stakeholders, which is a
 Initially there are 13 councilors, the number will gradually grow to 23. Elections initially happen once a day. Later, elections will occur on a weekly basis and eventually monthly. Every token holder can pick up to 16 candidates. Stake-weighted votes are distributed automatically based on the Phragmen method the same way as nominating validators. **Tokens involved in staking count in the selection of Council members**. The vote is considered valid until canceled via extrinsic. Before that DOT are frozen (becoming non-transferable). **Unlike unbonding, there is no specific period to wait before unfreezing and they become unlocked and transferable right after submitting a corresponding transaction.**
 
 ## The mission of P2P Validator as a council member
- Very simply, we can describe our mission as a council member as follows: **to protect the interests of nominators and validators.**
- - 
+
+**Very simply, we can describe our mission as a council member as follows: to protect the interests of nominators and validators.**
+
 Although nominators and validators have different roles in the ecosystem, we find that many points are valid for both:
 - Nominators and validators own and earn a certain amount of tokens and are interested in network ecosystem growth.
 - Nominators' stake and validators' future profits are in a non-liquid state, so both would not welcome any change that would result in a negative change in value of their holdings.
