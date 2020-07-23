@@ -49,22 +49,22 @@ company:
 
 **Here are P2P addresses:**  
 
-1. `13eJW8EEepfprmeezKHn9gbgqHAk9izHyUxReA7RjDuuSTyC`
-2. `12YP2b7L7gcHabZqE7vJMyF9eSZA9W68gnvb8BzTYx4MUxRo`
-3. `134Bw4gHcAaHBYx6JVK91b1CeC9yWseVdZqyttpaN5zBHn43`
-4. `13uW7auWPX9WAtqwkBx7yagb78PLcv8FAcPZEVCovbXoNJK4`
-5. `14AkAFBzukRhAFh1wyko1ZoNWnUyq7bY1XbjeTeCHimCzPU1`
-6. `12CN2fCWC43fPXMLia1PCTsvE491KZ1KKzG2ExvACPY6puV9`
-7. `1342iFZNrBfCP9VWxqt5p39LiHp2ynyq85Ww9K7R8w6BURps`
-8. `13giQQe5CS4AAjkz1roun8NYUmZAQ2KYp32qTnJHLTcw4VxW`
-9. `12Z3Bhjn42TPXy5re2CiYz1fqMd21i2XyBLmbekbjLXrqVBV`
-10. `12ud6X3HTfWmV6rYZxiFo6f6QEDc1FF74k91vF76AmCDMT4j`
-11. `121gZtuuG6sq3BZp1UKg8oRLRZvp89SAYSxXypwDJjaSRJR5`
-12. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
-13. `11uMPbeaEDJhUxzU4ZfWW9VQEsryP9XqFcNRfPdYda6aFWJ`
-14. `15qomv8YFTpHrbiJKicP4oXfxRDyG4XEHZH7jdfJScnw2xnV`
-15. `14QBQABMSFBsT3pDTaEQdshq7ZLmhzKiae2weZH45pw5ErYu`
-16. `15oKi7HoBQbwwdQc47k71q4sJJWnu5opn1pqoGx4NAEYZSHs`
+1. `158WyuVKFJZaTx36fNdXMg8GTXiGT42dCZA8XsEfYfZDrFyQ`
+2. `1Wo6qcrh7wxc1kQY5nfixFuCAFuzkgiwau64SmrPXBE7vVf`
+3. `12GsUt6XbVMHvKt9NZNXBcXFvNCyTUiNhKpVnAjnLBYkZSj1`
+4. `14QShJ8R9gtRd9DHTpWL56etZQLT15JeLNEWHQsQMN3hDtHE`
+5. `12WafjZWsgVZGvFzZ7EXYFukSpLEZV3cieRYmtd6xZYGbpXr`
+6. `1293x8Max5nQW6J8ubgKWuEFMViQBAxb7CxfFakpApoRXYUC`
+7. `129TM37DNpyJqtRYYimSMp8aQZ8QW7Jg3b4qtSrRqjgAChQf`
+8. `13Ei9Xuqwu971JiBAkZx92XgBzX1wpuRnwi5qx76ZueAnGko`
+9. `13XwbRe9QTAtWADatMiCNhjq7CpRjRGXLvFuRrzWVAzoz8mc`
+10. `1737bipUqNUHYjUB5HCezyYqto5ZjFiMSXNAX8fWktnD5AS`
+11. `135q2jwLPAtsKW6vPLfBqh3Cxmi5Sj7mNL93Cx7AsYD2XRUh`
+12. `14SRtmkZPGzaV1bKivd7T6xw15YRW53gjE5F2LVbiwChqKGx`
+13. `14aN2MKS7sMrof8ZPbUKs7C8CpuS939ymFf1BKgEGHmHd5jw`
+14. `15Q4hMef4AGNKwgK5hd7k6zWvyaK8DhfhpaCHDGxdS7buxDf`
+15. `16ALLQukR3zfhAC9Uzb6HPYHvQWH6hcricDnskc4XL8kvePF`
+16. `16pYErtQ2n77cQjtZpKzvpqh1w1iDfdLHn65YYsX74tVbkN`
 
 Press with the left click on the account appeared in the left column to add it to your nomination list. Address will appear in the right column.
 
@@ -118,7 +118,7 @@ Choose `Set nomenees` and simply repeat step #5 .
 
 # About P2P Validator
 
-[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate) is a world-leading non-custodial staking provider securing more than $40 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
+[P2P Validator](https://p2p.org/?utm_source=blog&utm_medium=economy&utm_campaign=polkadot_nominate) is a world-leading non-custodial staking provider securing more than $100 million by over 1000 delegators/nominators across 15+ top-notch networks. We have been present in all Polkadot testnets and have been actively participating on Kusama network since the beginning. P2P Validator invested its own funds in Polkadot in 2017 and intends to support the network in the long term.
 
 ------
 
