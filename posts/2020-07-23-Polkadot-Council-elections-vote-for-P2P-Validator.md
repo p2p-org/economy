@@ -25,7 +25,7 @@ After the first council elections and removal of sudo module Polkadot will becom
 - We have a dedicated development team and participate in W3F General Grants Program
 - We are always open for community requests
 
-**[Press here to find detailed instructions on voting.](#markdown-header-how-to-vote)**
+**[Press here to find detailed instructions on voting.](#how-to-vote)**
 
 ## Role of a council member
 Efficient governance implies an active participation of stakeholders, which is always limited to some extent. It requires continuous monitoring of new proposals and taking actions to check that the outcome is not harmful for the ecosystem. Sometimes, token holders miss the right moment or simply prefer not to participate in voting for various reasons. Councils in Polkadot represent passive stakeholders and have a crucial role in the governance affecting the way of approving/rejecting proposals.
