@@ -47,24 +47,7 @@ company:
 
 5. To nominate P2P Validator pick all `P2P.ORG` from the left column or simply **copy our addresses one by one in the order indicated below** and paste them in the search field. Don't press `Bond & Nominate` button until you add all addresses.
 
-**Here are P2P addresses:**  
-
-1. `158WyuVKFJZaTx36fNdXMg8GTXiGT42dCZA8XsEfYfZDrFyQ`
-2. `1Wo6qcrh7wxc1kQY5nfixFuCAFuzkgiwau64SmrPXBE7vVf`
-3. `12GsUt6XbVMHvKt9NZNXBcXFvNCyTUiNhKpVnAjnLBYkZSj1`
-4. `14QShJ8R9gtRd9DHTpWL56etZQLT15JeLNEWHQsQMN3hDtHE`
-5. `12WafjZWsgVZGvFzZ7EXYFukSpLEZV3cieRYmtd6xZYGbpXr`
-6. `1293x8Max5nQW6J8ubgKWuEFMViQBAxb7CxfFakpApoRXYUC`
-7. `129TM37DNpyJqtRYYimSMp8aQZ8QW7Jg3b4qtSrRqjgAChQf`
-8. `13Ei9Xuqwu971JiBAkZx92XgBzX1wpuRnwi5qx76ZueAnGko`
-9. `13XwbRe9QTAtWADatMiCNhjq7CpRjRGXLvFuRrzWVAzoz8mc`
-10. `1737bipUqNUHYjUB5HCezyYqto5ZjFiMSXNAX8fWktnD5AS`
-11. `135q2jwLPAtsKW6vPLfBqh3Cxmi5Sj7mNL93Cx7AsYD2XRUh`
-12. `14SRtmkZPGzaV1bKivd7T6xw15YRW53gjE5F2LVbiwChqKGx`
-13. `14aN2MKS7sMrof8ZPbUKs7C8CpuS939ymFf1BKgEGHmHd5jw`
-14. `15Q4hMef4AGNKwgK5hd7k6zWvyaK8DhfhpaCHDGxdS7buxDf`
-15. `16ALLQukR3zfhAC9Uzb6HPYHvQWH6hcricDnskc4XL8kvePF`
-16. `16pYErtQ2n77cQjtZpKzvpqh1w1iDfdLHn65YYsX74tVbkN`
+   **You can find an up-to-date list of recommended addresses on [our website](https://p2p.org/polkadot).**
 
 Press with the left click on the account appeared in the left column to add it to your nomination list. Address will appear in the right column.
 
