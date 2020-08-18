@@ -1,62 +1,77 @@
 {
   "economy": {
     "name": "economy",
-    "description": "P2PEconomy is changing the main criterion for economic decision-making from the desire to increase individual capital (capitalism) and public property (socialism) to new motivation criterion equilibrium"
+    "description": "P2PEconomy is changing the main criterion for economic decision-making from the desire to increase individual capital (capitalism) and public property (socialism) to new motivation criterion equilibrium",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   },
   "staking": {
     "name": "staking",
-    "description": "Staking is a new paradigm of energy-efficient and environment-friendly mining accessible to everyone. By staking you support a network and earn passive income"
+    "description": "Staking is a new paradigm of energy-efficient and environment-friendly mining accessible to everyone. By staking you support a network and earn passive income",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   },
   "cosmos": {
     "name": "cosmos",
-    "description": "Cosmos is a decentralized network of independent and interoperable blockchains where Cosmos Hub is the first Proof-Of-Stake blockchain that will provide connectivity within the whole ecosystem"
+    "description": "Cosmos is a decentralized network of independent and interoperable blockchains where Cosmos Hub is the first Proof-Of-Stake blockchain that will provide connectivity within the whole ecosystem",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/cosmos-blog-subscribe-0-0"
   },
   "terra": {
     "name": "terra",
-    "description": "Terra is a stablecoin family that achieves stability with a staking token LUNA that serves as collateral. Terra will power the next-generation payment network evolving into a new financial paradigm"
+    "description": "Terra is a stablecoin family that achieves stability with a staking token LUNA that serves as collateral. Terra will power the next-generation payment network evolving into a new financial paradigm",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/cosmos-blog-subscribe-0-0"
   },
   "Eli5": {
     "name": "Explain like I'm Five",
-    "description": "'Explain like I'm five' is a short series of articles covering reward distribution, slashing and other important aspects of staking explained in a simple way like for a five year old child"
+    "description": "'Explain like I'm five' is a short series of articles covering reward distribution, slashing and other important aspects of staking explained in a simple way like for a five year old child",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   },
   "tezos": {
     "name": "tezos",
-    "description": "Tezos is an open-source smart-contract platform for assets and applications that incorporates a process for upgrading the protocol through on-chain governance in a decentralized manner"
+    "description": "Tezos is an open-source smart-contract platform for assets and applications that incorporates a process for upgrading the protocol through on-chain governance in a decentralized manner",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/tezos-blog-subscribe"
   },
   "cyberway": {
     "name": "cyberway",
-    "description": "Cyberway is a flexible decentralized platform specifically designed to handle more complex applications with microservice infrastructure"
+    "description": "Cyberway is a flexible decentralized platform specifically designed to handle more complex applications with microservice infrastructure",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   },
   "kava": {
     "name": "kava",
-    "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi. This enables users to access decentralized leverage and hedging using collateral-backed stablecoin USDX"
+    "description": "Kava is a decentralized lending platform bridging broad digital assets to cross-blockchain DeFi. This enables users to access decentralized leverage and hedging using collateral-backed stablecoin USDX",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/cosmos-blog-subscribe-0-0"
   },
   "kusama": {
     "name": "kusama",
-    "description": "Kusama is an early and experimental version of Polkadot created for testing network parameters, parachains and other activities."
+    "description": "Kusama is an early and experimental version of Polkadot created for testing network parameters, parachains and other activities.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/polkadot-blog-subscribe"
   },
   "daobet": {
     "name": "daobet",
-    "description": "DAOBet is an infrastructure for the gambling and other iGaming sectors regulated by technology and managed by individuals."
+    "description": "DAOBet is an infrastructure for the gambling and other iGaming sectors regulated by technology and managed by individuals.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   },
   "chainlink": {
     "name": "chainlink",
-    "description": "Chainlink is a decentralized oracle network that enables smart-contracts to securely access off-chain data feeds, web APIs and traditional bank payments."
+    "description": "Chainlink is a decentralized oracle network that enables smart-contracts to securely access off-chain data feeds, web APIs and traditional bank payments.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/ethereum-subscribe-0"
    },
   "oasis": {
     "name": "oasis",
-    "description": "Oasis is a decentralized privacy-preserving preserving platform for cloud computing providing confidentiality at every layer of the protocol"
+    "description": "Oasis is a decentralized privacy-preserving preserving platform for cloud computing providing confidentiality at every layer of the protocol",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/cosmos-blog-subscribe-0-0"
    },
   "polkadot": {
     "name": "polkadot",
-    "description": "Polkadot is a sharded protocol that allows parallelized chains connected to a Relay Chain to interoperate seamlessly sharing security and increasing overall scalability of the network."
+    "description": "Polkadot is a sharded protocol that allows parallelized chains connected to a Relay Chain to interoperate seamlessly sharing security and increasing overall scalability of the network.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/polkadot-blog-subscribe"
    },
   "regen": {
     "name": "regen",
-    "description": "Regen Network is a decentralized ecosystem focused on tracking ecological data, facilitating planet regeneration and achieving better understanding of various ecological outcomes"
+    "description": "Regen Network is a decentralized ecosystem focused on tracking ecological data, facilitating planet regeneration and achieving better understanding of various ecological outcomes",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/cosmos-blog-subscribe-0-0"
   },
   "nucypher": {
     "name": "nucypher",
-    "description": "NuCypher is a decentralized blockchain privacy layer that functions as a key management system. It allows users to share private data on public networks securely and scalable, through the power of Proxy Re-Encryption (PRE)"
+    "description": "NuCypher is a decentralized blockchain privacy layer that functions as a key management system. It allows users to share private data on public networks securely and scalable, through the power of Proxy Re-Encryption (PRE)",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/ethereum-subscribe-0"
   }
 }
