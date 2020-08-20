@@ -61,10 +61,14 @@ ___
  
 # About P2P.org
 [P2P Validator](https://p2p.org/) is a world-leading **non-custodial staking provider** with the best industry practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities securing more than **170 million of USD** value. At the time of publishing, P2P Validator is **trusted by over 2200 delegators** across 15+ networks. We are a major player in all networks we support because of our experience, commitments and our **reputation**. We pay special attention to the process of **governance**.
+
  > Our aim is to provide a secure and reliable service at the lowest cost **maximizing rewards for our delegators**.
+ 
 ___
+
 Do not hesitate to ask questions in our [Telegram](https://t.me/P2Pstaking) chat or contact Slava via sy@p2p.org. We are always open for communication.
 ___
-Web: https://p2p.org
-Twitter: [@p2pvalidator](https://twitter.com/p2pvalidator)
-Telegram: https://t.me/P2Pstaking
+
+**Web:** https://p2p.org
+**Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
+**Telegram:** https://t.me/P2Pstaking
