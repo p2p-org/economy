@@ -73,5 +73,9 @@
     "name": "nucypher",
     "description": "NuCypher is a decentralized blockchain privacy layer that functions as a key management system. It allows users to share private data on public networks securely and scalable, through the power of Proxy Re-Encryption (PRE)",
     "subscribeLink": "https://p2p-5944353.hs-sites.com/ethereum-subscribe-0"
-  }
+  },
+  "cardano": {
+    "name": "cardano",
+    "description": "Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
 }
