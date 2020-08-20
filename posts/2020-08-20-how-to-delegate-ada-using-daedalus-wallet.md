@@ -71,5 +71,7 @@ Do not hesitate to ask questions in our [Telegram](https://t.me/P2Pstaking) chat
 ------
 
 **Web:** https://p2p.org
+
 **Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
+
 **Telegram:** https://t.me/P2Pstaking
