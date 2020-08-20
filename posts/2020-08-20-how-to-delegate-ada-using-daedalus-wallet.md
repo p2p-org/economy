@@ -64,10 +64,11 @@ ___
 
  > Our aim is to provide a secure and reliable service at the lowest cost **maximizing rewards for our delegators**.
  
-___
+------
 
 Do not hesitate to ask questions in our [Telegram](https://t.me/P2Pstaking) chat or contact Slava via sy@p2p.org. We are always open for communication.
-___
+
+------
 
 **Web:** https://p2p.org
 **Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
