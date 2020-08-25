@@ -53,14 +53,19 @@ First of all, you need to create a new Daedalus wallet to load  your funds from 
 - If you have used **Yoroi** wallet and now for some reason would like to try Daedalus, you can employ the “Restore Yoroi wallet” feature to move your funds to a newly created Daedalus wallet.
 ![P2P](https://i.imgur.com/xO3EuEg.png)
 
-- You can  also  restore your funds from **Hardware wallets** such as **Ledger (Byron legacy wallet)** or **Trezor (Byron legacy wallet).** However, read the recommendations provided by IOHK team -carefully- to avoid exposing your hardware wallet private keys to  security risks.
+- You can  also  restore your funds from **Hardware wallets** such as **Ledger (Byron legacy wallet)** or **Trezor (Byron legacy wallet).** However, read the recommendations provided by IOHK team carefully to avoid exposing your hardware wallet private keys to  security risks.
 ![P2P](https://i.imgur.com/D5lNluK.png)
 
 **Overall, the process  is the same for each kind of wallet:**
+
 1. Go to the main dashboard and click `Add wallet` → `Restore`.
+
 2. You will be prompted to select a type of legacy wallet. Select the one required and click `Continue`.
+
 3. Enter Recovery phrase, Wallet Name and Password to restore the wallet.
+
 4. Wait while your wallet syncs to see the legacy wallet and its balance in the user interface.
+
 5. Transfer ADA to newly created Daedalus wallet.
 
 >Please keep in mind there will be a small fee in ADA to make a transfer from Bayron legacy to the new Shelley wallet.
