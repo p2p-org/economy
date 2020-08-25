@@ -16,7 +16,7 @@ company:
 
 After the first council elections and removal of sudo module Polkadot will become a permissionless chain fully governed by the community. Every DOT holder can submit a proposal and suggest parameter changes such as increasing the validator set and many more.
 
-**P2P Validator is excited to announce our Council candidacy**. We have supported both Polkadot and Kusama networks from the very beginning, and, as a result, received more than 500,000 DOTs from 250+ users as nominations. As a Council member, we promise to act in the interests of the Polkadot community.
+**P2P Validator is excited to announce our Council candidacy**. We have supported both Polkadot and Kusama networks from the very beginning, and, as a result, received more than 50,000,000 DOTs from 250+ users as nominations. As a Council member, we promise to act in the interests of the Polkadot community.
 
 ## Why you should vote for P2P Validator
 - We have a proven track record of 2+ years in the validation business across different networks

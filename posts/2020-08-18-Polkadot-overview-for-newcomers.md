@@ -53,13 +53,13 @@ We have a general [guide on nominating](https://economy.p2p.org/polkadot-nominat
 	* Unbonding might be performed when you want to stop nominating and move or sell your DOTs. Please be careful - the unbonding period for Polkadot is 28 days, so basically you won’t be able to transfer or stake your DOTs for almost a month!
 - Controller account is a special account that might be linked with your primary account (stash in terms of Polkadot) to perform some actions (e.g., staking). It is good practice to have a controller account connected to your stash and don’t touch the last one without a significant reason. What is more important, you can basically share your controller account with 3rd parties to perform staking while keeping your stash keys with you and your funds will be safe!
 
-For those of you who have more than 500 DOT we have a [special offer](https://economy.p2p.org/polkadot-nomination-strategies/#p2p-validator-special-offer)! 
+For those of you who have more than 50000 DOT we have a [special offer](https://economy.p2p.org/polkadot-nomination-strategies/#p2p-validator-special-offer)! 
 
 ## How do rewards work?
 At the moment, Polkadot provides around 14-15% APR on your stake. The following things might influence your profit:
 - Validator fee. The average validator fee is around 3%.
 - Luck. The profit for each validator is proportional to the number of blocks produced during the era. These numbers will be equal in the long run, but for some days you may notice a bit more or a bit less profit than predicted - so basically you should not worry about this.
-- Total stake on the node. Polkadot provides staking rewards that are almost equal for every validator. After that, the validator automatically distributes the profit for the nominators after taking a validator fee. So, nominating to the validator that has 20k DOT in nominations will bring you twice as much as nominating the one with 40k DOT in nominations.
+- Total stake on the node. Polkadot provides staking rewards that are almost equal for every validator. After that, the validator automatically distributes the profit for the nominators after taking a validator fee. So, nominating to the validator that has 2M DOT in nominations will bring you twice as much as nominating the one with 4M DOT in nominations.
 - Overall validator performance. In the real world, different validators have different hardware resources, connectivity, etc. - all of these factors may affect nominators’ profitability.
 - Slashing penalties. [Please take a note on slashing and how it works in Polkadot](#what-is-slashing-and-how-does-it-work).
 
@@ -93,7 +93,7 @@ For all newcomers to Polkadot ecosystem, we recommend the following resources:
 
 ------
 
-*Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Alex via am@p2p.org or Gleb via gleb.p@p2p.org. We are always ready to help and open for communication.*
+*Do not hesitate to ask questions in our [Telegram chat](https://t.me/P2Pstaking) or contact Gleb via gleb.p@p2p.org. We are always ready to help and open for communication.*
 
 ------
 
