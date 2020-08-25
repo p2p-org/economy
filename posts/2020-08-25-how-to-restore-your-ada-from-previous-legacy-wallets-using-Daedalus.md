@@ -1,3 +1,19 @@
+---
+title: "How to restore your ADA from previous legacy wallets using Daedalus"
+description: "Simple guide on how to resore your ADA from different wallets such as legacy Daedalus, Yoroi or Hardware wallets using new Daedalus wallet"
+date: 2020-08-25
+thumbnail: 'http://url-to-thumbnail.jpg'
+heroImage: 'https://i.imgur.com/LpId57x.png'
+layout: Post
+category:
+  - cardano
+authors:
+  - SlavaYanchuk
+company:
+ - p2p
+
+---
+
 # How to restore your ADA from previous legacy wallets using Daedalus
 
 This guide is designed to help you to restore your ADA from legacy Daedalus, Yoroi or Hardware wallets.
