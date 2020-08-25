@@ -1,3 +1,19 @@
+---
+title: "When will I start receiving my ADA rewards?"
+description: "This article is intended to help you understand when you could start receiving rewards from delegated stake."
+date: 2020-08-25
+thumbnail: 'http://url-to-thumbnail.jpg'
+heroImage: 'https://i.imgur.com/GU1DIob.png'
+layout: Post
+category:
+  - cardano
+authors:
+  - SlavaYanchuk
+company:
+ - p2p
+
+---
+
 # When will I start receiving my ADA rewards?
 
 Many of our community members have been asking around when they could start receiving rewards from delegated stake. And the short answer might be as follows: **you will begin receiving staking rewards three entire epochs after the epoch during which you delegated your ADA.** But let’s take a closer look at the delegation cycle. 
@@ -31,6 +47,26 @@ Finally, you will be rewarded for your patience on the first day of the next epo
 3. Once you make a change, for instance you added new funds to the staking wallet,  the added stake will go through the delegation cycle from the very beginning. 
 
 4. Making change is a simple and safe process as any other normal transaction on the blockchain.
+
+---
+
+# About P2P.org
+[P2P Validator](https://p2p.org/) is a world-leading **non-custodial staking provider** with the best industry practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities securing more than **250 million of USD** value. At the time of publishing, P2P Validator is **trusted by over 2300 delegators** across 15+ networks. We are a major player in all networks we support because of our experience, commitments and our **reputation**. We pay special attention to the process of **governance**.
+
+ > Our aim is to provide a secure and reliable service at the lowest cost **maximizing rewards for our delegators**.
+ 
+------
+
+Do not hesitate to ask questions in our [Telegram](https://t.me/P2Pstaking) chat or contact Slava via sy@p2p.org. We are always open for communication.
+
+------
+
+**Web:** https://p2p.org
+
+**Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
+
+**Telegram:** https://t.me/P2Pstaking
+
 
 
 
