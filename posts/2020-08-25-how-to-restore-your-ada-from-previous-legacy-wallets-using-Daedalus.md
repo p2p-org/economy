@@ -24,22 +24,29 @@ This guide is designed to help you to restore your ADA from legacy Daedalus, Yor
 
 ## Create A New Daedalus Wallet
 First of all, you need to create a new Daedalus wallet to load  your funds from a legacy one. Ensure that you have the latest version of the wallet or download it from offical [Daedalus wallet](https://daedaluswallet.io/#download) page.
+
 1. After the sync has reached 100%, go to the dashboard and click the `Create` button. 
 ![Daedalus](https://i.imgur.com/V60cN6D.png)
+
 2. Enter the name and password for the Wallet.
 3. Create a spending password which will be required every time you do a transaction and click `Create Shelley wallet`.
 ![Daedalus](https://i.imgur.com/qFvdIEC.png)
+
 4. At the next step, you will be prompted on how to use the 24-word Recovery Phrase. **Read it carefully since if you lose your wallet recovery phrase you will not get a chance to take your ADA back.**
 ![Daedalus](https://i.imgur.com/tzn2Olb.png)
+
 5. Next, you have to verify the 24-word Recovery Phrase you have just got from the system.
 ![Daedalus](https://i.imgur.com/FkgouhK.png)
+
 6. Wait for the wallet to be  synced and then you can use it for new transactions or for moving your funds from restored legacy wallets.
 ![Daedalus](https://i.imgur.com/n1dJUmq.png)
 
 ## Restore Legacy Wallet
-1. Click the `hamburger` icon to open the side-panel and click Add wallet.
+1. Click the `hamburger` icon to open the side-panel and click `Add wallet`.
 ![P2P](https://i.imgur.com/kG80KAo.png)
+
 2. Click the `Restore` button and select the type of the wallet. There are quite a few options you can use to restore the funds:
+
 - You can restore your ADA from an older version of Daedalus such as **Bayron legacy, Shelley legacy or Bayron paper wallets.**
 ![P2P](https://i.imgur.com/ST0ohXF.png)
 
