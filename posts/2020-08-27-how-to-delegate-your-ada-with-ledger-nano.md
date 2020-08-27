@@ -37,7 +37,7 @@ First of all [download ledger live app](https://support.ledger.com/hc/en-us/arti
 5. Approve the export.
 ![P2P](https://i.imgur.com/1gkdndG.png)
 
-6. After successful confirmation the wallet info will be available on your device. If you have ADA on your ledger go to step `№6`. If not, scroll down to the list of your addresses and send ADA to one of them.
+6. After successful confirmation the wallet info will be available on your device. If you have ADA on your ledger go to step `#6`. If not, scroll down to the list of your addresses and send ADA to one of them.
 ![P2P](https://i.imgur.com/UWZKjSJ.png)
  
 7. Refresh the balance on the staking tab.
@@ -58,7 +58,7 @@ Wait for the appearance of pool info as on the screen below and press `Delegate`
 ![P2P](https://i.imgur.com/ghc5AKi.png)
 
 12. Confirm the delegation itself. It will become active after two epochs (~10 days). In Cardano there is no slashing so your funds are safe.
-
+![P2P](https://i.imgur.com/vTe2I2o.png)
 
 **Congratulations! After completing all the steps you will see the updated info about your delegation in ADAlite wallet.**
 
