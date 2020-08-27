@@ -1,3 +1,19 @@
+---
+title: "How to delegate your ADA with Ledger Nano S/X"
+description: "This guide will walk you step-by-step through the process of delegation in Cardano using the ledger device."
+date: 2020-08-27
+thumbnail: 'http://url-to-thumbnail.jpg'
+heroImage: 'https://i.imgur.com/O1H2HwJ.png'
+layout: Post
+category:
+  - cardano
+authors:
+  - SlavaYanchuk
+company:
+ - p2p
+
+---
+
 # How to delegate your ADA with Ledger Nano S/X 
 
 This guide will walk you step-by-step through the process of delegation in Cardano using the ledger device.
@@ -42,10 +58,28 @@ Wait for the appearance of pool info as on the screen below and press `Delegate`
 ![P2P](https://i.imgur.com/ghc5AKi.png)
 
 12. Confirm the delegation itself. It will become active after two epochs (~10 days). In Cardano there is no slashing so your funds are safe.
-![P2P](https://i.imgur.com/CXsuSXA.png)
+
 
 **Congratulations! After completing all the steps you will see the updated info about your delegation in ADAlite wallet.**
 
+---
+
+# About P2P.org
+[P2P Validator](https://p2p.org/) is a world-leading **non-custodial staking provider** with the best industry practices and proven expertise. We provide comprehensive due-diligence of digital assets and offer only top-notch staking opportunities securing more than **300 million of USD** value. At the time of publishing, P2P Validator is **trusted by over 2300 delegators** across 15+ networks. We are a major player in all networks we support because of our experience, commitments and our **reputation**. We pay special attention to the process of **governance**.
+
+ > Our aim is to provide a secure and reliable service at the lowest cost **maximizing rewards for our delegators**.
+ 
+------
+
+Do not hesitate to ask questions in our [Telegram](https://t.me/P2Pstaking) chat or contact Slava via sy@p2p.org. We are always open for communication.
+
+------
+
+**Web:** https://p2p.org
+
+**Twitter:** [@p2pvalidator](https://twitter.com/p2pvalidator)
+
+**Telegram:** https://t.me/P2Pstaking
 
 
 
