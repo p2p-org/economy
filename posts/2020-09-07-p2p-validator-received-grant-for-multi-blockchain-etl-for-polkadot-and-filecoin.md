@@ -1,6 +1,6 @@
 ---
-title: "P2P Validator working on Multi-blockchain ETL grant by W3F and Protocol labs"
-description: "P2P Validator working on Multi-blockchain ETL grant by W3F and Protocol labs"
+title: "P2P.ORG received grant for Multi-blockchain ETL for Polkadot and Filecoin"
+description: "P2P.ORG received grant for Multi-blockchain ETL for Polkadot and Filecoin"
 date: 2020-09-07
 thumbnail: 'http://url-to-thumbnail.jpg'
 heroImage: 'https://i.imgur.com/mRfVLnh.png'
@@ -20,7 +20,7 @@ Over the past few years, the world has seen the rise of blockchain interoperabil
 
 Imagine a situation where a user moves a chain A asset through bridge B to parachain X to open a Collateralized Debt Position (CDP), then uses received stablecoin to long a synthetic asset from parachain D on a margin trade chain E. Ten years ago this could sound like nonsense - but this is a reality now. To make efficient applications that would allow this behavior - the developers need appropriate tools.
 
-*“The data access velocity in decentralized systems is still insufficient to allow developers to build applications with convenient users' experience”*, says Konstantin Lomashuk, founder P2P Validator. *“We are moving much further by not only providing the data at high speed but allowing clients to merge several interchain requests in the single one.”*
+*"Default blockchain node interfaces are usually unsuited for complex or historical data queries. That makes building application on top of blockchains a complicated affair - you need to build your own data layer first. Interchain communication aggravets that problem even more"*, says Vasiliy Shapovalov, CTO of P2P Validator. *"Our goal is to exctract, clean, enrich, transform, and serve the blockchain data in way that will allow users to to merge several application-specific interchain requests in the single one."*
 
 To begin this journey, we've decided to create an ETL solution for blockchains with a GraphQL API for the collected data. The solution aims to add value and decrease development costs for every company or individual who is working on application development. GraphQL as an API query language has been chosen to unify the data interface to simplify the development process and provide the best quality real-time data for applications.
 
