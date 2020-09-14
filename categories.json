@@ -83,5 +83,10 @@
     "name": "serum",
     "description": "Serum is a high-throughput fast decentralized exchange providing on-chain order book and impressive user experience. Built on top of Solana.",
     "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
+    },
+  "solana": {
+    "name": "solana",
+    "description": "Solana is a novel high-performant blockchain supporting over 50,000 transactions per second without sharding.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   }
 }
