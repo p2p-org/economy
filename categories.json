@@ -76,7 +76,12 @@
   },
   "cardano": {
     "name": "cardano",
-    "description": "Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.",
+    "description": "Cardano is a blockchain platform based on fundamental research enabling scalable financial and social applications that can be formally verified.",
+    "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
+    },
+  "serum": {
+    "name": "serum",
+    "description": "Serum is a high-throughput fast decentralized exchange providing on-chain order book and impressive user experience. Built on top of Solana.",
     "subscribeLink": "https://p2p-5944353.hs-sites.com/staking-blog-subscribe"
   }
 }
