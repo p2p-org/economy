@@ -45,7 +45,7 @@ At the time of mainnet launch, the protocol will slash **only for double-signing
 
 ### About P2P Validator
 
-[P2P Validator](https://p2p.org) is a world-leading non-custodial staking provider securing more than $50 million by over 800 delegators across 15+ top-notch networks. Our team has close connections with Oasis team and we have participated in the incentivized testnet since the beginning. P2P Validator invested its own funds in Oasis project in 2018 and intends to support the network in the long term.
+[P2P Validator](https://p2p.org) is a world-leading non-custodial staking provider securing more than $200 million trusted by over 2000 delegators across 15+ top-notch networks. Our team has close connections with Oasis team and we have participated in the incentivized testnet since the beginning. P2P Validator invested its own funds in Oasis project in 2018 and intends to support the network in the long term.
 
 ### Useful Oasis resources
 
